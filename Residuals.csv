@@ -36,7 +36,7 @@ year,countrycode,ctrycode,country,resid_y,resid_x1,resid_x2,income1,region,post
 2000,AGO,AGO,Angola,2.337822,1.8358411,,Lower middle income,Sub-Saharan Africa,0
 2005,AGO,AGO,Angola,6.0863042,-2.3476131,,Lower middle income,Sub-Saharan Africa,0
 2010,AGO,AGO,Angola,.93121654,3.8781652,,Lower middle income,Sub-Saharan Africa,1
-2015,AGO,AGO,Angola,-4.5808845,.61330742,1.3045121e-15,Lower middle income,Sub-Saharan Africa,1
+2015,AGO,AGO,Angola,-4.5808845,.61330742,1.0408341e-15,Lower middle income,Sub-Saharan Africa,1
 2020,AGO,AGO,Angola,-3.4531441,-7.4764857,,Lower middle income,Sub-Saharan Africa,1
 1960,ALB,ALB,Albania,,,,Upper middle income,Europe & Central Asia,0
 1965,ALB,ALB,Albania,,,,Upper middle income,Europe & Central Asia,0
@@ -46,10 +46,10 @@ year,countrycode,ctrycode,country,resid_y,resid_x1,resid_x2,income1,region,post
 1985,ALB,ALB,Albania,-2.2611868,,,Upper middle income,Europe & Central Asia,0
 1990,ALB,ALB,Albania,-6.6546097,-1.8481985,,Upper middle income,Europe & Central Asia,0
 1995,ALB,ALB,Albania,3.0625963,-3.7436287,,Upper middle income,Europe & Central Asia,0
-2000,ALB,ALB,Albania,2.2781541,-3.8788722,-.0050134608,Upper middle income,Europe & Central Asia,0
+2000,ALB,ALB,Albania,2.2781541,-3.8788722,-.0052757156,Upper middle income,Europe & Central Asia,0
 2005,ALB,ALB,Albania,2.3270395,3.9157176,,Upper middle income,Europe & Central Asia,0
 2010,ALB,ALB,Albania,-1.0998615,9.8090439,,Upper middle income,Europe & Central Asia,1
-2015,ALB,ALB,Albania,.81252456,2.2000031,.0050134608,Upper middle income,Europe & Central Asia,1
+2015,ALB,ALB,Albania,.81252456,2.2000031,.0052757156,Upper middle income,Europe & Central Asia,1
 2020,ALB,ALB,Albania,3.4940732,-6.4540658,,Upper middle income,Europe & Central Asia,1
 1960,AND,AND,Andorra,,,,High income,Europe & Central Asia,0
 1965,AND,AND,Andorra,,,,High income,Europe & Central Asia,0
@@ -87,8 +87,8 @@ year,countrycode,ctrycode,country,resid_y,resid_x1,resid_x2,income1,region,post
 1995,ARG,ARG,Argentina,-.49069926,3.1298506,,Upper middle income,Latin America & Caribbean,0
 2000,ARG,ARG,Argentina,-2.5178521,-4.1823969,,Upper middle income,Latin America & Caribbean,0
 2005,ARG,ARG,Argentina,1.9319314,-16.601433,,Upper middle income,Latin America & Caribbean,0
-2010,ARG,ARG,Argentina,.42011788,-17.960218,-.0016317236,Upper middle income,Latin America & Caribbean,1
-2015,ARG,ARG,Argentina,-2.4240391,-17.473837,.0016317236,Upper middle income,Latin America & Caribbean,1
+2010,ARG,ARG,Argentina,.42011788,-17.960218,-.00082901365,Upper middle income,Latin America & Caribbean,1
+2015,ARG,ARG,Argentina,-2.4240391,-17.473837,.00082901365,Upper middle income,Latin America & Caribbean,1
 2020,ARG,ARG,Argentina,-.54818457,,,Upper middle income,Latin America & Caribbean,1
 1960,ARM,ARM,Armenia,,,,Upper middle income,Europe & Central Asia,0
 1965,ARM,ARM,Armenia,,,,Upper middle income,Europe & Central Asia,0
@@ -100,8 +100,8 @@ year,countrycode,ctrycode,country,resid_y,resid_x1,resid_x2,income1,region,post
 1995,ARM,ARM,Armenia,.63261855,-3.7656801,,Upper middle income,Europe & Central Asia,0
 2000,ARM,ARM,Armenia,4.4640026,-3.5840738,,Upper middle income,Europe & Central Asia,0
 2005,ARM,ARM,Armenia,2.6826565,-17.528969,,Upper middle income,Europe & Central Asia,0
-2010,ARM,ARM,Armenia,.95540029,.6006062,-.0038205113,Upper middle income,Europe & Central Asia,1
-2015,ARM,ARM,Armenia,2.4800012,8.4476624,.0038205113,Upper middle income,Europe & Central Asia,1
+2010,ARM,ARM,Armenia,.95540029,.6006062,-.0034021356,Upper middle income,Europe & Central Asia,1
+2015,ARM,ARM,Armenia,2.4800012,8.4476624,.0034021356,Upper middle income,Europe & Central Asia,1
 2020,ARM,ARM,Armenia,2.8560555,17.718239,,Upper middle income,Europe & Central Asia,1
 1970,ASM,ASM,,,,,,,0
 1977,ASM,ASM,,,,,,,0
@@ -147,8 +147,8 @@ year,countrycode,ctrycode,country,resid_y,resid_x1,resid_x2,income1,region,post
 1980,AUT,AUT,Austria,-.046602391,5.4165144,,High income,Europe & Central Asia,0
 1985,AUT,AUT,Austria,.83614075,6.5740442,,High income,Europe & Central Asia,0
 1990,AUT,AUT,Austria,2.2426322,13.907401,,High income,Europe & Central Asia,0
-1995,AUT,AUT,Austria,.51559913,15.124815,-.00018268888,High income,Europe & Central Asia,0
-2000,AUT,AUT,Austria,-.94072217,6.7614331,.00018268888,High income,Europe & Central Asia,0
+1995,AUT,AUT,Austria,.51559913,15.124815,-.0028113539,High income,Europe & Central Asia,0
+2000,AUT,AUT,Austria,-.94072217,6.7614331,.0028113539,High income,Europe & Central Asia,0
 2005,AUT,AUT,Austria,-1.0362686,3.7194285,,High income,Europe & Central Asia,0
 2010,AUT,AUT,Austria,-1.6762148,2.4065442,,High income,Europe & Central Asia,1
 2015,AUT,AUT,Austria,-.78948349,-5.7308707,,High income,Europe & Central Asia,1
@@ -176,7 +176,7 @@ year,countrycode,ctrycode,country,resid_y,resid_x1,resid_x2,income1,region,post
 1995,BDI,BDI,Burundi,-6.0041547,.71564049,,Low income,Sub-Saharan Africa,0
 2000,BDI,BDI,Burundi,-2.7501891,10.478358,,Low income,Sub-Saharan Africa,0
 2005,BDI,BDI,Burundi,-1.758355,2.1203883,,Low income,Sub-Saharan Africa,0
-2010,BDI,BDI,Burundi,.11257878,3.710624,-2.7755576e-17,Low income,Sub-Saharan Africa,1
+2010,BDI,BDI,Burundi,.11257878,3.710624,-1.3877788e-17,Low income,Sub-Saharan Africa,1
 2015,BDI,BDI,Burundi,-3.2746472,-.35511097,,Low income,Sub-Saharan Africa,1
 2020,BDI,BDI,Burundi,-2.1156471,7.058979,,Low income,Sub-Saharan Africa,1
 1960,BEL,BEL,Belgium,.85036731,-9.248683,,High income,Europe & Central Asia,0
@@ -185,9 +185,9 @@ year,countrycode,ctrycode,country,resid_y,resid_x1,resid_x2,income1,region,post
 1977,BEL,BEL,Belgium,-1.1499982,-10.222509,,High income,Europe & Central Asia,0
 1980,BEL,BEL,Belgium,.5842787,-11.882709,,High income,Europe & Central Asia,0
 1985,BEL,BEL,Belgium,1.066869,-14.382946,,High income,Europe & Central Asia,0
-1990,BEL,BEL,Belgium,2.0290732,12.117933,-.013626324,High income,Europe & Central Asia,0
-1995,BEL,BEL,Belgium,.38516888,23.829332,.0027583109,High income,Europe & Central Asia,0
-2000,BEL,BEL,Belgium,-.41247147,12.798724,.010868013,High income,Europe & Central Asia,0
+1990,BEL,BEL,Belgium,2.0290732,12.117933,-.01495409,High income,Europe & Central Asia,0
+1995,BEL,BEL,Belgium,.38516888,23.829332,.0011207379,High income,Europe & Central Asia,0
+2000,BEL,BEL,Belgium,-.41247147,12.798724,.013833352,High income,Europe & Central Asia,0
 2005,BEL,BEL,Belgium,-1.6756493,5.4255257,,High income,Europe & Central Asia,0
 2010,BEL,BEL,Belgium,-1.5336123,-3.5015397,,High income,Europe & Central Asia,1
 2015,BEL,BEL,Belgium,-.76743823,4.4277191,,High income,Europe & Central Asia,1
@@ -214,7 +214,7 @@ year,countrycode,ctrycode,country,resid_y,resid_x1,resid_x2,income1,region,post
 1990,BFA,BFA,Burkina Faso,.46445298,.66312933,,Low income,Sub-Saharan Africa,0
 1995,BFA,BFA,Burkina Faso,2.1892099,-2.7597239,,Low income,Sub-Saharan Africa,0
 2000,BFA,BFA,Burkina Faso,-.95734304,-1.4186387,,Low income,Sub-Saharan Africa,0
-2005,BFA,BFA,Burkina Faso,.27263847,-9.495224,-2.7755576e-17,Low income,Sub-Saharan Africa,0
+2005,BFA,BFA,Burkina Faso,.27263847,-9.495224,-1.3877788e-17,Low income,Sub-Saharan Africa,0
 2010,BFA,BFA,Burkina Faso,1.1477252,-7.2452097,,Low income,Sub-Saharan Africa,1
 2015,BFA,BFA,Burkina Faso,.67296392,-.15671633,,Low income,Sub-Saharan Africa,1
 2020,BFA,BFA,Burkina Faso,-.63412267,-5.0488706,,Low income,Sub-Saharan Africa,1
@@ -227,9 +227,9 @@ year,countrycode,ctrycode,country,resid_y,resid_x1,resid_x2,income1,region,post
 1990,BGD,BGD,Bangladesh,1.4243072,.43539941,,Lower middle income,South Asia,0
 1995,BGD,BGD,Bangladesh,-.89064801,2.4780178,,Lower middle income,South Asia,0
 2000,BGD,BGD,Bangladesh,-.14536668,3.4235976,,Lower middle income,South Asia,0
-2005,BGD,BGD,Bangladesh,2.1432707,-1.3179773,.007926614,Lower middle income,South Asia,0
-2010,BGD,BGD,Bangladesh,2.1569967,4.7896461,-.0031232787,Lower middle income,South Asia,1
-2015,BGD,BGD,Bangladesh,4.0645599,3.999289,-.0048033358,Lower middle income,South Asia,1
+2005,BGD,BGD,Bangladesh,2.1432707,-1.3179773,.0038852361,Lower middle income,South Asia,0
+2010,BGD,BGD,Bangladesh,2.1569967,4.7896461,-.0010501953,Lower middle income,South Asia,1
+2015,BGD,BGD,Bangladesh,4.0645599,3.999289,-.0028350407,Lower middle income,South Asia,1
 2020,BGD,BGD,Bangladesh,4.3636408,-9.9565907,,Lower middle income,South Asia,1
 1960,BGR,BGR,Bulgaria,,,,Upper middle income,Europe & Central Asia,0
 1965,BGR,BGR,Bulgaria,,,,Upper middle income,Europe & Central Asia,0
@@ -239,10 +239,10 @@ year,countrycode,ctrycode,country,resid_y,resid_x1,resid_x2,income1,region,post
 1985,BGR,BGR,Bulgaria,1.8556422,,,Upper middle income,Europe & Central Asia,0
 1990,BGR,BGR,Bulgaria,-4.7507267,30.360958,,Upper middle income,Europe & Central Asia,0
 1995,BGR,BGR,Bulgaria,-5.4019737,-14.911117,,Upper middle income,Europe & Central Asia,0
-2000,BGR,BGR,Bulgaria,1.9451642,-15.283558,-.0048137922,Upper middle income,Europe & Central Asia,0
-2005,BGR,BGR,Bulgaria,1.819888,6.4666452,-.0042571854,Upper middle income,Europe & Central Asia,0
-2010,BGR,BGR,Bulgaria,-1.1948025,10.671537,-.00090065884,Upper middle income,Europe & Central Asia,1
-2015,BGR,BGR,Bulgaria,1.4147567,-3.9952497,.0099716363,Upper middle income,Europe & Central Asia,1
+2000,BGR,BGR,Bulgaria,1.9451642,-15.283558,-.0042136214,Upper middle income,Europe & Central Asia,0
+2005,BGR,BGR,Bulgaria,1.819888,6.4666452,-.0062669632,Upper middle income,Europe & Central Asia,0
+2010,BGR,BGR,Bulgaria,-1.1948025,10.671537,.00017480782,Upper middle income,Europe & Central Asia,1
+2015,BGR,BGR,Bulgaria,1.4147567,-3.9952497,.010305777,Upper middle income,Europe & Central Asia,1
 2020,BGR,BGR,Bulgaria,2.7849054,-13.309216,,Upper middle income,Europe & Central Asia,1
 1960,BHR,BHR,Bahrain,,,,High income,Middle East & North Africa,0
 1965,BHR,BHR,Bahrain,,,,High income,Middle East & North Africa,0
@@ -265,7 +265,7 @@ year,countrycode,ctrycode,country,resid_y,resid_x1,resid_x2,income1,region,post
 1985,BHS,BHS,"Bahamas, The",1.43264,-17.582214,,High income,Latin America & Caribbean,0
 1990,BHS,BHS,"Bahamas, The",-1.1480492,-8.1245832,,High income,Latin America & Caribbean,0
 1995,BHS,BHS,"Bahamas, The",1.9653792,-5.190836,,High income,Latin America & Caribbean,0
-2000,BHS,BHS,Bahamas,-.6478923,-7.7728844,-2.7755576e-17,High income,Latin America & Caribbean,0
+2000,BHS,BHS,Bahamas,-.6478923,-7.7728844,4.1633363e-17,High income,Latin America & Caribbean,0
 2005,BHS,BHS,Bahamas,-2.6736155,-1.6814823,,High income,Latin America & Caribbean,0
 2010,BHS,BHS,Bahamas,-2.105799,3.2925084,,High income,Latin America & Caribbean,1
 2015,BHS,BHS,Bahamas,-1.5554129,-9.3014078,,High income,Latin America & Caribbean,1
@@ -278,8 +278,8 @@ year,countrycode,ctrycode,country,resid_y,resid_x1,resid_x2,income1,region,post
 1985,BIH,BIH,Bosnia and Herzegovina,,,,Upper middle income,Europe & Central Asia,0
 1990,BIH,BIH,Bosnia and Herzegovina,-4.1972442,,,Upper middle income,Europe & Central Asia,0
 1995,BIH,BIH,Bosnia and Herzegovina,14.769565,40.139561,,Upper middle income,Europe & Central Asia,0
-2000,BIH,BIH,Bosnia and Herzegovina,-2.97351,-6.0106244,-.00017283525,Upper middle income,Europe & Central Asia,0
-2005,BIH,BIH,Bosnia and Herzegovina,-2.064924,-4.4942303,.00017283525,Upper middle income,Europe & Central Asia,0
+2000,BIH,BIH,Bosnia and Herzegovina,-2.97351,-6.0106244,.0056454027,Upper middle income,Europe & Central Asia,0
+2005,BIH,BIH,Bosnia and Herzegovina,-2.064924,-4.4942303,-.0056454027,Upper middle income,Europe & Central Asia,0
 2010,BIH,BIH,Bosnia and Herzegovina,-3.9928055,-5.2782536,,Upper middle income,Europe & Central Asia,1
 2015,BIH,BIH,Bosnia and Herzegovina,-.93528706,-7.8626585,,Upper middle income,Europe & Central Asia,1
 2020,BIH,BIH,Bosnia and Herzegovina,-.60579318,-16.493793,,Upper middle income,Europe & Central Asia,1
@@ -302,8 +302,8 @@ year,countrycode,ctrycode,country,resid_y,resid_x1,resid_x2,income1,region,post
 1977,BLZ,BLZ,Belize,-.26358134,.85195619,,Upper middle income,Latin America & Caribbean,0
 1980,BLZ,BLZ,Belize,-.072435535,-5.9890108,,Upper middle income,Latin America & Caribbean,0
 1985,BLZ,BLZ,Belize,3.7923465,-5.7629895,,Upper middle income,Latin America & Caribbean,0
-1990,BLZ,BLZ,Belize,6.3351502,-5.9637971,.011096897,Upper middle income,Latin America & Caribbean,0
-1995,BLZ,BLZ,Belize,-1.832301,-1.8723505,-.011096897,Upper middle income,Latin America & Caribbean,0
+1990,BLZ,BLZ,Belize,6.3351502,-5.9637971,.0076302066,Upper middle income,Latin America & Caribbean,0
+1995,BLZ,BLZ,Belize,-1.832301,-1.8723505,-.0076302066,Upper middle income,Latin America & Caribbean,0
 2000,BLZ,BLZ,Belize,1.9375261,2.2503424,,Upper middle income,Latin America & Caribbean,0
 2005,BLZ,BLZ,Belize,-3.5145402,4.9371223,,Upper middle income,Latin America & Caribbean,0
 2010,BLZ,BLZ,Belize,-2.7617316,4.8103013,,Upper middle income,Latin America & Caribbean,1
@@ -329,24 +329,24 @@ year,countrycode,ctrycode,country,resid_y,resid_x1,resid_x2,income1,region,post
 1980,BOL,BOL,Bolivia,-3.2033715,-12.809002,,Lower middle income,Latin America & Caribbean,0
 1985,BOL,BOL,Bolivia,-2.1979172,-12.692587,,Lower middle income,Latin America & Caribbean,0
 1990,BOL,BOL,Bolivia,2.6718764,7.381711,,Lower middle income,Latin America & Caribbean,0
-1995,BOL,BOL,Bolivia,.17272723,24.191664,.0023484295,Lower middle income,Latin America & Caribbean,0
-2000,BOL,BOL,Bolivia (Plurinational State of),-1.3619105,16.443556,.0025465421,Lower middle income,Latin America & Caribbean,0
-2005,BOL,BOL,Bolivia (Plurinational State of),.4210231,-7.4688144,.0027145452,Lower middle income,Latin America & Caribbean,0
-2010,BOL,BOL,Bolivia (Plurinational State of),1.3025141,-5.7857261,-.0077343355,Lower middle income,Latin America & Caribbean,1
-2015,BOL,BOL,Bolivia (Plurinational State of),.65055972,11.214818,.00012481879,Lower middle income,Latin America & Caribbean,1
+1995,BOL,BOL,Bolivia,.17272723,24.191664,.00072321232,Lower middle income,Latin America & Caribbean,0
+2000,BOL,BOL,Bolivia (Plurinational State of),-1.3619105,16.443556,.0043947878,Lower middle income,Latin America & Caribbean,0
+2005,BOL,BOL,Bolivia (Plurinational State of),.4210231,-7.4688144,-9.4837887e-06,Lower middle income,Latin America & Caribbean,0
+2010,BOL,BOL,Bolivia (Plurinational State of),1.3025141,-5.7857261,-.00628566,Lower middle income,Latin America & Caribbean,1
+2015,BOL,BOL,Bolivia (Plurinational State of),.65055972,11.214818,.0011771435,Lower middle income,Latin America & Caribbean,1
 2020,BOL,BOL,Bolivia (Plurinational State of),-1.204022,24.707104,,Lower middle income,Latin America & Caribbean,1
 1960,BRA,BRA,Brazil,-1.6560898,-7.0528779,,Upper middle income,Latin America & Caribbean,0
 1965,BRA,BRA,Brazil,-.38202986,-5.2255001,,Upper middle income,Latin America & Caribbean,0
 1970,BRA,BRA,Brazil,4.3987603,5.4351268,,Upper middle income,Latin America & Caribbean,0
 1977,BRA,BRA,Brazil,1.769097,5.3625908,,Upper middle income,Latin America & Caribbean,0
-1980,BRA,BRA,Brazil,-.31505388,-.84619224,.00085470598,Upper middle income,Latin America & Caribbean,0
-1985,BRA,BRA,Brazil,1.1310433,17.706959,-.0035933165,Upper middle income,Latin America & Caribbean,0
-1990,BRA,BRA,Brazil,-.17440532,30.228287,-.0088745384,Upper middle income,Latin America & Caribbean,0
-1995,BRA,BRA,Brazil,-1.8717792,-10.108624,-.018032124,Upper middle income,Latin America & Caribbean,0
-2000,BRA,BRA,Brazil,-.83854848,-19.038504,-.0038781965,Upper middle income,Latin America & Caribbean,0
-2005,BRA,BRA,Brazil,.15026557,-18.456728,.0047374922,Upper middle income,Latin America & Caribbean,0
-2010,BRA,BRA,Brazil,.29737812,-1.2291567,.01067669,Upper middle income,Latin America & Caribbean,1
-2015,BRA,BRA,Brazil,-3.0021951,-.037997618,.018109286,Upper middle income,Latin America & Caribbean,1
+1980,BRA,BRA,Brazil,-.31505388,-.84619224,.0041243751,Upper middle income,Latin America & Caribbean,0
+1985,BRA,BRA,Brazil,1.1310433,17.706959,-.001961543,Upper middle income,Latin America & Caribbean,0
+1990,BRA,BRA,Brazil,-.17440532,30.228287,-.0072194468,Upper middle income,Latin America & Caribbean,0
+1995,BRA,BRA,Brazil,-1.8717792,-10.108624,-.016781285,Upper middle income,Latin America & Caribbean,0
+2000,BRA,BRA,Brazil,-.83854848,-19.038504,-.0016119798,Upper middle income,Latin America & Caribbean,0
+2005,BRA,BRA,Brazil,.15026557,-18.456728,-.00026783335,Upper middle income,Latin America & Caribbean,0
+2010,BRA,BRA,Brazil,.29737812,-1.2291567,.0094424533,Upper middle income,Latin America & Caribbean,1
+2015,BRA,BRA,Brazil,-3.0021951,-.037997618,.014275259,Upper middle income,Latin America & Caribbean,1
 2020,BRA,BRA,Brazil,.49355739,3.2626143,,Upper middle income,Latin America & Caribbean,1
 1960,BRB,BRB,Barbados,-.039259139,,,High income,Latin America & Caribbean,0
 1965,BRB,BRB,Barbados,4.2168803,8.4247332,,High income,Latin America & Caribbean,0
@@ -355,7 +355,7 @@ year,countrycode,ctrycode,country,resid_y,resid_x1,resid_x2,income1,region,post
 1980,BRB,BRB,Barbados,.31623751,-15.158903,,High income,Latin America & Caribbean,0
 1985,BRB,BRB,Barbados,2.2756114,-17.842487,,High income,Latin America & Caribbean,0
 1990,BRB,BRB,Barbados,-1.4430569,-15.275691,,High income,Latin America & Caribbean,0
-1995,BRB,BRB,Barbados,1.0324907,-9.9213028,-2.7755576e-17,High income,Latin America & Caribbean,0
+1995,BRB,BRB,Barbados,1.0324907,-9.9213028,-1.3877788e-17,High income,Latin America & Caribbean,0
 2000,BRB,BRB,Barbados,-.95274061,1.0961152,,High income,Latin America & Caribbean,0
 2005,BRB,BRB,Barbados,-.88261348,9.6603889,,High income,Latin America & Caribbean,0
 2010,BRB,BRB,Barbados,-3.1159749,20.493816,,High income,Latin America & Caribbean,1
@@ -382,10 +382,10 @@ year,countrycode,ctrycode,country,resid_y,resid_x1,resid_x2,income1,region,post
 1985,BTN,BTN,Bhutan,3.9921629,.6923492,,Lower middle income,South Asia,0
 1990,BTN,BTN,Bhutan,2.9584703,-13.850595,,Lower middle income,South Asia,0
 1995,BTN,BTN,Bhutan,.70747977,-11.502728,,Lower middle income,South Asia,0
-2000,BTN,BTN,Bhutan,-.69974846,-6.2301917,-.011828491,Lower middle income,South Asia,0
-2005,BTN,BTN,Bhutan,2.2049391,-7.825254,.0074754241,Lower middle income,South Asia,0
-2010,BTN,BTN,Bhutan,1.9103833,3.5830944,-.0014458548,Lower middle income,South Asia,1
-2015,BTN,BTN,Bhutan,1.2512782,8.3405933,.0057989219,Lower middle income,South Asia,1
+2000,BTN,BTN,Bhutan,-.69974846,-6.2301917,-.0068561719,Lower middle income,South Asia,0
+2005,BTN,BTN,Bhutan,2.2049391,-7.825254,.003413226,Lower middle income,South Asia,0
+2010,BTN,BTN,Bhutan,1.9103833,3.5830944,-.0020584422,Lower middle income,South Asia,1
+2015,BTN,BTN,Bhutan,1.2512782,8.3405933,.0055013881,Lower middle income,South Asia,1
 2020,BTN,BTN,Bhutan,-3.0980144,20.02989,,Lower middle income,South Asia,1
 1960,BWA,BWA,Botswana,-3.6786234,,,Upper middle income,Sub-Saharan Africa,0
 1965,BWA,BWA,Botswana,.15671553,,,Upper middle income,Sub-Saharan Africa,0
@@ -395,10 +395,10 @@ year,countrycode,ctrycode,country,resid_y,resid_x1,resid_x2,income1,region,post
 1985,BWA,BWA,Botswana,4.7982054,-4.6832385,,Upper middle income,Sub-Saharan Africa,0
 1990,BWA,BWA,Botswana,-.47923201,-6.6338406,,Upper middle income,Sub-Saharan Africa,0
 1995,BWA,BWA,Botswana,-1.2126807,-11.128433,,Upper middle income,Sub-Saharan Africa,0
-2000,BWA,BWA,Botswana,-3.665319,-8.569314,-.037150718,Upper middle income,Sub-Saharan Africa,0
-2005,BWA,BWA,Botswana,-4.7096357,-13.917143,.0092800856,Upper middle income,Sub-Saharan Africa,0
-2010,BWA,BWA,Botswana,1.023788,-9.4792614,.015007097,Upper middle income,Sub-Saharan Africa,1
-2015,BWA,BWA,Botswana,-2.610322,-5.5006108,.012863535,Upper middle income,Sub-Saharan Africa,1
+2000,BWA,BWA,Botswana,-3.665319,-8.569314,-.031745926,Upper middle income,Sub-Saharan Africa,0
+2005,BWA,BWA,Botswana,-4.7096357,-13.917143,.0073395516,Upper middle income,Sub-Saharan Africa,0
+2010,BWA,BWA,Botswana,1.023788,-9.4792614,.013374534,Upper middle income,Sub-Saharan Africa,1
+2015,BWA,BWA,Botswana,-2.610322,-5.5006108,.011031841,Upper middle income,Sub-Saharan Africa,1
 2020,BWA,BWA,Botswana,-1.8064162,-6.9865432,,Upper middle income,Sub-Saharan Africa,1
 1960,CAF,CAF,Central African Republic,-.58944249,8.9780798,,Low income,Sub-Saharan Africa,0
 1965,CAF,CAF,Central African Republic,.61163563,16.702507,,Low income,Sub-Saharan Africa,0
@@ -409,7 +409,7 @@ year,countrycode,ctrycode,country,resid_y,resid_x1,resid_x2,income1,region,post
 1990,CAF,CAF,Central African Republic,-.93544108,-3.1604638,,Low income,Sub-Saharan Africa,0
 1995,CAF,CAF,Central African Republic,.36193335,-3.8822863,,Low income,Sub-Saharan Africa,0
 2000,CAF,CAF,Central African Republic,-2.0984733,-1.5372868,,Low income,Sub-Saharan Africa,0
-2005,CAF,CAF,Central African Republic,1.8283119,-10.966726,-5.5511151e-17,Low income,Sub-Saharan Africa,0
+2005,CAF,CAF,Central African Republic,1.8283119,-10.966726,0,Low income,Sub-Saharan Africa,0
 2010,CAF,CAF,Central African Republic,-4.643909,-15.72395,,Low income,Sub-Saharan Africa,1
 2015,CAF,CAF,Central African Republic,1.7320696,-3.1623373,,Low income,Sub-Saharan Africa,1
 2020,CAF,CAF,Central African Republic,-.51859713,,,Low income,Sub-Saharan Africa,1
@@ -417,11 +417,11 @@ year,countrycode,ctrycode,country,resid_y,resid_x1,resid_x2,income1,region,post
 1965,CAN,CAN,Canada,-.42500365,-19.333279,,High income,North America,0
 1970,CAN,CAN,Canada,-1.4555061,-15.691624,,High income,North America,0
 1977,CAN,CAN,Canada,-.046394866,-11.060627,,High income,North America,0
-1980,CAN,CAN,Canada,1.1980602,-1.1300083,.010647056,High income,North America,0
+1980,CAN,CAN,Canada,1.1980602,-1.1300083,.0095650582,High income,North America,0
 1985,CAN,CAN,Canada,1.4756584,-4.3730097,,High income,North America,0
-1990,CAN,CAN,Canada,1.0859722,2.9450696,.0062041371,High income,North America,0
+1990,CAN,CAN,Canada,1.0859722,2.9450696,.0047582439,High income,North America,0
 1995,CAN,CAN,Canada,.76670295,4.1787357,,High income,North America,0
-2000,CAN,CAN,Canada,-.055649202,32.411095,-.016851192,High income,North America,0
+2000,CAN,CAN,Canada,-.055649202,32.411095,-.014323302,High income,North America,0
 2005,CAN,CAN,Canada,-1.6714282,40.597149,,High income,North America,0
 2010,CAN,CAN,Canada,-.036538772,,,High income,North America,1
 2015,CAN,CAN,Canada,-.55426192,,,High income,North America,1
@@ -436,8 +436,8 @@ year,countrycode,ctrycode,country,resid_y,resid_x1,resid_x2,income1,region,post
 1995,CHE,CHE,Switzerland,-.27702582,8.9509249,,High income,Europe & Central Asia,0
 2000,CHE,CHE,Switzerland,-.97316074,2.1532238,,High income,Europe & Central Asia,0
 2005,CHE,CHE,Switzerland,-.55492276,4.2681565,,High income,Europe & Central Asia,0
-2010,CHE,CHE,Switzerland,-.78040189,12.745499,-.0053910594,High income,Europe & Central Asia,1
-2015,CHE,CHE,Switzerland,-.53343093,20.173231,.0053910594,High income,Europe & Central Asia,1
+2010,CHE,CHE,Switzerland,-.78040189,12.745499,-.0043859342,High income,Europe & Central Asia,1
+2015,CHE,CHE,Switzerland,-.53343093,20.173231,.0043859342,High income,Europe & Central Asia,1
 2020,CHE,CHE,Switzerland,.26922539,,,High income,Europe & Central Asia,1
 1960,CHI,CHI,Channel Islands,,,,High income,Europe & Central Asia,0
 1965,CHI,CHI,Channel Islands,,,,High income,Europe & Central Asia,0
@@ -457,13 +457,13 @@ year,countrycode,ctrycode,country,resid_y,resid_x1,resid_x2,income1,region,post
 1970,CHL,CHL,Chile,-4.6747675,-23.529829,,High income,Latin America & Caribbean,0
 1977,CHL,CHL,Chile,-1.7226512,-13.796741,,High income,Latin America & Caribbean,0
 1980,CHL,CHL,Chile,-2.1439476,18.133354,,High income,Latin America & Caribbean,0
-1985,CHL,CHL,Chile,2.4848359,7.3622761,.0010271096,High income,Latin America & Caribbean,0
-1990,CHL,CHL,Chile,5.0519061,-1.0836654,-.0011360745,High income,Latin America & Caribbean,0
-1995,CHL,CHL,Chile,1.6783118,1.4055274,.0012096318,High income,Latin America & Caribbean,0
-2000,CHL,CHL,Chile,.71030986,8.5549002,.0012354172,High income,Latin America & Caribbean,0
-2005,CHL,CHL,Chile,.40859464,4.2520933,-.00042219026,High income,Latin America & Caribbean,0
-2010,CHL,CHL,Chile,1.52737,4.6036444,-.0014413487,High income,Latin America & Caribbean,1
-2015,CHL,CHL,Chile,-1.0254027,12.95081,-.00047254498,High income,Latin America & Caribbean,1
+1985,CHL,CHL,Chile,2.4848359,7.3622761,-.0019305542,High income,Latin America & Caribbean,0
+1990,CHL,CHL,Chile,5.0519061,-1.0836654,-.0032670402,High income,Latin America & Caribbean,0
+1995,CHL,CHL,Chile,1.6783118,1.4055274,.00055646,High income,Latin America & Caribbean,0
+2000,CHL,CHL,Chile,.71030986,8.5549002,.0042461697,High income,Latin America & Caribbean,0
+2005,CHL,CHL,Chile,.40859464,4.2520933,-.0022265217,High income,Latin America & Caribbean,0
+2010,CHL,CHL,Chile,1.52737,4.6036444,.000056203255,High income,Latin America & Caribbean,1
+2015,CHL,CHL,Chile,-1.0254027,12.95081,.0025652833,High income,Latin America & Caribbean,1
 2020,CHL,CHL,Chile,.50140864,9.2710896,,High income,Latin America & Caribbean,1
 1960,CHN,CHN,China,-11.791825,,,Upper middle income,East Asia & Pacific,0
 1965,CHN,CHN,China,-5.9495969,,,Upper middle income,East Asia & Pacific,0
@@ -473,9 +473,9 @@ year,countrycode,ctrycode,country,resid_y,resid_x1,resid_x2,income1,region,post
 1985,CHN,CHN,China,.80934966,-11.445461,,Upper middle income,East Asia & Pacific,0
 1990,CHN,CHN,China,5.0579758,-6.3074203,,Upper middle income,East Asia & Pacific,0
 1995,CHN,CHN,China,1.6220493,-6.9961405,,Upper middle income,East Asia & Pacific,0
-2000,CHN,CHN,China,2.0519335,6.6001129,-.021694945,Upper middle income,East Asia & Pacific,0
-2005,CHN,CHN,China,5.6077247,-15.958979,.0040875487,Upper middle income,East Asia & Pacific,0
-2010,CHN,CHN,China,4.2199697,-6.5241661,.017607398,Upper middle income,East Asia & Pacific,1
+2000,CHN,CHN,China,2.0519335,6.6001129,-.019969165,Upper middle income,East Asia & Pacific,0
+2005,CHN,CHN,China,5.6077247,-15.958979,.00083649019,Upper middle income,East Asia & Pacific,0
+2010,CHN,CHN,China,4.2199697,-6.5241661,.019132676,Upper middle income,East Asia & Pacific,1
 2015,CHN,CHN,China,3.6435719,13.641968,,Upper middle income,East Asia & Pacific,1
 2020,CHN,CHN,China,3.1060617,26.990086,,Upper middle income,East Asia & Pacific,1
 1960,CIV,CIV,Côte d'Ivoire,5.6551237,10.499873,,Lower middle income,Sub-Saharan Africa,0
@@ -486,8 +486,8 @@ year,countrycode,ctrycode,country,resid_y,resid_x1,resid_x2,income1,region,post
 1985,CIV,CIV,Côte d'Ivoire,-1.5577544,13.072406,,Lower middle income,Sub-Saharan Africa,0
 1990,CIV,CIV,Côte d'Ivoire,-3.1471224,10.440022,,Lower middle income,Sub-Saharan Africa,0
 1995,CIV,CIV,Côte d'Ivoire,.33092567,-7.6074448,,Lower middle income,Sub-Saharan Africa,0
-2000,CIV,CIV,Côte d'Ivoire,-5.69485,-14.98627,.0095819859,Lower middle income,Sub-Saharan Africa,0
-2005,CIV,CIV,Côte d'Ivoire,-2.5725482,-17.055067,-.0095819859,Lower middle income,Sub-Saharan Africa,0
+2000,CIV,CIV,Côte d'Ivoire,-5.69485,-14.98627,.012365701,Lower middle income,Sub-Saharan Africa,0
+2005,CIV,CIV,Côte d'Ivoire,-2.5725482,-17.055067,-.012365701,Lower middle income,Sub-Saharan Africa,0
 2010,CIV,CIV,Côte d'Ivoire,.26598027,-15.277861,,Lower middle income,Sub-Saharan Africa,1
 2015,CIV,CIV,Côte d'Ivoire,1.9915433,-12.500348,,Lower middle income,Sub-Saharan Africa,1
 2020,CIV,CIV,Côte d'Ivoire,1.2655205,-16.185734,,Lower middle income,Sub-Saharan Africa,1
@@ -499,9 +499,9 @@ year,countrycode,ctrycode,country,resid_y,resid_x1,resid_x2,income1,region,post
 1985,CMR,CMR,Cameroon,-1.677634,2.6364496,,Lower middle income,Sub-Saharan Africa,0
 1990,CMR,CMR,Cameroon,-5.0958266,-1.4851413,,Lower middle income,Sub-Saharan Africa,0
 1995,CMR,CMR,Cameroon,-.40668699,-8.0201845,,Lower middle income,Sub-Saharan Africa,0
-2000,CMR,CMR,Cameroon,.255151,-8.0946255,-.0024590802,Lower middle income,Sub-Saharan Africa,0
-2005,CMR,CMR,Cameroon,-1.4965299,-16.730232,.004382784,Lower middle income,Sub-Saharan Africa,0
-2010,CMR,CMR,Cameroon,-.60514927,-13.030929,-.0019237038,Lower middle income,Sub-Saharan Africa,1
+2000,CMR,CMR,Cameroon,.255151,-8.0946255,-.00028904231,Lower middle income,Sub-Saharan Africa,0
+2005,CMR,CMR,Cameroon,-1.4965299,-16.730232,.0011593428,Lower middle income,Sub-Saharan Africa,0
+2010,CMR,CMR,Cameroon,-.60514927,-13.030929,-.00087030052,Lower middle income,Sub-Saharan Africa,1
 2015,CMR,CMR,Cameroon,-.43973255,-11.165215,,Lower middle income,Sub-Saharan Africa,1
 2020,CMR,CMR,Cameroon,-1.0876023,,,Lower middle income,Sub-Saharan Africa,1
 1960,COD,COD,"Congo, Dem. Rep.",2.4980257,,,Low income,Sub-Saharan Africa,0
@@ -512,9 +512,9 @@ year,countrycode,ctrycode,country,resid_y,resid_x1,resid_x2,income1,region,post
 1985,COD,COD,"Congo, Dem. Rep.",.66403556,,,Low income,Sub-Saharan Africa,0
 1990,COD,COD,"Congo, Dem. Rep.",-8.6436644,,,Low income,Sub-Saharan Africa,0
 1995,COD,COD,"Congo, Dem. Rep.",-4.675981,,,Low income,Sub-Saharan Africa,0
-2000,COD,COD,"Congo, Democratic Republic of the",-2.8965213,5.3451705,-.0058479831,Low income,Sub-Saharan Africa,0
+2000,COD,COD,"Congo, Democratic Republic of the",-2.8965213,5.3451705,-.0064029689,Low income,Sub-Saharan Africa,0
 2005,COD,COD,"Congo, Democratic Republic of the",1.1483816,-.67213416,,Low income,Sub-Saharan Africa,0
-2010,COD,COD,"Congo, Democratic Republic of the",3.1410742,.61003411,.0058479831,Low income,Sub-Saharan Africa,1
+2010,COD,COD,"Congo, Democratic Republic of the",3.1410742,.61003411,.0064029689,Low income,Sub-Saharan Africa,1
 2015,COD,COD,"Congo, Democratic Republic of the",.50449264,-.29921973,,Low income,Sub-Saharan Africa,1
 2020,COD,COD,"Congo, Democratic Republic of the",3.3143666,-4.9838505,,Low income,Sub-Saharan Africa,1
 1960,COG,COG,"Congo, Rep.",-.64884365,20.862961,,Lower middle income,Sub-Saharan Africa,0
@@ -526,8 +526,8 @@ year,countrycode,ctrycode,country,resid_y,resid_x1,resid_x2,income1,region,post
 1990,COG,COG,"Congo, Rep.",-1.1450123,-5.3103924,,Lower middle income,Sub-Saharan Africa,0
 1995,COG,COG,"Congo, Rep.",-1.629779,-10.076859,,Lower middle income,Sub-Saharan Africa,0
 2000,COG,COG,Congo,-.96505171,-10.538026,,Lower middle income,Sub-Saharan Africa,0
-2005,COG,COG,Congo,.17146696,-18.894968,.00070978526,Lower middle income,Sub-Saharan Africa,0
-2010,COG,COG,Congo,1.6987113,-19.16161,-.00070978526,Lower middle income,Sub-Saharan Africa,1
+2005,COG,COG,Congo,.17146696,-18.894968,.0016433349,Lower middle income,Sub-Saharan Africa,0
+2010,COG,COG,Congo,1.6987113,-19.16161,-.0016433349,Lower middle income,Sub-Saharan Africa,1
 2015,COG,COG,Congo,-6.2988749,-11.904201,,Lower middle income,Sub-Saharan Africa,1
 2020,COG,COG,Congo,-4.1146936,,,Lower middle income,Sub-Saharan Africa,1
 1960,COL,COL,Colombia,-.96015674,11.860111,,Upper middle income,Latin America & Caribbean,0
@@ -537,11 +537,11 @@ year,countrycode,ctrycode,country,resid_y,resid_x1,resid_x2,income1,region,post
 1980,COL,COL,Colombia,-.31241727,10.086149,,Upper middle income,Latin America & Caribbean,0
 1985,COL,COL,Colombia,.66743165,-.41722214,,Upper middle income,Latin America & Caribbean,0
 1990,COL,COL,Colombia,2.7828231,-4.8176665,,Upper middle income,Latin America & Caribbean,0
-1995,COL,COL,Colombia,-2.4317367,-1.3943434,-.01078122,Upper middle income,Latin America & Caribbean,0
-2000,COL,COL,Colombia,-.7784375,-13.582629,-.0095185628,Upper middle income,Latin America & Caribbean,0
-2005,COL,COL,Colombia,.72698855,-14.797438,.0052166348,Upper middle income,Latin America & Caribbean,0
-2010,COL,COL,Colombia,1.5759532,-11.1868,.0049137776,Upper middle income,Latin America & Caribbean,1
-2015,COL,COL,Colombia,-.74775767,-1.0450042,.010169371,Upper middle income,Latin America & Caribbean,1
+1995,COL,COL,Colombia,-2.4317367,-1.3943434,-.0096924994,Upper middle income,Latin America & Caribbean,0
+2000,COL,COL,Colombia,-.7784375,-13.582629,-.0076827514,Upper middle income,Latin America & Caribbean,0
+2005,COL,COL,Colombia,.72698855,-14.797438,.0012944159,Upper middle income,Latin America & Caribbean,0
+2010,COL,COL,Colombia,1.5759532,-11.1868,.0045605246,Upper middle income,Latin America & Caribbean,1
+2015,COL,COL,Colombia,-.74775767,-1.0450042,.01152031,Upper middle income,Latin America & Caribbean,1
 2020,COL,COL,Colombia,.97960764,-2.514384,,Upper middle income,Latin America & Caribbean,1
 1960,COM,COM,Comoros,,,,Lower middle income,Sub-Saharan Africa,0
 1965,COM,COM,Comoros,,,,Lower middle income,Sub-Saharan Africa,0
@@ -551,9 +551,9 @@ year,countrycode,ctrycode,country,resid_y,resid_x1,resid_x2,income1,region,post
 1985,COM,COM,Comoros,-1.1616689,1.4471228,,Lower middle income,Sub-Saharan Africa,0
 1990,COM,COM,Comoros,1.4661485,1.4610962,,Lower middle income,Sub-Saharan Africa,0
 1995,COM,COM,Comoros,-.64463603,-1.3696874,,Lower middle income,Sub-Saharan Africa,0
-2000,COM,COM,Comoros,.22353983,-.53166467,.0065342747,Lower middle income,Sub-Saharan Africa,0
+2000,COM,COM,Comoros,.22353983,-.53166467,.0069112373,Lower middle income,Sub-Saharan Africa,0
 2005,COM,COM,Comoros,-1.6349326,-5.1897984,,Lower middle income,Sub-Saharan Africa,0
-2010,COM,COM,Comoros,-.60698414,-.96844488,-.0065342747,Lower middle income,Sub-Saharan Africa,1
+2010,COM,COM,Comoros,-.60698414,-.96844488,-.0069112373,Lower middle income,Sub-Saharan Africa,1
 2015,COM,COM,Comoros,-.66783893,1.8874971,,Lower middle income,Sub-Saharan Africa,1
 2020,COM,COM,Comoros,-.67891413,-4.1762834,,Lower middle income,Sub-Saharan Africa,1
 1960,CPV,CPV,Cabo Verde,,,,Lower middle income,Sub-Saharan Africa,0
@@ -564,8 +564,8 @@ year,countrycode,ctrycode,country,resid_y,resid_x1,resid_x2,income1,region,post
 1985,CPV,CPV,Cabo Verde,-1.5057212,-15.464402,,Lower middle income,Sub-Saharan Africa,0
 1990,CPV,CPV,Cabo Verde,2.3569295,-9.4776421,,Lower middle income,Sub-Saharan Africa,0
 1995,CPV,CPV,Cabo Verde,4.406075,1.9787291,,Lower middle income,Sub-Saharan Africa,0
-2000,CPV,CPV,Cabo Verde,-.2612766,5.8705587,-.0055901338,Lower middle income,Sub-Saharan Africa,0
-2005,CPV,CPV,Cabo Verde,.22441648,2.8195503,.0055901338,Lower middle income,Sub-Saharan Africa,0
+2000,CPV,CPV,Cabo Verde,-.2612766,5.8705587,-.002798782,Lower middle income,Sub-Saharan Africa,0
+2005,CPV,CPV,Cabo Verde,.22441648,2.8195503,.002798782,Lower middle income,Sub-Saharan Africa,0
 2010,CPV,CPV,Cabo Verde,-3.7602758,8.9325056,,Lower middle income,Sub-Saharan Africa,1
 2015,CPV,CPV,Cabo Verde,.35068786,2.0705397,,Lower middle income,Sub-Saharan Africa,1
 2020,CPV,CPV,Cabo Verde,-1.8609222,11.263783,,Lower middle income,Sub-Saharan Africa,1
@@ -574,13 +574,13 @@ year,countrycode,ctrycode,country,resid_y,resid_x1,resid_x2,income1,region,post
 1970,CRI,CRI,Costa Rica,-.18556814,13.005345,,Upper middle income,Latin America & Caribbean,0
 1977,CRI,CRI,Costa Rica,-.13104957,8.3245668,,Upper middle income,Latin America & Caribbean,0
 1980,CRI,CRI,Costa Rica,-2.5765471,-3.0501103,,Upper middle income,Latin America & Caribbean,0
-1985,CRI,CRI,Costa Rica,-.10123445,-9.3109159,-.011654948,Upper middle income,Latin America & Caribbean,0
-1990,CRI,CRI,Costa Rica,2.8177822,-15.711461,-.013960894,Upper middle income,Latin America & Caribbean,0
-1995,CRI,CRI,Costa Rica,-.57035732,-16.763178,-.018931665,Upper middle income,Latin America & Caribbean,0
-2000,CRI,CRI,Costa Rica,-.79194885,-6.4121761,-.0014630129,Upper middle income,Latin America & Caribbean,0
-2005,CRI,CRI,Costa Rica,.60389602,-4.484489,.0065114242,Upper middle income,Latin America & Caribbean,0
-2010,CRI,CRI,Costa Rica,.65771037,-3.4878075,.012361261,Upper middle income,Latin America & Caribbean,1
-2015,CRI,CRI,Costa Rica,.83218718,3.437223,.027137835,Upper middle income,Latin America & Caribbean,1
+1985,CRI,CRI,Costa Rica,-.10123445,-9.3109159,-.012083119,Upper middle income,Latin America & Caribbean,0
+1990,CRI,CRI,Costa Rica,2.8177822,-15.711461,-.012330445,Upper middle income,Latin America & Caribbean,0
+1995,CRI,CRI,Costa Rica,-.57035732,-16.763178,-.016135715,Upper middle income,Latin America & Caribbean,0
+2000,CRI,CRI,Costa Rica,-.79194885,-6.4121761,.0021046991,Upper middle income,Latin America & Caribbean,0
+2005,CRI,CRI,Costa Rica,.60389602,-4.484489,.002739775,Upper middle income,Latin America & Caribbean,0
+2010,CRI,CRI,Costa Rica,.65771037,-3.4878075,.01151745,Upper middle income,Latin America & Caribbean,1
+2015,CRI,CRI,Costa Rica,.83218718,3.437223,.024187353,Upper middle income,Latin America & Caribbean,1
 2020,CRI,CRI,Costa Rica,2.1162066,-2.8923044,,Upper middle income,Latin America & Caribbean,1
 1960,CUB,CUB,Cuba,,,,Upper middle income,Latin America & Caribbean,0
 1965,CUB,CUB,Cuba,,,,Upper middle income,Latin America & Caribbean,0
@@ -630,9 +630,9 @@ year,countrycode,ctrycode,country,resid_y,resid_x1,resid_x2,income1,region,post
 1990,CYP,CYP,Cyprus,1.824834,8.2291784,,High income,Europe & Central Asia,0
 1995,CYP,CYP,Cyprus,-1.5400664,25.456816,,High income,Europe & Central Asia,0
 2000,CYP,CYP,Cyprus,-1.9211569,-8.9636822,,High income,Europe & Central Asia,0
-2005,CYP,CYP,Cyprus,-2.7360337,48.501839,-.0089840125,High income,Europe & Central Asia,0
-2010,CYP,CYP,Cyprus,-7.3846269,,-.0036390191,High income,Europe & Central Asia,1
-2015,CYP,CYP,Cyprus,.53008437,,.012623032,High income,Europe & Central Asia,1
+2005,CYP,CYP,Cyprus,-2.7360337,48.501839,-.0082490174,High income,Europe & Central Asia,0
+2010,CYP,CYP,Cyprus,-7.3846269,,-.0018494312,High income,Europe & Central Asia,1
+2015,CYP,CYP,Cyprus,.53008437,,.010098448,High income,Europe & Central Asia,1
 2020,CYP,CYP,Cyprus,1.0267429,,,High income,Europe & Central Asia,1
 1960,CZE,CZE,Czech Republic,,,,High income,Europe & Central Asia,0
 1965,CZE,CZE,Czech Republic,,,,High income,Europe & Central Asia,0
@@ -641,11 +641,11 @@ year,countrycode,ctrycode,country,resid_y,resid_x1,resid_x2,income1,region,post
 1980,CZE,CZE,Czech Republic,,,,High income,Europe & Central Asia,0
 1985,CZE,CZE,Czech Republic,,,,High income,Europe & Central Asia,0
 1990,CZE,CZE,Czech Republic,-2.3753519,24.709188,,High income,Europe & Central Asia,0
-1995,CZE,CZE,Czech Republic,-.44481555,18.589636,-.0072846198,High income,Europe & Central Asia,0
-2000,CZE,CZE,Czechia,.59171116,-9.5775604,-.0081796888,High income,Europe & Central Asia,0
-2005,CZE,CZE,Czechia,.76180738,-11.393156,-.0033476097,High income,Europe & Central Asia,0
-2010,CZE,CZE,Czechia,-.24976712,-8.377264,.0084882053,High income,Europe & Central Asia,1
-2015,CZE,CZE,Czechia,2.5755601,-6.5681577,.010323714,High income,Europe & Central Asia,1
+1995,CZE,CZE,Czech Republic,-.44481555,18.589636,-.0066094357,High income,Europe & Central Asia,0
+2000,CZE,CZE,Czechia,.59171116,-9.5775604,-.0049921707,High income,Europe & Central Asia,0
+2005,CZE,CZE,Czechia,.76180738,-11.393156,-.0043643224,High income,Europe & Central Asia,0
+2010,CZE,CZE,Czechia,-.24976712,-8.377264,.0069918036,High income,Europe & Central Asia,1
+2015,CZE,CZE,Czechia,2.5755601,-6.5681577,.0089741247,High income,Europe & Central Asia,1
 2020,CZE,CZE,Czechia,-.85914415,-7.3826857,,High income,Europe & Central Asia,1
 1960,DEU,DEU,Germany,.54703176,,,High income,Europe & Central Asia,0
 1965,DEU,DEU,Germany,.13987064,,,High income,Europe & Central Asia,0
@@ -655,9 +655,9 @@ year,countrycode,ctrycode,country,resid_y,resid_x1,resid_x2,income1,region,post
 1985,DEU,DEU,Germany,.96212614,6.7283401,,High income,Europe & Central Asia,0
 1990,DEU,DEU,Germany,2.804312,6.7375336,,High income,Europe & Central Asia,0
 1995,DEU,DEU,Germany,-.41291502,16.393154,,High income,Europe & Central Asia,0
-2000,DEU,DEU,Germany,-1.0501337,18.469807,-.0053169718,High income,Europe & Central Asia,0
-2005,DEU,DEU,Germany,-1.2242666,-.26194745,.0087752994,High income,Europe & Central Asia,0
-2010,DEU,DEU,Germany,-.11276867,-16.574047,-.0034583276,High income,Europe & Central Asia,1
+2000,DEU,DEU,Germany,-1.0501337,18.469807,-.0026711465,High income,Europe & Central Asia,0
+2005,DEU,DEU,Germany,-1.2242666,-.26194745,.0044663288,High income,Europe & Central Asia,0
+2010,DEU,DEU,Germany,-.11276867,-16.574047,-.0017951822,High income,Europe & Central Asia,1
 2015,DEU,DEU,Germany,-.55132359,-22.023165,,High income,Europe & Central Asia,1
 2020,DEU,DEU,Germany,-.60638523,-21.800241,,High income,Europe & Central Asia,1
 1960,DJI,DJI,Djibouti,,,,Lower middle income,Middle East & North Africa,0
@@ -671,7 +671,7 @@ year,countrycode,ctrycode,country,resid_y,resid_x1,resid_x2,income1,region,post
 2000,DJI,DJI,Djibouti,,,,Lower middle income,Middle East & North Africa,0
 2005,DJI,DJI,Djibouti,,,,Lower middle income,Middle East & North Africa,0
 2010,DJI,DJI,Djibouti,,,,Lower middle income,Middle East & North Africa,1
-2015,DJI,DJI,Djibouti,.215708,5.3433352,-2.7755576e-17,Lower middle income,Middle East & North Africa,1
+2015,DJI,DJI,Djibouti,.215708,5.3433352,-5.5511151e-17,Lower middle income,Middle East & North Africa,1
 2020,DJI,DJI,Djibouti,-.215708,-5.3433352,,Lower middle income,Middle East & North Africa,1
 1960,DMA,DMA,Dominica,,,,Upper middle income,Latin America & Caribbean,0
 1965,DMA,DMA,Dominica,,,,Upper middle income,Latin America & Caribbean,0
@@ -692,12 +692,12 @@ year,countrycode,ctrycode,country,resid_y,resid_x1,resid_x2,income1,region,post
 1977,DNK,DNK,Denmark,-.096025608,,,High income,Europe & Central Asia,0
 1980,DNK,DNK,Denmark,1.1164739,,,High income,Europe & Central Asia,0
 1985,DNK,DNK,Denmark,.31651869,,,High income,Europe & Central Asia,0
-1990,DNK,DNK,Denmark,2.1358099,,-.035103407,High income,Europe & Central Asia,0
+1990,DNK,DNK,Denmark,2.1358099,,-.035394091,High income,Europe & Central Asia,0
 1995,DNK,DNK,Denmark,.57775325,,,High income,Europe & Central Asia,0
-2000,DNK,DNK,Denmark,-.60646957,-18.482689,.0077064862,High income,Europe & Central Asia,0
-2005,DNK,DNK,Denmark,-2.1049566,22.029329,.010925977,High income,Europe & Central Asia,0
-2010,DNK,DNK,Denmark,-1.4253478,13.242659,.013470986,High income,Europe & Central Asia,1
-2015,DNK,DNK,Denmark,-.29167312,-3.9210572,.0029999579,High income,Europe & Central Asia,1
+2000,DNK,DNK,Denmark,-.60646957,-18.482689,.0096957348,High income,Europe & Central Asia,0
+2005,DNK,DNK,Denmark,-2.1049566,22.029329,.0082043372,High income,Europe & Central Asia,0
+2010,DNK,DNK,Denmark,-1.4253478,13.242659,.013539146,High income,Europe & Central Asia,1
+2015,DNK,DNK,Denmark,-.29167312,-3.9210572,.0039548739,High income,Europe & Central Asia,1
 2020,DNK,DNK,Denmark,.69296843,-12.868241,,High income,Europe & Central Asia,1
 1960,DOM,DOM,Dominican Republic,-.40630409,9.3822269,,Upper middle income,Latin America & Caribbean,0
 1965,DOM,DOM,Dominican Republic,-5.1783719,14.710514,,Upper middle income,Latin America & Caribbean,0
@@ -706,10 +706,10 @@ year,countrycode,ctrycode,country,resid_y,resid_x1,resid_x2,income1,region,post
 1980,DOM,DOM,Dominican Republic,-.0019305864,16.137806,,Upper middle income,Latin America & Caribbean,0
 1985,DOM,DOM,Dominican Republic,-1.4986799,12.290398,,Upper middle income,Latin America & Caribbean,0
 1990,DOM,DOM,Dominican Republic,.22700603,-.061754782,,Upper middle income,Latin America & Caribbean,0
-1995,DOM,DOM,Dominican Republic,1.4415962,-2.9640985,-.0050330246,Upper middle income,Latin America & Caribbean,0
-2000,DOM,DOM,Dominican Republic,-2.2791903,-.9634794,.0039292634,Upper middle income,Latin America & Caribbean,0
-2005,DOM,DOM,Dominican Republic,1.3413088,-19.8659,.0036165828,Upper middle income,Latin America & Caribbean,0
-2010,DOM,DOM,Dominican Republic,1.041613,-20.995964,-.0025128217,Upper middle income,Latin America & Caribbean,1
+1995,DOM,DOM,Dominican Republic,1.4415962,-2.9640985,-.0053644199,Upper middle income,Latin America & Caribbean,0
+2000,DOM,DOM,Dominican Republic,-2.2791903,-.9634794,.00634625,Upper middle income,Latin America & Caribbean,0
+2005,DOM,DOM,Dominican Republic,1.3413088,-19.8659,.00054501294,Upper middle income,Latin America & Caribbean,0
+2010,DOM,DOM,Dominican Republic,1.041613,-20.995964,-.0015268428,Upper middle income,Latin America & Caribbean,1
 2015,DOM,DOM,Dominican Republic,2.72996,-20.679062,,Upper middle income,Latin America & Caribbean,1
 2020,DOM,DOM,Dominican Republic,1.2140429,-26.297716,,Upper middle income,Latin America & Caribbean,1
 1960,DZA,DZA,Algeria,-.96814334,-7.2509313,,Lower middle income,Middle East & North Africa,0
@@ -742,25 +742,25 @@ year,countrycode,ctrycode,country,resid_y,resid_x1,resid_x2,income1,region,post
 1977,ECU,ECU,Ecuador,1.4822284,1.5516455,,Upper middle income,Latin America & Caribbean,0
 1980,ECU,ECU,Ecuador,.11531316,.91901255,,Upper middle income,Latin America & Caribbean,0
 1985,ECU,ECU,Ecuador,-.8199898,-3.976244,,Upper middle income,Latin America & Caribbean,0
-1990,ECU,ECU,Ecuador,1.9151525,-6.9381795,-.0041004382,Upper middle income,Latin America & Caribbean,0
-1995,ECU,ECU,Ecuador,-2.2473457,-.32576105,.00082499208,Upper middle income,Latin America & Caribbean,0
-2000,ECU,ECU,Ecuador,-.057716813,-1.3142734,.00072575471,Upper middle income,Latin America & Caribbean,0
-2005,ECU,ECU,Ecuador,-.032761522,-10.481623,.002830128,Upper middle income,Latin America & Caribbean,0
-2010,ECU,ECU,Ecuador,2.170511,-8.044445,.0016565481,Upper middle income,Latin America & Caribbean,1
-2015,ECU,ECU,Ecuador,-2.0232425,-3.0052099,-.0019369847,Upper middle income,Latin America & Caribbean,1
+1990,ECU,ECU,Ecuador,1.9151525,-6.9381795,-.0030309171,Upper middle income,Latin America & Caribbean,0
+1995,ECU,ECU,Ecuador,-2.2473457,-.32576105,.00028980977,Upper middle income,Latin America & Caribbean,0
+2000,ECU,ECU,Ecuador,-.057716813,-1.3142734,.0020362425,Upper middle income,Latin America & Caribbean,0
+2005,ECU,ECU,Ecuador,-.032761522,-10.481623,-.00049343688,Upper middle income,Latin America & Caribbean,0
+2010,ECU,ECU,Ecuador,2.170511,-8.044445,.0020228906,Upper middle income,Latin America & Caribbean,1
+2015,ECU,ECU,Ecuador,-2.0232425,-3.0052099,-.00082458905,Upper middle income,Latin America & Caribbean,1
 2020,ECU,ECU,Ecuador,.32522881,5.3232708,,Upper middle income,Latin America & Caribbean,1
 1960,EGY,EGY,"Egypt, Arab Rep.",.40698186,15.557966,,Lower middle income,Middle East & North Africa,0
 1965,EGY,EGY,"Egypt, Arab Rep.",-4.3553367,7.9919477,,Lower middle income,Middle East & North Africa,0
 1970,EGY,EGY,"Egypt, Arab Rep.",-3.7986465,2.9839995,,Lower middle income,Middle East & North Africa,0
 1977,EGY,EGY,"Egypt, Arab Rep.",3.2358334,2.961937,,Lower middle income,Middle East & North Africa,0
 1980,EGY,EGY,"Egypt, Arab Rep.",4.6899662,5.1588426,,Lower middle income,Middle East & North Africa,0
-1985,EGY,EGY,"Egypt, Arab Rep.",.12377005,3.9941642,.016223839,Lower middle income,Middle East & North Africa,0
+1985,EGY,EGY,"Egypt, Arab Rep.",.12377005,3.9941642,.016744314,Lower middle income,Middle East & North Africa,0
 1990,EGY,EGY,"Egypt, Arab Rep.",.50591594,-3.7963741,,Lower middle income,Middle East & North Africa,0
-1995,EGY,EGY,"Egypt, Arab Rep.",-.18425229,9.9394102,-.0039361073,Lower middle income,Middle East & North Africa,0
+1995,EGY,EGY,"Egypt, Arab Rep.",-.18425229,9.9394102,-.0025228437,Lower middle income,Middle East & North Africa,0
 2000,EGY,EGY,Egypt,-1.7062687,18.855104,,Lower middle income,Middle East & North Africa,0
-2005,EGY,EGY,Egypt,1.0717341,-.11631557,.0018083956,Lower middle income,Middle East & North Africa,0
-2010,EGY,EGY,Egypt,-1.7356447,-18.809505,-.0078234514,Lower middle income,Middle East & North Africa,1
-2015,EGY,EGY,Egypt,.57075691,-19.110573,-.0062726755,Lower middle income,Middle East & North Africa,1
+2005,EGY,EGY,Egypt,1.0717341,-.11631557,-.0012022913,Lower middle income,Middle East & North Africa,0
+2010,EGY,EGY,Egypt,-1.7356447,-18.809505,-.0064595812,Lower middle income,Middle East & North Africa,1
+2015,EGY,EGY,Egypt,.57075691,-19.110573,-.0065595969,Lower middle income,Middle East & North Africa,1
 2020,EGY,EGY,Egypt,1.1751907,-25.610605,,Lower middle income,Middle East & North Africa,1
 1960,ERI,ERI,Eritrea,,,,Low income,Sub-Saharan Africa,0
 1965,ERI,ERI,Eritrea,,,,Low income,Sub-Saharan Africa,0
@@ -781,12 +781,12 @@ year,countrycode,ctrycode,country,resid_y,resid_x1,resid_x2,income1,region,post
 1977,ESP,ESP,Spain,-2.1118526,-8.0314999,,High income,Europe & Central Asia,0
 1980,ESP,ESP,Spain,-.40084022,-12.861521,,High income,Europe & Central Asia,0
 1985,ESP,ESP,Spain,1.4274178,-20.901415,,High income,Europe & Central Asia,0
-1990,ESP,ESP,Spain,.93948525,-19.034756,-.019080384,High income,Europe & Central Asia,0
-1995,ESP,ESP,Spain,.49944189,-22.476589,.0010023986,High income,Europe & Central Asia,0
-2000,ESP,ESP,Spain,-.14140129,5.8175931,.001815827,High income,Europe & Central Asia,0
-2005,ESP,ESP,Spain,-2.2334862,54.203468,-.003001848,High income,Europe & Central Asia,0
-2010,ESP,ESP,Spain,-2.8987541,43.43821,.012671852,High income,Europe & Central Asia,1
-2015,ESP,ESP,Spain,.16990539,-3.4170823,.006592154,High income,Europe & Central Asia,1
+1990,ESP,ESP,Spain,.93948525,-19.034756,-.018657362,High income,Europe & Central Asia,0
+1995,ESP,ESP,Spain,.49944189,-22.476589,-.00011949815,High income,Europe & Central Asia,0
+2000,ESP,ESP,Spain,-.14140129,5.8175931,.0072864741,High income,Europe & Central Asia,0
+2005,ESP,ESP,Spain,-2.2334862,54.203468,-.0019268218,High income,Europe & Central Asia,0
+2010,ESP,ESP,Spain,-2.8987541,43.43821,.008812,High income,Europe & Central Asia,1
+2015,ESP,ESP,Spain,.16990539,-3.4170823,.0046052076,High income,Europe & Central Asia,1
 2020,ESP,ESP,Spain,-1.2155484,-10.241761,,High income,Europe & Central Asia,1
 1960,EST,EST,Estonia,,,,High income,Europe & Central Asia,0
 1965,EST,EST,Estonia,,,,High income,Europe & Central Asia,0
@@ -795,11 +795,11 @@ year,countrycode,ctrycode,country,resid_y,resid_x1,resid_x2,income1,region,post
 1980,EST,EST,Estonia,,,,High income,Europe & Central Asia,0
 1985,EST,EST,Estonia,,,,High income,Europe & Central Asia,0
 1990,EST,EST,Estonia,-8.0092468,,,High income,Europe & Central Asia,0
-1995,EST,EST,Estonia,2.4105754,-17.477386,-.0019397666,High income,Europe & Central Asia,0
-2000,EST,EST,Estonia,4.2567682,-5.7302456,-.010424869,High income,Europe & Central Asia,0
-2005,EST,EST,Estonia,-.62538427,18.063175,.0068234713,High income,Europe & Central Asia,0
-2010,EST,EST,Estonia,1.7702783,12.096321,.0016227459,High income,Europe & Central Asia,1
-2015,EST,EST,Estonia,1.6680372,-.2476317,.0039184182,High income,Europe & Central Asia,1
+1995,EST,EST,Estonia,2.4105754,-17.477386,-.0063877041,High income,Europe & Central Asia,0
+2000,EST,EST,Estonia,4.2567682,-5.7302456,-.0072923638,High income,Europe & Central Asia,0
+2005,EST,EST,Estonia,-.62538427,18.063175,.0047673294,High income,Europe & Central Asia,0
+2010,EST,EST,Estonia,1.7702783,12.096321,.0019724492,High income,Europe & Central Asia,1
+2015,EST,EST,Estonia,1.6680372,-.2476317,.0069402889,High income,Europe & Central Asia,1
 2020,EST,EST,Estonia,-1.4710277,-6.7042322,,High income,Europe & Central Asia,1
 1960,ETH,ETH,Ethiopia,,,,Low income,Sub-Saharan Africa,0
 1965,ETH,ETH,Ethiopia,-.96527141,3.2896626,,Low income,Sub-Saharan Africa,0
@@ -808,11 +808,11 @@ year,countrycode,ctrycode,country,resid_y,resid_x1,resid_x2,income1,region,post
 1980,ETH,ETH,Ethiopia,.61591756,-6.5533609,,Low income,Sub-Saharan Africa,0
 1985,ETH,ETH,Ethiopia,-3.0553968,-4.1152186,,Low income,Sub-Saharan Africa,0
 1990,ETH,ETH,Ethiopia,-3.3677442,-4.7105269,,Low income,Sub-Saharan Africa,0
-1995,ETH,ETH,Ethiopia,-1.4441824,5.036694,.015993275,Low income,Sub-Saharan Africa,0
-2000,ETH,ETH,Ethiopia,-1.0920912,8.5248003,.01140617,Low income,Sub-Saharan Africa,0
-2005,ETH,ETH,Ethiopia,3.9797521,.66882133,.0013421731,Low income,Sub-Saharan Africa,0
-2010,ETH,ETH,Ethiopia,4.0523486,,-.013969118,Low income,Sub-Saharan Africa,1
-2015,ETH,ETH,Ethiopia,3.3742635,,-.014772501,Low income,Sub-Saharan Africa,1
+1995,ETH,ETH,Ethiopia,-1.4441824,5.036694,.011407129,Low income,Sub-Saharan Africa,0
+2000,ETH,ETH,Ethiopia,-1.0920912,8.5248003,.01034176,Low income,Sub-Saharan Africa,0
+2005,ETH,ETH,Ethiopia,3.9797521,.66882133,-.0025249287,Low income,Sub-Saharan Africa,0
+2010,ETH,ETH,Ethiopia,4.0523486,,-.0096541634,Low income,Sub-Saharan Africa,1
+2015,ETH,ETH,Ethiopia,3.3742635,,-.0095697958,Low income,Sub-Saharan Africa,1
 2020,ETH,ETH,Ethiopia,2.0639269,,,Low income,Sub-Saharan Africa,1
 1960,FIN,FIN,Finland,-1.1409205,1.9566585,,High income,Europe & Central Asia,0
 1965,FIN,FIN,Finland,-.74885851,-.98574239,,High income,Europe & Central Asia,0
@@ -821,11 +821,11 @@ year,countrycode,ctrycode,country,resid_y,resid_x1,resid_x2,income1,region,post
 1980,FIN,FIN,Finland,2.2018087,-8.4359322,,High income,Europe & Central Asia,0
 1985,FIN,FIN,Finland,2.2957261,5.1784334,,High income,Europe & Central Asia,0
 1990,FIN,FIN,Finland,-1.0377936,14.582214,,High income,Europe & Central Asia,0
-1995,FIN,FIN,Finland,2.132463,-12.817391,-.0036836811,High income,Europe & Central Asia,0
-2000,FIN,FIN,Finland,.74215549,-13.670744,-.00013404321,High income,Europe & Central Asia,0
-2005,FIN,FIN,Finland,-1.5478264,-3.8134935,.0015928053,High income,Europe & Central Asia,0
-2010,FIN,FIN,Finland,-1.5741799,8.210228,-.0038441946,High income,Europe & Central Asia,1
-2015,FIN,FIN,Finland,-.14965491,12.576133,.006069114,High income,Europe & Central Asia,1
+1995,FIN,FIN,Finland,2.132463,-12.817391,-.0040986147,High income,Europe & Central Asia,0
+2000,FIN,FIN,Finland,.74215549,-13.670744,.002966258,High income,Europe & Central Asia,0
+2005,FIN,FIN,Finland,-1.5478264,-3.8134935,.000346232,High income,Europe & Central Asia,0
+2010,FIN,FIN,Finland,-1.5741799,8.210228,-.003883214,High income,Europe & Central Asia,1
+2015,FIN,FIN,Finland,-.14965491,12.576133,.0046693389,High income,Europe & Central Asia,1
 2020,FIN,FIN,Finland,-1.2482461,12.101915,,High income,Europe & Central Asia,1
 1960,FJI,FJI,Fiji,-1.3589187,-2.3138323,,Upper middle income,East Asia & Pacific,0
 1965,FJI,FJI,Fiji,-1.6621253,-1.9236424,,Upper middle income,East Asia & Pacific,0
@@ -836,7 +836,7 @@ year,countrycode,ctrycode,country,resid_y,resid_x1,resid_x2,income1,region,post
 1990,FJI,FJI,Fiji,3.2231131,1.8280501,,Upper middle income,East Asia & Pacific,0
 1995,FJI,FJI,Fiji,-.056355372,-4.5822921,,Upper middle income,East Asia & Pacific,0
 2000,FJI,FJI,Fiji,-1.2936563,-8.6430273,,Upper middle income,East Asia & Pacific,0
-2005,FJI,FJI,Fiji,-2.4563596,-3.8483336,-2.7755576e-17,Upper middle income,East Asia & Pacific,0
+2005,FJI,FJI,Fiji,-2.4563596,-3.8483336,1.3877788e-17,Upper middle income,East Asia & Pacific,0
 2010,FJI,FJI,Fiji,1.1581575,5.096436,,Upper middle income,East Asia & Pacific,1
 2015,FJI,FJI,Fiji,1.6123152,12.463106,,Upper middle income,East Asia & Pacific,1
 2020,FJI,FJI,Fiji,.11781916,27.202169,,Upper middle income,East Asia & Pacific,1
@@ -848,10 +848,10 @@ year,countrycode,ctrycode,country,resid_y,resid_x1,resid_x2,income1,region,post
 1985,FRA,FRA,France,1.0480481,9.0415688,,High income,Europe & Central Asia,0
 1990,FRA,FRA,France,1.7037234,15.205424,,High income,Europe & Central Asia,0
 1995,FRA,FRA,France,.22792481,3.9406657,,High income,Europe & Central Asia,0
-2000,FRA,FRA,France,-.68611997,-2.5391676,-.0071944222,High income,Europe & Central Asia,0
-2005,FRA,FRA,France,-1.8481431,.5856359,-.0099709826,High income,Europe & Central Asia,0
-2010,FRA,FRA,France,-1.189194,6.8014045,.0049344404,High income,Europe & Central Asia,1
-2015,FRA,FRA,France,-.62107366,10.688969,.012230964,High income,Europe & Central Asia,1
+2000,FRA,FRA,France,-.68611997,-2.5391676,-.0031956288,High income,Europe & Central Asia,0
+2005,FRA,FRA,France,-1.8481431,.5856359,-.01198527,High income,Europe & Central Asia,0
+2010,FRA,FRA,France,-1.189194,6.8014045,.0045009274,High income,Europe & Central Asia,1
+2015,FRA,FRA,France,-.62107366,10.688969,.010679971,High income,Europe & Central Asia,1
 2020,FRA,FRA,France,-.82918686,24.62117,,High income,Europe & Central Asia,1
 1960,FRO,FRO,Faroe Islands,,,,High income,Europe & Central Asia,0
 1965,FRO,FRO,Faroe Islands,,,,High income,Europe & Central Asia,0
@@ -874,9 +874,9 @@ year,countrycode,ctrycode,country,resid_y,resid_x1,resid_x2,income1,region,post
 1985,FSM,FSM,"Micronesia, Fed. Sts.",2.8168108,,,Lower middle income,East Asia & Pacific,0
 1990,FSM,FSM,"Micronesia, Fed. Sts.",3.1047509,,,Lower middle income,East Asia & Pacific,0
 1995,FSM,FSM,"Micronesia, Fed. Sts.",-2.3155448,14.71977,,Lower middle income,East Asia & Pacific,0
-2000,FSM,FSM,"Micronesia, Fed. Sts.",-1.1134349,6.6252947,.1963684,Lower middle income,East Asia & Pacific,0
-2005,FSM,FSM,"Micronesia, Fed. Sts.",-1.9666559,-5.8034849,-.079044171,Lower middle income,East Asia & Pacific,0
-2010,FSM,FSM,"Micronesia, Fed. Sts.",-2.7543962,-5.4717712,-.11732423,Lower middle income,East Asia & Pacific,1
+2000,FSM,FSM,"Micronesia, Fed. Sts.",-1.1134349,6.6252947,.33516556,Lower middle income,East Asia & Pacific,0
+2005,FSM,FSM,"Micronesia, Fed. Sts.",-1.9666559,-5.8034849,.051265486,Lower middle income,East Asia & Pacific,0
+2010,FSM,FSM,"Micronesia, Fed. Sts.",-2.7543962,-5.4717712,.018553523,Lower middle income,East Asia & Pacific,1
 2015,FSM,FSM,"Micronesia, Fed. Sts.",-.092092663,-2.4893994,,Lower middle income,East Asia & Pacific,1
 2020,FSM,FSM,,-1.087858,-7.580409,,Lower middle income,East Asia & Pacific,1
 1960,GAB,GAB,Gabon,4.2223487,17.028727,,Upper middle income,Sub-Saharan Africa,0
@@ -888,9 +888,9 @@ year,countrycode,ctrycode,country,resid_y,resid_x1,resid_x2,income1,region,post
 1990,GAB,GAB,Gabon,1.4909219,-5.5916843,,Upper middle income,Sub-Saharan Africa,0
 1995,GAB,GAB,Gabon,-2.8807151,-8.900156,,Upper middle income,Sub-Saharan Africa,0
 2000,GAB,GAB,Gabon,-5.0024953,-4.8834395,,Upper middle income,Sub-Saharan Africa,0
-2005,GAB,GAB,Gabon,-5.718853,-10.863886,-.0049694153,Upper middle income,Sub-Saharan Africa,0
+2005,GAB,GAB,Gabon,-5.718853,-10.863886,-.0037729943,Upper middle income,Sub-Saharan Africa,0
 2010,GAB,GAB,Gabon,-.88033688,-6.3378081,,Upper middle income,Sub-Saharan Africa,1
-2015,GAB,GAB,Gabon,-2.9816337,-8.5244465,.0049694153,Upper middle income,Sub-Saharan Africa,1
+2015,GAB,GAB,Gabon,-2.9816337,-8.5244465,.0037729943,Upper middle income,Sub-Saharan Africa,1
 2020,GAB,GAB,Gabon,-2.8409901,,,Upper middle income,Sub-Saharan Africa,1
 1960,GBR,GBR,United Kingdom,-.58219397,-46.540768,,High income,Europe & Central Asia,0
 1965,GBR,GBR,United Kingdom,-.80354309,-48.440228,,High income,Europe & Central Asia,0
@@ -898,12 +898,12 @@ year,countrycode,ctrycode,country,resid_y,resid_x1,resid_x2,income1,region,post
 1977,GBR,GBR,United Kingdom,-.29910287,-49.303215,,High income,Europe & Central Asia,0
 1980,GBR,GBR,United Kingdom,.38838357,-45.160336,,High income,Europe & Central Asia,0
 1985,GBR,GBR,United Kingdom,2.728339,-5.5123997,,High income,Europe & Central Asia,0
-1990,GBR,GBR,United Kingdom,1.8265042,12.633122,-.022842983,High income,Europe & Central Asia,0
-1995,GBR,GBR,United Kingdom,.97437704,10.321327,.005251619,High income,Europe & Central Asia,0
+1990,GBR,GBR,United Kingdom,1.8265042,12.633122,-.02466899,High income,Europe & Central Asia,0
+1995,GBR,GBR,United Kingdom,.97437704,10.321327,.0049333074,High income,Europe & Central Asia,0
 2000,GBR,GBR,United Kingdom,.26095495,31.794916,,High income,Europe & Central Asia,0
-2005,GBR,GBR,United Kingdom,-2.1337738,67.211632,.005127206,High income,Europe & Central Asia,0
-2010,GBR,GBR,United Kingdom,-.48401645,56.631767,.0054746023,High income,Europe & Central Asia,1
-2015,GBR,GBR,United Kingdom,-.26858214,28.476059,.0069895559,High income,Europe & Central Asia,1
+2005,GBR,GBR,United Kingdom,-2.1337738,67.211632,.0050473246,High income,Europe & Central Asia,0
+2010,GBR,GBR,United Kingdom,-.48401645,56.631767,.0067001032,High income,Europe & Central Asia,1
+2015,GBR,GBR,United Kingdom,-.26858214,28.476059,.0079882555,High income,Europe & Central Asia,1
 2020,GBR,GBR,United Kingdom,-.78544044,33.502403,,High income,Europe & Central Asia,1
 1960,GEO,GEO,Georgia,-.71536833,,,Upper middle income,Europe & Central Asia,0
 1965,GEO,GEO,Georgia,1.7529584,,,Upper middle income,Europe & Central Asia,0
@@ -914,8 +914,8 @@ year,countrycode,ctrycode,country,resid_y,resid_x1,resid_x2,income1,region,post
 1990,GEO,GEO,Georgia,-23.787086,,,Upper middle income,Europe & Central Asia,0
 1995,GEO,GEO,Georgia,3.6735406,-13.126837,,Upper middle income,Europe & Central Asia,0
 2000,GEO,GEO,Georgia,1.880766,-11.345795,,Upper middle income,Europe & Central Asia,0
-2005,GEO,GEO,Georgia,2.1759455,-7.0318103,.0033116648,Upper middle income,Europe & Central Asia,0
-2010,GEO,GEO,Georgia,2.9501255,-3.6813645,-.0033116648,Upper middle income,Europe & Central Asia,1
+2005,GEO,GEO,Georgia,2.1759455,-7.0318103,.0014704291,Upper middle income,Europe & Central Asia,0
+2010,GEO,GEO,Georgia,2.9501255,-3.6813645,-.0014704291,Upper middle income,Europe & Central Asia,1
 2015,GEO,GEO,Georgia,2.4580379,10.690474,,Upper middle income,Europe & Central Asia,1
 2020,GEO,GEO,Georgia,4.3170328,24.495333,,Upper middle income,Europe & Central Asia,1
 1960,GHA,GHA,Ghana,.87549263,2.5665252,,Lower middle income,Sub-Saharan Africa,0
@@ -924,12 +924,12 @@ year,countrycode,ctrycode,country,resid_y,resid_x1,resid_x2,income1,region,post
 1977,GHA,GHA,Ghana,-6.4265847,6.8528051,,Lower middle income,Sub-Saharan Africa,0
 1980,GHA,GHA,Ghana,-3.7686696,3.6507034,,Lower middle income,Sub-Saharan Africa,0
 1985,GHA,GHA,Ghana,1.9264289,2.5108736,,Lower middle income,Sub-Saharan Africa,0
-1990,GHA,GHA,Ghana,2.2729089,1.9254361,.019322656,Lower middle income,Sub-Saharan Africa,0
-1995,GHA,GHA,Ghana,-.12570755,2.7468631,.010716499,Lower middle income,Sub-Saharan Africa,0
+1990,GHA,GHA,Ghana,2.2729089,1.9254361,.018161412,Lower middle income,Sub-Saharan Africa,0
+1995,GHA,GHA,Ghana,-.12570755,2.7468631,.010481725,Lower middle income,Sub-Saharan Africa,0
 2000,GHA,GHA,Ghana,-.44478801,6.5169406,,Lower middle income,Sub-Saharan Africa,0
-2005,GHA,GHA,Ghana,1.4062318,-1.8125926,.00060537847,Lower middle income,Sub-Saharan Africa,0
-2010,GHA,GHA,Ghana,4.1369138,-4.2518396,-.014556979,Lower middle income,Sub-Saharan Africa,1
-2015,GHA,GHA,Ghana,1.7795913,-8.0458021,-.016087556,Lower middle income,Sub-Saharan Africa,1
+2005,GHA,GHA,Ghana,1.4062318,-1.8125926,-.001286144,Lower middle income,Sub-Saharan Africa,0
+2010,GHA,GHA,Ghana,4.1369138,-4.2518396,-.013168572,Lower middle income,Sub-Saharan Africa,1
+2015,GHA,GHA,Ghana,1.7795913,-8.0458021,-.014188421,Lower middle income,Sub-Saharan Africa,1
 2020,GHA,GHA,Ghana,.85781914,-19.941681,,Lower middle income,Sub-Saharan Africa,1
 1960,GIB,GIB,Gibraltar,,,,High income,Europe & Central Asia,0
 1965,GIB,GIB,Gibraltar,,,,High income,Europe & Central Asia,0
@@ -950,11 +950,11 @@ year,countrycode,ctrycode,country,resid_y,resid_x1,resid_x2,income1,region,post
 1977,GIN,GIN,Guinea,-.46094975,,,Low income,Sub-Saharan Africa,0
 1980,GIN,GIN,Guinea,-.01697702,,,Low income,Sub-Saharan Africa,0
 1985,GIN,GIN,Guinea,.60217649,7.4602108,,Low income,Sub-Saharan Africa,0
-1990,GIN,GIN,Guinea,1.1059692,7.755836,.034078728,Low income,Sub-Saharan Africa,0
+1990,GIN,GIN,Guinea,1.1059692,7.755836,.036574576,Low income,Sub-Saharan Africa,0
 1995,GIN,GIN,Guinea,.17117481,2.7846651,,Low income,Sub-Saharan Africa,0
-2000,GIN,GIN,Guinea,-1.004383,-.098214649,.0076928041,Low income,Sub-Saharan Africa,0
-2005,GIN,GIN,Guinea,-2.1291578,-6.5340209,-.015854267,Low income,Sub-Saharan Africa,0
-2010,GIN,GIN,Guinea,-.7290259,-2.3746974,-.025917267,Low income,Sub-Saharan Africa,1
+2000,GIN,GIN,Guinea,-1.004383,-.098214649,.0056738672,Low income,Sub-Saharan Africa,0
+2005,GIN,GIN,Guinea,-2.1291578,-6.5340209,-.019085405,Low income,Sub-Saharan Africa,0
+2010,GIN,GIN,Guinea,-.7290259,-2.3746974,-.023163037,Low income,Sub-Saharan Africa,1
 2015,GIN,GIN,Guinea,2.1820536,.56178969,,Low income,Sub-Saharan Africa,1
 2020,GIN,GIN,Guinea,1.3601543,-9.5555687,,Low income,Sub-Saharan Africa,1
 1960,GMB,GMB,"Gambia, The",,,,Low income,Sub-Saharan Africa,0
@@ -964,11 +964,11 @@ year,countrycode,ctrycode,country,resid_y,resid_x1,resid_x2,income1,region,post
 1980,GMB,GMB,"Gambia, The",3.4492657,16.506708,,Low income,Sub-Saharan Africa,0
 1985,GMB,GMB,"Gambia, The",-.63212532,8.5641994,,Low income,Sub-Saharan Africa,0
 1990,GMB,GMB,"Gambia, The",.59393829,-1.3786125,,Low income,Sub-Saharan Africa,0
-1995,GMB,GMB,"Gambia, The",-.31074634,-5.0766077,-.00033094839,Low income,Sub-Saharan Africa,0
-2000,GMB,GMB,Gambia,-.045998335,-2.1611233,.04589678,Low income,Sub-Saharan Africa,0
+1995,GMB,GMB,"Gambia, The",-.31074634,-5.0766077,-.0023831066,Low income,Sub-Saharan Africa,0
+2000,GMB,GMB,Gambia,-.045998335,-2.1611233,.04816002,Low income,Sub-Saharan Africa,0
 2005,GMB,GMB,Gambia,-2.2735522,-9.1740313,,Low income,Sub-Saharan Africa,0
-2010,GMB,GMB,Gambia,-3.9923928,-8.494997,-.023224117,Low income,Sub-Saharan Africa,1
-2015,GMB,GMB,Gambia,.19059658,-9.4597845,-.022341715,Low income,Sub-Saharan Africa,1
+2010,GMB,GMB,Gambia,-3.9923928,-8.494997,-.02167085,Low income,Sub-Saharan Africa,1
+2015,GMB,GMB,Gambia,.19059658,-9.4597845,-.024106065,Low income,Sub-Saharan Africa,1
 2020,GMB,GMB,Gambia,.40009308,-14.579619,,Low income,Sub-Saharan Africa,1
 1960,GNB,GNB,Guinea-Bissau,,,,Low income,Sub-Saharan Africa,0
 1965,GNB,GNB,Guinea-Bissau,,,,Low income,Sub-Saharan Africa,0
@@ -980,7 +980,7 @@ year,countrycode,ctrycode,country,resid_y,resid_x1,resid_x2,income1,region,post
 1995,GNB,GNB,Guinea-Bissau,-.33564815,.11051757,,Low income,Sub-Saharan Africa,0
 2000,GNB,GNB,Guinea-Bissau,-2.1358016,-1.1548884,,Low income,Sub-Saharan Africa,0
 2005,GNB,GNB,Guinea-Bissau,-.66283447,-7.6900706,,Low income,Sub-Saharan Africa,0
-2010,GNB,GNB,Guinea-Bissau,-1.4976976,-.79559302,-2.7755576e-17,Low income,Sub-Saharan Africa,1
+2010,GNB,GNB,Guinea-Bissau,-1.4976976,-.79559302,-1.3877788e-17,Low income,Sub-Saharan Africa,1
 2015,GNB,GNB,Guinea-Bissau,.63318819,.46749377,,Low income,Sub-Saharan Africa,1
 2020,GNB,GNB,Guinea-Bissau,.9450466,-1.6517594,,Low income,Sub-Saharan Africa,1
 1960,GNQ,GNQ,Equatorial Guinea,,,,Upper middle income,Sub-Saharan Africa,0
@@ -1004,10 +1004,10 @@ year,countrycode,ctrycode,country,resid_y,resid_x1,resid_x2,income1,region,post
 1985,GRC,GRC,Greece,-.94205332,-11.837086,,High income,Europe & Central Asia,0
 1990,GRC,GRC,Greece,-.1145829,-19.262112,,High income,Europe & Central Asia,0
 1995,GRC,GRC,Greece,-.5264138,-20.654133,,High income,Europe & Central Asia,0
-2000,GRC,GRC,Greece,1.9826322,1.783098,-.00078741717,High income,Europe & Central Asia,0
-2005,GRC,GRC,Greece,-1.2823396,17.141176,-.01024541,High income,Europe & Central Asia,0
-2010,GRC,GRC,Greece,-6.960875,49.827354,.014658656,High income,Europe & Central Asia,1
-2015,GRC,GRC,Greece,-1.2430383,36.476715,-.0036258297,High income,Europe & Central Asia,1
+2000,GRC,GRC,Greece,1.9826322,1.783098,.0033275567,High income,Europe & Central Asia,0
+2005,GRC,GRC,Greece,-1.2823396,17.141176,-.010425234,High income,Europe & Central Asia,0
+2010,GRC,GRC,Greece,-6.960875,49.827354,.013274031,High income,Europe & Central Asia,1
+2015,GRC,GRC,Greece,-1.2430383,36.476715,-.0061763525,High income,Europe & Central Asia,1
 2020,GRC,GRC,Greece,.65511245,1.695056,,High income,Europe & Central Asia,1
 1960,GRD,GRD,Grenada,,,,Upper middle income,Latin America & Caribbean,0
 1965,GRD,GRD,Grenada,,,,Upper middle income,Latin America & Caribbean,0
@@ -1043,9 +1043,9 @@ year,countrycode,ctrycode,country,resid_y,resid_x1,resid_x2,income1,region,post
 1985,GTM,GTM,Guatemala,-1.1522393,-1.5415576,,Upper middle income,Latin America & Caribbean,0
 1990,GTM,GTM,Guatemala,2.1971192,-4.9368711,,Upper middle income,Latin America & Caribbean,0
 1995,GTM,GTM,Guatemala,-.078978553,-1.9776134,,Upper middle income,Latin America & Caribbean,0
-2000,GTM,GTM,Guatemala,-1.4135125,.34466225,.00031196783,Upper middle income,Latin America & Caribbean,0
-2005,GTM,GTM,Guatemala,-.99840659,-3.5203741,.0069469414,Upper middle income,Latin America & Caribbean,0
-2010,GTM,GTM,Guatemala,-1.1119454,-2.7919786,-.0072589093,Upper middle income,Latin America & Caribbean,1
+2000,GTM,GTM,Guatemala,-1.4135125,.34466225,.0021610153,Upper middle income,Latin America & Caribbean,0
+2005,GTM,GTM,Guatemala,-.99840659,-3.5203741,.0040309681,Upper middle income,Latin America & Caribbean,0
+2010,GTM,GTM,Guatemala,-1.1119454,-2.7919786,-.0061919834,Upper middle income,Latin America & Caribbean,1
 2015,GTM,GTM,Guatemala,-.50232154,.95715284,,Upper middle income,Latin America & Caribbean,1
 2020,GTM,GTM,Guatemala,.69844919,-4.449954,,Upper middle income,Latin America & Caribbean,1
 1960,GUM,GUM,Guam,,,,High income,East Asia & Pacific,0
@@ -1067,8 +1067,8 @@ year,countrycode,ctrycode,country,resid_y,resid_x1,resid_x2,income1,region,post
 1977,GUY,GUY,Guyana,-4.971396,-1.3015931,,Upper middle income,Latin America & Caribbean,0
 1980,GUY,GUY,Guyana,-7.6637435,6.5930085,,Upper middle income,Latin America & Caribbean,0
 1985,GUY,GUY,Guyana,-5.653286,12.908504,,Upper middle income,Latin America & Caribbean,0
-1990,GUY,GUY,Guyana,2.6472409,1.8167136,.000026050804,Upper middle income,Latin America & Caribbean,0
-1995,GUY,GUY,Guyana,-.63040608,16.227598,-.000026050804,Upper middle income,Latin America & Caribbean,0
+1990,GUY,GUY,Guyana,2.6472409,1.8167136,-.00069870532,Upper middle income,Latin America & Caribbean,0
+1995,GUY,GUY,Guyana,-.63040608,16.227598,.00069870532,Upper middle income,Latin America & Caribbean,0
 2000,GUY,GUY,Guyana,-4.2039223,19.895485,,Upper middle income,Latin America & Caribbean,0
 2005,GUY,GUY,Guyana,-2.0928497,-13.399389,,Upper middle income,Latin America & Caribbean,0
 2010,GUY,GUY,Guyana,-1.1167855,-15.332326,,Upper middle income,Latin America & Caribbean,1
@@ -1093,12 +1093,12 @@ year,countrycode,ctrycode,country,resid_y,resid_x1,resid_x2,income1,region,post
 1977,HND,HND,Honduras,3.0042636,.86226565,,Lower middle income,Latin America & Caribbean,0
 1980,HND,HND,Honduras,-.91483134,-8.3009148,,Lower middle income,Latin America & Caribbean,0
 1985,HND,HND,Honduras,1.0343789,-7.5100112,,Lower middle income,Latin America & Caribbean,0
-1990,HND,HND,Honduras,.56239218,-12.698063,.0053486852,Lower middle income,Latin America & Caribbean,0
-1995,HND,HND,Honduras,-1.4723113,-7.2616873,-.0013942687,Lower middle income,Latin America & Caribbean,0
-2000,HND,HND,Honduras,.064063452,2.388644,.00083071447,Lower middle income,Latin America & Caribbean,0
-2005,HND,HND,Honduras,-.55070102,3.9087734,.00052247138,Lower middle income,Latin America & Caribbean,0
-2010,HND,HND,Honduras,-1.0208675,5.8367062,-.010798172,Lower middle income,Latin America & Caribbean,1
-2015,HND,HND,Honduras,-.045782972,11.804333,.0054905694,Lower middle income,Latin America & Caribbean,1
+1990,HND,HND,Honduras,.56239218,-12.698063,.0062615108,Lower middle income,Latin America & Caribbean,0
+1995,HND,HND,Honduras,-1.4723113,-7.2616873,-.00081646634,Lower middle income,Latin America & Caribbean,0
+2000,HND,HND,Honduras,.064063452,2.388644,.0035741841,Lower middle income,Latin America & Caribbean,0
+2005,HND,HND,Honduras,-.55070102,3.9087734,-.0022968648,Lower middle income,Latin America & Caribbean,0
+2010,HND,HND,Honduras,-1.0208675,5.8367062,-.010463912,Lower middle income,Latin America & Caribbean,1
+2015,HND,HND,Honduras,-.045782972,11.804333,.0037415482,Lower middle income,Latin America & Caribbean,1
 2020,HND,HND,Honduras,.19569749,14.082291,,Lower middle income,Latin America & Caribbean,1
 1970,HPC,HPC,,-.68729115,,,,,0
 1977,HPC,HPC,,-.14134263,,,,,0
@@ -1121,8 +1121,8 @@ year,countrycode,ctrycode,country,resid_y,resid_x1,resid_x2,income1,region,post
 1995,HRV,HRV,Croatia,2.2014694,-10.722397,,High income,Europe & Central Asia,0
 2000,HRV,HRV,Croatia,2.6958039,-3.5686207,,High income,Europe & Central Asia,0
 2005,HRV,HRV,Croatia,-.39723822,6.9501586,,High income,Europe & Central Asia,0
-2010,HRV,HRV,Croatia,-2.8619037,13.637736,-.00932875,High income,Europe & Central Asia,1
-2015,HRV,HRV,Croatia,2.5658293,-.60874051,.00932875,High income,Europe & Central Asia,1
+2010,HRV,HRV,Croatia,-2.8619037,13.637736,-.0059703882,High income,Europe & Central Asia,1
+2015,HRV,HRV,Croatia,2.5658293,-.60874051,.0059703882,High income,Europe & Central Asia,1
 2020,HRV,HRV,Croatia,3.5134323,-5.6881366,,High income,Europe & Central Asia,1
 1960,HTI,HTI,Haiti,-.57326102,.78718275,,Lower middle income,Latin America & Caribbean,0
 1965,HTI,HTI,Haiti,-.11492641,2.8151879,,Lower middle income,Latin America & Caribbean,0
@@ -1133,8 +1133,8 @@ year,countrycode,ctrycode,country,resid_y,resid_x1,resid_x2,income1,region,post
 1990,HTI,HTI,Haiti,-2.8556235,10.316031,,Lower middle income,Latin America & Caribbean,0
 1995,HTI,HTI,Haiti,2.1664715,2.8627062,,Lower middle income,Latin America & Caribbean,0
 2000,HTI,HTI,Haiti,-1.8588834,3.8627555,,Lower middle income,Latin America & Caribbean,0
-2005,HTI,HTI,Haiti,.83696926,-4.1735525,.0050074263,Lower middle income,Latin America & Caribbean,0
-2010,HTI,HTI,Haiti,-1.1848086,-3.6490836,-.0050074263,Lower middle income,Latin America & Caribbean,1
+2005,HTI,HTI,Haiti,.83696926,-4.1735525,.0039420929,Lower middle income,Latin America & Caribbean,0
+2010,HTI,HTI,Haiti,-1.1848086,-3.6490836,-.0039420929,Lower middle income,Latin America & Caribbean,1
 2015,HTI,HTI,Haiti,-1.0598172,-3.4937773,,Lower middle income,Latin America & Caribbean,1
 2020,HTI,HTI,Haiti,-3.3918428,-10.104026,,Lower middle income,Latin America & Caribbean,1
 1960,HUN,HUN,Hungary,-1.611365,,,High income,Europe & Central Asia,0
@@ -1145,10 +1145,10 @@ year,countrycode,ctrycode,country,resid_y,resid_x1,resid_x2,income1,region,post
 1985,HUN,HUN,Hungary,-1.0262965,,,High income,Europe & Central Asia,0
 1990,HUN,HUN,Hungary,-4.2147379,2.4032629,,High income,Europe & Central Asia,0
 1995,HUN,HUN,Hungary,-1.3442422,-5.2171674,,High income,Europe & Central Asia,0
-2000,HUN,HUN,Hungary,.7461496,6.2587247,-.0049978904,High income,Europe & Central Asia,0
-2005,HUN,HUN,Hungary,-2.6826265,15.676164,.0041636396,High income,Europe & Central Asia,0
-2010,HUN,HUN,Hungary,-1.5530504,7.7570534,-.0036458294,High income,Europe & Central Asia,1
-2015,HUN,HUN,Hungary,1.5658426,-11.991635,.0044800802,High income,Europe & Central Asia,1
+2000,HUN,HUN,Hungary,.7461496,6.2587247,-.0022663963,High income,Europe & Central Asia,0
+2005,HUN,HUN,Hungary,-2.6826265,15.676164,.0022248931,High income,Europe & Central Asia,0
+2010,HUN,HUN,Hungary,-1.5530504,7.7570534,-.0035980465,High income,Europe & Central Asia,1
+2015,HUN,HUN,Hungary,1.5658426,-11.991635,.0036395497,High income,Europe & Central Asia,1
 2020,HUN,HUN,Hungary,.27751982,-14.886402,,High income,Europe & Central Asia,1
 1970,IBD,IBD,,-1.2109696,,,,,0
 1977,IBD,IBD,,-1.2847123,,,,,0
@@ -1178,12 +1178,12 @@ year,countrycode,ctrycode,country,resid_y,resid_x1,resid_x2,income1,region,post
 1977,IDN,IDN,Indonesia,.36380354,,,Lower middle income,East Asia & Pacific,0
 1980,IDN,IDN,Indonesia,1.9279945,3.8773689,,Lower middle income,East Asia & Pacific,0
 1985,IDN,IDN,Indonesia,-.063865043,11.363763,,Lower middle income,East Asia & Pacific,0
-1990,IDN,IDN,Indonesia,3.9634025,30.356567,.0078254072,Lower middle income,East Asia & Pacific,0
-1995,IDN,IDN,Indonesia,-3.1706066,21.604816,-.0022711873,Lower middle income,East Asia & Pacific,0
-2000,IDN,IDN,Indonesia,-.2867119,-6.7581825,.0016273727,Lower middle income,East Asia & Pacific,0
-2005,IDN,IDN,Indonesia,1.2114378,-14.020054,-.00016298519,Lower middle income,East Asia & Pacific,0
-2010,IDN,IDN,Indonesia,1.6145552,-12.812062,-.0067633018,Lower middle income,East Asia & Pacific,1
-2015,IDN,IDN,Indonesia,1.7107415,-12.749875,-.00025530538,Lower middle income,East Asia & Pacific,1
+1990,IDN,IDN,Indonesia,3.9634025,30.356567,.0089056743,Lower middle income,East Asia & Pacific,0
+1995,IDN,IDN,Indonesia,-3.1706066,21.604816,-.00096210412,Lower middle income,East Asia & Pacific,0
+2000,IDN,IDN,Indonesia,-.2867119,-6.7581825,.0028094877,Lower middle income,East Asia & Pacific,0
+2005,IDN,IDN,Indonesia,1.2114378,-14.020054,-.0046247588,Lower middle income,East Asia & Pacific,0
+2010,IDN,IDN,Indonesia,1.6145552,-12.812062,-.0060128719,Lower middle income,East Asia & Pacific,1
+2015,IDN,IDN,Indonesia,1.7107415,-12.749875,-.00011542763,Lower middle income,East Asia & Pacific,1
 2020,IDN,IDN,Indonesia,1.0032853,-20.862341,,Lower middle income,East Asia & Pacific,1
 1960,IMN,IMN,Isle of Man,,,,High income,Europe & Central Asia,0
 1965,IMN,IMN,Isle of Man,,,,High income,Europe & Central Asia,0
@@ -1202,14 +1202,14 @@ year,countrycode,ctrycode,country,resid_y,resid_x1,resid_x2,income1,region,post
 1965,IND,IND,India,-4.0563178,2.2634926,,Lower middle income,South Asia,0
 1970,IND,IND,India,-5.281261,.82241625,,Lower middle income,South Asia,0
 1977,IND,IND,India,-2.694711,4.8691897,,Lower middle income,South Asia,0
-1980,IND,IND,India,1.1559457,5.8426275,.020956047,Lower middle income,South Asia,0
-1985,IND,IND,India,.47145975,3.8492565,.010321323,Lower middle income,South Asia,0
-1990,IND,IND,India,1.2850535,-1.5491527,.0068977317,Lower middle income,South Asia,0
-1995,IND,IND,India,1.0726523,-6.1950116,-.0028641608,Lower middle income,South Asia,0
-2000,IND,IND,India,.020733885,-2.0699587,-.0054164319,Lower middle income,South Asia,0
-2005,IND,IND,India,1.8472418,1.6028819,-.0065094791,Lower middle income,South Asia,0
-2010,IND,IND,India,1.9705665,2.6622074,-.016081359,Lower middle income,South Asia,1
-2015,IND,IND,India,3.0414948,-3.4996958,-.007303671,Lower middle income,South Asia,1
+1980,IND,IND,India,1.1559457,5.8426275,.018008981,Lower middle income,South Asia,0
+1985,IND,IND,India,.47145975,3.8492565,.0080653317,Lower middle income,South Asia,0
+1990,IND,IND,India,1.2850535,-1.5491527,.0062050396,Lower middle income,South Asia,0
+1995,IND,IND,India,1.0726523,-6.1950116,-.0031122975,Lower middle income,South Asia,0
+2000,IND,IND,India,.020733885,-2.0699587,-.0024403695,Lower middle income,South Asia,0
+2005,IND,IND,India,1.8472418,1.6028819,-.0087100687,Lower middle income,South Asia,0
+2010,IND,IND,India,1.9705665,2.6622074,-.013129725,Lower middle income,South Asia,1
+2015,IND,IND,India,3.0414948,-3.4996958,-.0048868912,Lower middle income,South Asia,1
 2020,IND,IND,India,2.6435316,-9.1072235,,Lower middle income,South Asia,1
 1960,IRL,IRL,Ireland,-2.4741273,-1.0484298,,High income,Europe & Central Asia,0
 1965,IRL,IRL,Ireland,-2.1580424,-3.7353094,,High income,Europe & Central Asia,0
@@ -1219,10 +1219,10 @@ year,countrycode,ctrycode,country,resid_y,resid_x1,resid_x2,income1,region,post
 1985,IRL,IRL,Ireland,-.41634405,-11.753079,,High income,Europe & Central Asia,0
 1990,IRL,IRL,Ireland,1.5657462,-12.658819,,High income,Europe & Central Asia,0
 1995,IRL,IRL,Ireland,3.8577721,16.317022,,High income,Europe & Central Asia,0
-2000,IRL,IRL,Ireland,.64187187,18.408213,.0047405413,High income,Europe & Central Asia,0
-2005,IRL,IRL,Ireland,-4.0574446,76.331207,-.0042075412,High income,Europe & Central Asia,0
-2010,IRL,IRL,Ireland,-.51881766,28.018957,.0081283133,High income,Europe & Central Asia,1
-2015,IRL,IRL,Ireland,5.8910456,-37.872494,-.008661313,High income,Europe & Central Asia,1
+2000,IRL,IRL,Ireland,.64187187,18.408213,.0096513834,High income,Europe & Central Asia,0
+2005,IRL,IRL,Ireland,-4.0574446,76.331207,-.0032814171,High income,Europe & Central Asia,0
+2010,IRL,IRL,Ireland,-.51881766,28.018957,.001823996,High income,Europe & Central Asia,1
+2015,IRL,IRL,Ireland,5.8910456,-37.872494,-.0081939623,High income,Europe & Central Asia,1
 2020,IRL,IRL,Ireland,3.3410194,-59.215099,,High income,Europe & Central Asia,1
 1960,IRN,IRN,"Iran, Islamic Rep.",3.0829749,3.8217015,,Lower middle income,Middle East & North Africa,0
 1965,IRN,IRN,"Iran, Islamic Rep.",8.1715412,3.9729247,,Lower middle income,Middle East & North Africa,0
@@ -1246,8 +1246,8 @@ year,countrycode,ctrycode,country,resid_y,resid_x1,resid_x2,income1,region,post
 1990,IRQ,IRQ,Iraq,7.9256306,,,Upper middle income,Middle East & North Africa,0
 1995,IRQ,IRQ,Iraq,9.2276497,,,Upper middle income,Middle East & North Africa,0
 2000,IRQ,IRQ,Iraq,-1.4628813,-15.533938,,Upper middle income,Middle East & North Africa,0
-2005,IRQ,IRQ,Iraq,-2.0817885,-21.035278,-.20138553,Upper middle income,Middle East & North Africa,0
-2010,IRQ,IRQ,Iraq,-.63041133,-14.71976,.20138553,Upper middle income,Middle East & North Africa,1
+2005,IRQ,IRQ,Iraq,-2.0817885,-21.035278,.077014953,Upper middle income,Middle East & North Africa,0
+2010,IRQ,IRQ,Iraq,-.63041133,-14.71976,.49388519,Upper middle income,Middle East & North Africa,1
 2015,IRQ,IRQ,Iraq,-1.8523184,-16.557648,,Upper middle income,Middle East & North Africa,1
 2020,IRQ,IRQ,Iraq,-7.2109375,-16.819675,,Upper middle income,Middle East & North Africa,1
 1960,ISL,ISL,Iceland,1.0037171,-7.1656537,,High income,Europe & Central Asia,0
@@ -1258,9 +1258,9 @@ year,countrycode,ctrycode,country,resid_y,resid_x1,resid_x2,income1,region,post
 1985,ISL,ISL,Iceland,.73642892,-35.315254,,High income,Europe & Central Asia,0
 1990,ISL,ISL,Iceland,-.13523902,-33.245506,,High income,Europe & Central Asia,0
 1995,ISL,ISL,Iceland,.88047987,-19.700525,,High income,Europe & Central Asia,0
-2000,ISL,ISL,Iceland,.29066738,33.62619,.0085393088,High income,Europe & Central Asia,0
-2005,ISL,ISL,Iceland,-1.2991383,142.65437,.0067579327,High income,Europe & Central Asia,0
-2010,ISL,ISL,Iceland,-1.449842,29.641487,-.015297242,High income,Europe & Central Asia,1
+2000,ISL,ISL,Iceland,.29066738,33.62619,.010545984,High income,Europe & Central Asia,0
+2005,ISL,ISL,Iceland,-1.2991383,142.65437,.008279331,High income,Europe & Central Asia,0
+2010,ISL,ISL,Iceland,-1.449842,29.641487,-.018825315,High income,Europe & Central Asia,1
 2015,ISL,ISL,Iceland,.078429542,-1.4447316,,High income,Europe & Central Asia,1
 2020,ISL,ISL,Iceland,-.29126298,7.4567437,,High income,Europe & Central Asia,1
 1960,ISR,ISR,Israel,1.2015965,-10.958364,,High income,Middle East & North Africa,0
@@ -1282,12 +1282,12 @@ year,countrycode,ctrycode,country,resid_y,resid_x1,resid_x2,income1,region,post
 1977,ITA,ITA,Italy,.47406918,7.384449,,High income,Europe & Central Asia,0
 1980,ITA,ITA,Italy,.75765741,-9.3669767,,High income,Europe & Central Asia,0
 1985,ITA,ITA,Italy,1.5374689,-15.716353,,High income,Europe & Central Asia,0
-1990,ITA,ITA,Italy,1.6575224,-13.255125,-.013770923,High income,Europe & Central Asia,0
-1995,ITA,ITA,Italy,.21225236,-18.962824,-.0070988722,High income,Europe & Central Asia,0
-2000,ITA,ITA,Italy,-.42928833,-10.297114,-.00067192613,High income,Europe & Central Asia,0
-2005,ITA,ITA,Italy,-2.8270876,-1.3619089,-.0011996931,High income,Europe & Central Asia,0
-2010,ITA,ITA,Italy,-3.2509565,11.857654,.004855678,High income,Europe & Central Asia,1
-2015,ITA,ITA,Italy,-.94322711,.044861939,.017885737,High income,Europe & Central Asia,1
+1990,ITA,ITA,Italy,1.6575224,-13.255125,-.013158718,High income,Europe & Central Asia,0
+1995,ITA,ITA,Italy,.21225236,-18.962824,-.0079111764,High income,Europe & Central Asia,0
+2000,ITA,ITA,Italy,-.42928833,-10.297114,.0019095611,High income,Europe & Central Asia,0
+2005,ITA,ITA,Italy,-2.8270876,-1.3619089,-.0028157558,High income,Europe & Central Asia,0
+2010,ITA,ITA,Italy,-3.2509565,11.857654,.0068082712,High income,Europe & Central Asia,1
+2015,ITA,ITA,Italy,-.94322711,.044861939,.015167817,High income,Europe & Central Asia,1
 2020,ITA,ITA,Italy,.078413166,-4.2264037,,High income,Europe & Central Asia,1
 1960,JAM,JAM,Jamaica,,,,Upper middle income,Latin America & Caribbean,0
 1965,JAM,JAM,Jamaica,,,,Upper middle income,Latin America & Caribbean,0
@@ -1295,9 +1295,9 @@ year,countrycode,ctrycode,country,resid_y,resid_x1,resid_x2,income1,region,post
 1977,JAM,JAM,Jamaica,-4.1339931,6.0474796,,Upper middle income,Latin America & Caribbean,0
 1980,JAM,JAM,Jamaica,-.42549184,9.5336123,,Upper middle income,Latin America & Caribbean,0
 1985,JAM,JAM,Jamaica,2.4904144,6.5357666,,Upper middle income,Latin America & Caribbean,0
-1990,JAM,JAM,Jamaica,5.4308133,-2.360352,.035401475,Upper middle income,Latin America & Caribbean,0
-1995,JAM,JAM,Jamaica,-1.5235038,-9.4294157,-.014186122,Upper middle income,Latin America & Caribbean,0
-2000,JAM,JAM,Jamaica,-.14152461,-11.1994,-.021215355,Upper middle income,Latin America & Caribbean,0
+1990,JAM,JAM,Jamaica,5.4308133,-2.360352,.033903647,Upper middle income,Latin America & Caribbean,0
+1995,JAM,JAM,Jamaica,-1.5235038,-9.4294157,-.014321303,Upper middle income,Latin America & Caribbean,0
+2000,JAM,JAM,Jamaica,-.14152461,-11.1994,-.019582342,Upper middle income,Latin America & Caribbean,0
 2005,JAM,JAM,Jamaica,-1.8545319,-12.347586,,Upper middle income,Latin America & Caribbean,0
 2010,JAM,JAM,Jamaica,-1.9467981,-9.3557816,,Upper middle income,Latin America & Caribbean,1
 2015,JAM,JAM,Jamaica,-.20610797,.32837391,,Upper middle income,Latin America & Caribbean,1
@@ -1310,10 +1310,10 @@ year,countrycode,ctrycode,country,resid_y,resid_x1,resid_x2,income1,region,post
 1985,JOR,JOR,Jordan,-5.9988198,-1.6830931,,Upper middle income,Middle East & North Africa,0
 1990,JOR,JOR,Jordan,-2.2894967,11.431532,,Upper middle income,Middle East & North Africa,0
 1995,JOR,JOR,Jordan,-.74634689,2.5102396,,Upper middle income,Middle East & North Africa,0
-2000,JOR,JOR,Jordan,1.5109946,3.9608204,.023365479,Upper middle income,Middle East & North Africa,0
-2005,JOR,JOR,Jordan,1.3958992,10.801268,.0068005766,Upper middle income,Middle East & North Africa,0
-2010,JOR,JOR,Jordan,-3.4367445,-2.7110047,-.0047481474,Upper middle income,Middle East & North Africa,1
-2015,JOR,JOR,Jordan,-3.6944456,2.7047668,-.025417907,Upper middle income,Middle East & North Africa,1
+2000,JOR,JOR,Jordan,1.5109946,3.9608204,.017804163,Upper middle income,Middle East & North Africa,0
+2005,JOR,JOR,Jordan,1.3958992,10.801268,.0063602314,Upper middle income,Middle East & North Africa,0
+2010,JOR,JOR,Jordan,-3.4367445,-2.7110047,.00019227857,Upper middle income,Middle East & North Africa,1
+2015,JOR,JOR,Jordan,-3.6944456,2.7047668,-.024356671,Upper middle income,Middle East & North Africa,1
 2020,JOR,JOR,Jordan,-1.1088308,2.8764772,,Upper middle income,Middle East & North Africa,1
 1960,JPN,JPN,Japan,2.0770009,-11.89761,,High income,East Asia & Pacific,0
 1965,JPN,JPN,Japan,3.6597788,-9.7063885,,High income,East Asia & Pacific,0
@@ -1338,8 +1338,8 @@ year,countrycode,ctrycode,country,resid_y,resid_x1,resid_x2,income1,region,post
 1995,KAZ,KAZ,Kazakhstan,-3.2543981,-11.159452,,Upper middle income,Europe & Central Asia,0
 2000,KAZ,KAZ,Kazakhstan,5.7305727,4.9229455,,Upper middle income,Europe & Central Asia,0
 2005,KAZ,KAZ,Kazakhstan,3.0472779,18.476545,,Upper middle income,Europe & Central Asia,0
-2010,KAZ,KAZ,Kazakhstan,2.7768235,.79840881,-.001755889,Upper middle income,Europe & Central Asia,1
-2015,KAZ,KAZ,Kazakhstan,.48079473,-10.560546,.001755889,Upper middle income,Europe & Central Asia,1
+2010,KAZ,KAZ,Kazakhstan,2.7768235,.79840881,-.0015161504,Upper middle income,Europe & Central Asia,1
+2015,KAZ,KAZ,Kazakhstan,.48079473,-10.560546,.0015161504,Upper middle income,Europe & Central Asia,1
 2020,KAZ,KAZ,Kazakhstan,.72703838,-19.411978,,Upper middle income,Europe & Central Asia,1
 1960,KEN,KEN,Kenya,-1.8701706,7.5531912,,Lower middle income,Sub-Saharan Africa,0
 1965,KEN,KEN,Kenya,1.1756642,9.1530266,,Lower middle income,Sub-Saharan Africa,0
@@ -1348,9 +1348,9 @@ year,countrycode,ctrycode,country,resid_y,resid_x1,resid_x2,income1,region,post
 1980,KEN,KEN,Kenya,-.067344129,1.8984047,,Lower middle income,Sub-Saharan Africa,0
 1985,KEN,KEN,Kenya,1.3072699,-1.2288942,,Lower middle income,Sub-Saharan Africa,0
 1990,KEN,KEN,Kenya,-.61141074,-3.9658389,,Lower middle income,Sub-Saharan Africa,0
-1995,KEN,KEN,Kenya,-1.7694936,-.5850122,.0014648194,Lower middle income,Sub-Saharan Africa,0
+1995,KEN,KEN,Kenya,-1.7694936,-.5850122,.0033234523,Lower middle income,Sub-Saharan Africa,0
 2000,KEN,KEN,Kenya,-2.9674666,2.8006222,,Lower middle income,Sub-Saharan Africa,0
-2005,KEN,KEN,Kenya,-.67499065,-8.1773653,-.0014648194,Lower middle income,Sub-Saharan Africa,0
+2005,KEN,KEN,Kenya,-.67499065,-8.1773653,-.0033234523,Lower middle income,Sub-Saharan Africa,0
 2010,KEN,KEN,Kenya,.40620795,-6.3275957,,Lower middle income,Sub-Saharan Africa,1
 2015,KEN,KEN,Kenya,.33595926,-2.1362896,,Lower middle income,Sub-Saharan Africa,1
 2020,KEN,KEN,Kenya,1.0209079,-10.509592,,Lower middle income,Sub-Saharan Africa,1
@@ -1362,10 +1362,10 @@ year,countrycode,ctrycode,country,resid_y,resid_x1,resid_x2,income1,region,post
 1985,KGZ,KGZ,Kyrgyz Republic,,,,Lower middle income,Europe & Central Asia,0
 1990,KGZ,KGZ,Kyrgyz Republic,-7.9911203,,,Lower middle income,Europe & Central Asia,0
 1995,KGZ,KGZ,Kyrgyz Republic,-.12108386,5.2584128,,Lower middle income,Europe & Central Asia,0
-2000,KGZ,KGZ,Kyrgyzstan,1.5642812,-.75088173,-.033444211,Lower middle income,Europe & Central Asia,0
-2005,KGZ,KGZ,Kyrgyzstan,1.3264236,-3.5307782,.064756654,Lower middle income,Europe & Central Asia,0
-2010,KGZ,KGZ,Kyrgyzstan,1.526657,-4.9015312,-.035805199,Lower middle income,Europe & Central Asia,1
-2015,KGZ,KGZ,Kyrgyzstan,1.8867434,2.0012634,.0044927588,Lower middle income,Europe & Central Asia,1
+2000,KGZ,KGZ,Kyrgyzstan,1.5642812,-.75088173,-.031196015,Lower middle income,Europe & Central Asia,0
+2005,KGZ,KGZ,Kyrgyzstan,1.3264236,-3.5307782,.062024724,Lower middle income,Europe & Central Asia,0
+2010,KGZ,KGZ,Kyrgyzstan,1.526657,-4.9015312,-.036233351,Lower middle income,Europe & Central Asia,1
+2015,KGZ,KGZ,Kyrgyzstan,1.8867434,2.0012634,.00540464,Lower middle income,Europe & Central Asia,1
 2020,KGZ,KGZ,Kyrgyzstan,1.8080989,1.9235151,,Lower middle income,Europe & Central Asia,1
 1960,KHM,KHM,Cambodia,,,,Lower middle income,East Asia & Pacific,0
 1965,KHM,KHM,Cambodia,,,,Lower middle income,East Asia & Pacific,0
@@ -1374,10 +1374,10 @@ year,countrycode,ctrycode,country,resid_y,resid_x1,resid_x2,income1,region,post
 1980,KHM,KHM,Cambodia,-2.6310472,,,Lower middle income,East Asia & Pacific,0
 1985,KHM,KHM,Cambodia,3.6125939,,,Lower middle income,East Asia & Pacific,0
 1990,KHM,KHM,Cambodia,-7.2659836,-30.746422,,Lower middle income,East Asia & Pacific,0
-1995,KHM,KHM,Cambodia,-2.7405851,-15.571455,-.01894214,Lower middle income,East Asia & Pacific,0
-2000,KHM,KHM,Cambodia,1.9862014,-25.756311,.0039785332,Lower middle income,East Asia & Pacific,0
-2005,KHM,KHM,Cambodia,3.4667501,-30.192682,.0022285045,Lower middle income,East Asia & Pacific,0
-2010,KHM,KHM,Cambodia,2.707839,-13.525758,.012735102,Lower middle income,East Asia & Pacific,1
+1995,KHM,KHM,Cambodia,-2.7405851,-15.571455,-.0075591695,Lower middle income,East Asia & Pacific,0
+2000,KHM,KHM,Cambodia,1.9862014,-25.756311,.0025419479,Lower middle income,East Asia & Pacific,0
+2005,KHM,KHM,Cambodia,3.4667501,-30.192682,-.0035799672,Lower middle income,East Asia & Pacific,0
+2010,KHM,KHM,Cambodia,2.707839,-13.525758,.0085971886,Lower middle income,East Asia & Pacific,1
 2015,KHM,KHM,Cambodia,4.8528156,30.210075,,Lower middle income,East Asia & Pacific,1
 2020,KHM,KHM,Cambodia,.28775114,85.58255,,Lower middle income,East Asia & Pacific,1
 1960,KIR,KIR,Kiribati,,,,Lower middle income,East Asia & Pacific,0
@@ -1389,7 +1389,7 @@ year,countrycode,ctrycode,country,resid_y,resid_x1,resid_x2,income1,region,post
 1990,KIR,KIR,Kiribati,2.4285314,,,Lower middle income,East Asia & Pacific,0
 1995,KIR,KIR,Kiribati,-2.458523,,,Lower middle income,East Asia & Pacific,0
 2000,KIR,KIR,Kiribati,-3.918565,,,Lower middle income,East Asia & Pacific,0
-2005,KIR,KIR,Kiribati,-3.2154582,,-2.7755576e-17,Lower middle income,East Asia & Pacific,0
+2005,KIR,KIR,Kiribati,-3.2154582,,-1.3877788e-17,Lower middle income,East Asia & Pacific,0
 2010,KIR,KIR,Kiribati,-.70873165,,,Lower middle income,East Asia & Pacific,1
 2015,KIR,KIR,Kiribati,2.3827474,,,Lower middle income,East Asia & Pacific,1
 2020,KIR,KIR,,1.4362626,,,Lower middle income,East Asia & Pacific,1
@@ -1414,10 +1414,10 @@ year,countrycode,ctrycode,country,resid_y,resid_x1,resid_x2,income1,region,post
 1985,KOR,KOR,"Korea, Rep.",2.8103173,-15.343855,,High income,East Asia & Pacific,0
 1990,KOR,KOR,"Korea, Rep.",4.4236579,-23.091076,,High income,East Asia & Pacific,0
 1995,KOR,KOR,"Korea, Rep.",.26516989,-23.946203,,High income,East Asia & Pacific,0
-2000,KOR,KOR,Korea,1.075714,-8.1613264,.011400587,High income,East Asia & Pacific,0
-2005,KOR,KOR,Korea,-.95624846,-7.6324582,.0066513205,High income,East Asia & Pacific,0
-2010,KOR,KOR,Korea,-.91802603,7.1983438,-.0088010002,High income,East Asia & Pacific,1
-2015,KOR,KOR,Korea,-.94354004,38.2029,-.0092509072,High income,East Asia & Pacific,1
+2000,KOR,KOR,Korea,1.075714,-8.1613264,.011740747,High income,East Asia & Pacific,0
+2005,KOR,KOR,Korea,-.95624846,-7.6324582,.0036733518,High income,East Asia & Pacific,0
+2010,KOR,KOR,Korea,-.91802603,7.1983438,-.006103572,High income,East Asia & Pacific,1
+2015,KOR,KOR,Korea,-.94354004,38.2029,-.0093105268,High income,East Asia & Pacific,1
 2020,KOR,KOR,Korea,.018753588,58.053204,,High income,East Asia & Pacific,1
 1960,KWT,KWT,Kuwait,,,,High income,Middle East & North Africa,0
 1965,KWT,KWT,Kuwait,,,,High income,Middle East & North Africa,0
@@ -1440,9 +1440,9 @@ year,countrycode,ctrycode,country,resid_y,resid_x1,resid_x2,income1,region,post
 1985,LAO,LAO,Lao PDR,-2.7522869,3.7396524,,Lower middle income,East Asia & Pacific,0
 1990,LAO,LAO,Lao PDR,1.176755,5.5017042,,Lower middle income,East Asia & Pacific,0
 1995,LAO,LAO,Lao PDR,-.38613367,4.232935,,Lower middle income,East Asia & Pacific,0
-2000,LAO,LAO,Lao People's Democratic Republic,-.80181551,-.97972012,.01335142,Lower middle income,East Asia & Pacific,0
-2005,LAO,LAO,Lao People's Democratic Republic,.60691214,-8.7331133,-.003521808,Lower middle income,East Asia & Pacific,0
-2010,LAO,LAO,Lao People's Democratic Republic,1.8641318,-3.7614582,-.0098296115,Lower middle income,East Asia & Pacific,1
+2000,LAO,LAO,Lao People's Democratic Republic,-.80181551,-.97972012,.012884755,Lower middle income,East Asia & Pacific,0
+2005,LAO,LAO,Lao People's Democratic Republic,.60691214,-8.7331133,-.0051185084,Lower middle income,East Asia & Pacific,0
+2010,LAO,LAO,Lao People's Democratic Republic,1.8641318,-3.7614582,-.0077662463,Lower middle income,East Asia & Pacific,1
 2015,LAO,LAO,Lao People's Democratic Republic,1.5066478,,,Lower middle income,East Asia & Pacific,1
 2020,LAO,LAO,Lao People's Democratic Republic,-1.2142107,,,Lower middle income,East Asia & Pacific,1
 1960,LBN,LBN,Lebanon,,,,Lower middle income,Middle East & North Africa,0
@@ -1453,9 +1453,9 @@ year,countrycode,ctrycode,country,resid_y,resid_x1,resid_x2,income1,region,post
 1985,LBN,LBN,Lebanon,,,,Lower middle income,Middle East & North Africa,0
 1990,LBN,LBN,Lebanon,18.315815,-3.6781383,,Lower middle income,Middle East & North Africa,0
 1995,LBN,LBN,Lebanon,-.97396731,-4.0479918,,Lower middle income,Middle East & North Africa,0
-2000,LBN,LBN,Lebanon,-1.668231,8.4157715,-.09642794,Lower middle income,Middle East & North Africa,0
+2000,LBN,LBN,Lebanon,-1.668231,8.4157715,-.10326944,Lower middle income,Middle East & North Africa,0
 2005,LBN,LBN,Lebanon,1.2617799,-11.037039,,Lower middle income,Middle East & North Africa,0
-2010,LBN,LBN,Lebanon,-4.1835833,8.4325056,.09642794,Lower middle income,Middle East & North Africa,1
+2010,LBN,LBN,Lebanon,-4.1835833,8.4325056,.10326944,Lower middle income,Middle East & North Africa,1
 2015,LBN,LBN,Lebanon,-.82005221,1.9148924,,Lower middle income,Middle East & North Africa,1
 2020,LBN,LBN,Lebanon,-11.931762,,,Lower middle income,Middle East & North Africa,1
 1960,LBR,LBR,Liberia,2.484297,,,Low income,Sub-Saharan Africa,0
@@ -1467,9 +1467,9 @@ year,countrycode,ctrycode,country,resid_y,resid_x1,resid_x2,income1,region,post
 1990,LBR,LBR,Liberia,-26.287766,,,Low income,Sub-Saharan Africa,0
 1995,LBR,LBR,Liberia,24.258524,,,Low income,Sub-Saharan Africa,0
 2000,LBR,LBR,Liberia,-1.6843998,-5.7894998,,Low income,Sub-Saharan Africa,0
-2005,LBR,LBR,Liberia,.88133168,1.6367401,-.0040225,Low income,Sub-Saharan Africa,0
-2010,LBR,LBR,Liberia,1.3798187,1.6283251,-.0031405725,Low income,Sub-Saharan Africa,1
-2015,LBR,LBR,Liberia,-3.7397704,2.4695559,.0071630725,Low income,Sub-Saharan Africa,1
+2005,LBR,LBR,Liberia,.88133168,1.6367401,-.0023160072,Low income,Sub-Saharan Africa,0
+2010,LBR,LBR,Liberia,1.3798187,1.6283251,-.0018522359,Low income,Sub-Saharan Africa,1
+2015,LBR,LBR,Liberia,-3.7397704,2.4695559,.0041682431,Low income,Sub-Saharan Africa,1
 2020,LBR,LBR,Liberia,-.80517399,.05487901,,Low income,Sub-Saharan Africa,1
 1960,LBY,LBY,Libya,21.401617,18.813049,,Upper middle income,Middle East & North Africa,0
 1965,LBY,LBY,Libya,15.809658,-6.6894975,,Upper middle income,Middle East & North Africa,0
@@ -1495,7 +1495,7 @@ year,countrycode,ctrycode,country,resid_y,resid_x1,resid_x2,income1,region,post
 2000,LCA,LCA,Saint Lucia,-2.4578741,3.3312781,,Upper middle income,Latin America & Caribbean,0
 2005,LCA,LCA,Saint Lucia,-1.9854715,14.277719,,Upper middle income,Latin America & Caribbean,0
 2010,LCA,LCA,Saint Lucia,-2.7944512,20.134871,,Upper middle income,Latin America & Caribbean,1
-2015,LCA,LCA,Saint Lucia,-1.1621909,-7.6450534,-2.7755576e-17,Upper middle income,Latin America & Caribbean,1
+2015,LCA,LCA,Saint Lucia,-1.1621909,-7.6450534,-1.3877788e-17,Upper middle income,Latin America & Caribbean,1
 2020,LCA,LCA,Saint Lucia,.40994146,-1.4619066,,Upper middle income,Latin America & Caribbean,1
 1960,LIE,LIE,Liechtenstein,,,,High income,Europe & Central Asia,0
 1965,LIE,LIE,Liechtenstein,,,,High income,Europe & Central Asia,0
@@ -1516,12 +1516,12 @@ year,countrycode,ctrycode,country,resid_y,resid_x1,resid_x2,income1,region,post
 1977,LKA,LKA,Sri Lanka,-.78773677,11.119923,,Lower middle income,South Asia,0
 1980,LKA,LKA,Sri Lanka,2.2399514,5.6279035,,Lower middle income,South Asia,0
 1985,LKA,LKA,Sri Lanka,-1.1018618,1.8025717,,Lower middle income,South Asia,0
-1990,LKA,LKA,Sri Lanka,2.8358352,-8.9620409,.0064233318,Lower middle income,South Asia,0
-1995,LKA,LKA,Sri Lanka,-.58276355,5.4238009,-.010125494,Lower middle income,South Asia,0
-2000,LKA,LKA,Sri Lanka,-.56152523,-.55097538,-.0026400543,Lower middle income,South Asia,0
-2005,LKA,LKA,Sri Lanka,2.5991158,-11.47222,.0066394112,Lower middle income,South Asia,0
-2010,LKA,LKA,Sri Lanka,4.7867484,-22.716162,.0025306237,Lower middle income,South Asia,1
-2015,LKA,LKA,Sri Lanka,.98936236,-5.9195971,-.0028278187,Lower middle income,South Asia,1
+1990,LKA,LKA,Sri Lanka,2.8358352,-8.9620409,.0073603718,Lower middle income,South Asia,0
+1995,LKA,LKA,Sri Lanka,-.58276355,5.4238009,-.0060375151,Lower middle income,South Asia,0
+2000,LKA,LKA,Sri Lanka,-.56152523,-.55097538,.000017686378,Lower middle income,South Asia,0
+2005,LKA,LKA,Sri Lanka,2.5991158,-11.47222,.00046864492,Lower middle income,South Asia,0
+2010,LKA,LKA,Sri Lanka,4.7867484,-22.716162,-.0011305023,Lower middle income,South Asia,1
+2015,LKA,LKA,Sri Lanka,.98936236,-5.9195971,-.00067868549,Lower middle income,South Asia,1
 2020,LKA,LKA,Sri Lanka,-3.5852077,,,Lower middle income,South Asia,1
 1960,LSO,LSO,Lesotho,1.9733312,,,Lower middle income,Sub-Saharan Africa,0
 1965,LSO,LSO,Lesotho,-4.7734246,,,Lower middle income,Sub-Saharan Africa,0
@@ -1531,10 +1531,10 @@ year,countrycode,ctrycode,country,resid_y,resid_x1,resid_x2,income1,region,post
 1985,LSO,LSO,Lesotho,.53590894,11.00255,,Lower middle income,Sub-Saharan Africa,0
 1990,LSO,LSO,Lesotho,4.3889809,9.1224651,,Lower middle income,Sub-Saharan Africa,0
 1995,LSO,LSO,Lesotho,-.55958134,3.1083827,,Lower middle income,Sub-Saharan Africa,0
-2000,LSO,LSO,Lesotho,.29365894,-9.0805435,.042449214,Lower middle income,Sub-Saharan Africa,0
+2000,LSO,LSO,Lesotho,.29365894,-9.0805435,.039749108,Lower middle income,Sub-Saharan Africa,0
 2005,LSO,LSO,Lesotho,.70863634,-19.544474,,Lower middle income,Sub-Saharan Africa,0
-2010,LSO,LSO,Lesotho,.95235747,-12.892936,.056482002,Lower middle income,Sub-Saharan Africa,1
-2015,LSO,LSO,Lesotho,-2.7601628,-10.878109,-.098931216,Lower middle income,Sub-Saharan Africa,1
+2010,LSO,LSO,Lesotho,.95235747,-12.892936,.057160545,Lower middle income,Sub-Saharan Africa,1
+2015,LSO,LSO,Lesotho,-2.7601628,-10.878109,-.096909657,Lower middle income,Sub-Saharan Africa,1
 2020,LSO,LSO,Lesotho,-2.9633882,-11.390955,,Lower middle income,Sub-Saharan Africa,1
 1970,LTE,LTE,,-1.2423918,,,,,0
 1977,LTE,LTE,,-1.2890171,,,,,0
@@ -1555,10 +1555,10 @@ year,countrycode,ctrycode,country,resid_y,resid_x1,resid_x2,income1,region,post
 1985,LTU,LTU,Lithuania,,,,High income,Europe & Central Asia,0
 1990,LTU,LTU,Lithuania,-12.920689,,,High income,Europe & Central Asia,0
 1995,LTU,LTU,Lithuania,1.5867652,-5.0285525,,High income,Europe & Central Asia,0
-2000,LTU,LTU,Lithuania,3.690721,-2.8129427,.0066093686,High income,Europe & Central Asia,0
-2005,LTU,LTU,Lithuania,1.0456367,14.859801,-.018545229,High income,Europe & Central Asia,0
-2010,LTU,LTU,Lithuania,2.6431413,6.1660151,.001458204,High income,Europe & Central Asia,1
-2015,LTU,LTU,Lithuania,3.2610919,-3.7800584,.010477656,High income,Europe & Central Asia,1
+2000,LTU,LTU,Lithuania,3.690721,-2.8129427,.0090232799,High income,Europe & Central Asia,0
+2005,LTU,LTU,Lithuania,1.0456367,14.859801,-.021399083,High income,Europe & Central Asia,0
+2010,LTU,LTU,Lithuania,2.6431413,6.1660151,.00055487425,High income,Europe & Central Asia,1
+2015,LTU,LTU,Lithuania,3.2610919,-3.7800584,.011820928,High income,Europe & Central Asia,1
 2020,LTU,LTU,Lithuania,.69333291,-9.4042625,,High income,Europe & Central Asia,1
 1960,LUX,LUX,Luxembourg,-.45882359,-12.600254,,High income,Europe & Central Asia,0
 1965,LUX,LUX,Luxembourg,-1.3970294,-11.379627,,High income,Europe & Central Asia,0
@@ -1566,12 +1566,12 @@ year,countrycode,ctrycode,country,resid_y,resid_x1,resid_x2,income1,region,post
 1977,LUX,LUX,Luxembourg,-2.8889418,1.3892705,,High income,Europe & Central Asia,0
 1980,LUX,LUX,Luxembourg,.64750123,21.562059,,High income,Europe & Central Asia,0
 1985,LUX,LUX,Luxembourg,4.4224815,14.549338,,High income,Europe & Central Asia,0
-1990,LUX,LUX,Luxembourg,4.2548103,20.138208,-.013222338,High income,Europe & Central Asia,0
-1995,LUX,LUX,Luxembourg,1.5852975,1.9528372,-.003502303,High income,Europe & Central Asia,0
-2000,LUX,LUX,Luxembourg,.71306455,-16.737724,-.0025221151,High income,Europe & Central Asia,0
-2005,LUX,LUX,Luxembourg,-1.213268,-7.8456407,.0086660031,High income,Europe & Central Asia,0
-2010,LUX,LUX,Luxembourg,-2.1409039,-8.0840397,-.0082210544,High income,Europe & Central Asia,1
-2015,LUX,LUX,Luxembourg,-1.6796381,7.8089194,.018801808,High income,Europe & Central Asia,1
+1990,LUX,LUX,Luxembourg,4.2548103,20.138208,-.018204998,High income,Europe & Central Asia,0
+1995,LUX,LUX,Luxembourg,1.5852975,1.9528372,-.0075574359,High income,Europe & Central Asia,0
+2000,LUX,LUX,Luxembourg,.71306455,-16.737724,-.0012944087,High income,Europe & Central Asia,0
+2005,LUX,LUX,Luxembourg,-1.213268,-7.8456407,.0072937529,High income,Europe & Central Asia,0
+2010,LUX,LUX,Luxembourg,-2.1409039,-8.0840397,-.0025909287,High income,Europe & Central Asia,1
+2015,LUX,LUX,Luxembourg,-1.6796381,7.8089194,.022354018,High income,Europe & Central Asia,1
 2020,LUX,LUX,Luxembourg,-1.1069807,2.915652,,High income,Europe & Central Asia,1
 1960,LVA,LVA,Latvia,,,,High income,Europe & Central Asia,0
 1965,LVA,LVA,Latvia,,,,High income,Europe & Central Asia,0
@@ -1580,11 +1580,11 @@ year,countrycode,ctrycode,country,resid_y,resid_x1,resid_x2,income1,region,post
 1980,LVA,LVA,Latvia,,,,High income,Europe & Central Asia,0
 1985,LVA,LVA,Latvia,,,,High income,Europe & Central Asia,0
 1990,LVA,LVA,Latvia,-10.7214,,,High income,Europe & Central Asia,0
-1995,LVA,LVA,Latvia,.68728751,-15.096014,-.016104812,High income,Europe & Central Asia,0
-2000,LVA,LVA,Latvia,4.389493,1.7010764,-.019871132,High income,Europe & Central Asia,0
-2005,LVA,LVA,Latvia,1.4041264,29.839664,-.0020078328,High income,Europe & Central Asia,0
-2010,LVA,LVA,Latvia,1.0789734,19.098141,.019980684,High income,Europe & Central Asia,1
-2015,LVA,LVA,Latvia,2.0068464,-11.028049,.018003091,High income,Europe & Central Asia,1
+1995,LVA,LVA,Latvia,.68728751,-15.096014,-.017794907,High income,Europe & Central Asia,0
+2000,LVA,LVA,Latvia,4.389493,1.7010764,-.017043961,High income,Europe & Central Asia,0
+2005,LVA,LVA,Latvia,1.4041264,29.839664,-.0038756118,High income,Europe & Central Asia,0
+2010,LVA,LVA,Latvia,1.0789734,19.098141,.018825095,High income,Europe & Central Asia,1
+2015,LVA,LVA,Latvia,2.0068464,-11.028049,.019889383,High income,Europe & Central Asia,1
 2020,LVA,LVA,Latvia,1.1546735,-24.514816,,High income,Europe & Central Asia,1
 1960,MAC,MAC,"Macao SAR, China",,,,High income,East Asia & Pacific,0
 1965,MAC,MAC,"Macao SAR, China",,,,High income,East Asia & Pacific,0
@@ -1617,10 +1617,10 @@ year,countrycode,ctrycode,country,resid_y,resid_x1,resid_x2,income1,region,post
 1980,MAR,MAR,Morocco,.065741546,-9.3369093,,Lower middle income,Middle East & North Africa,0
 1985,MAR,MAR,Morocco,1.4180506,-14.340755,,Lower middle income,Middle East & North Africa,0
 1990,MAR,MAR,Morocco,1.4441613,-15.448087,,Lower middle income,Middle East & North Africa,0
-1995,MAR,MAR,Morocco,-1.8548502,-1.0682927,-.0022297613,Lower middle income,Middle East & North Africa,0
+1995,MAR,MAR,Morocco,-1.8548502,-1.0682927,-.001296204,Lower middle income,Middle East & North Africa,0
 2000,MAR,MAR,Morocco,.39219198,7.8031602,,Lower middle income,Middle East & North Africa,0
-2005,MAR,MAR,Morocco,.58331114,13.620053,-.0057110027,Lower middle income,Middle East & North Africa,0
-2010,MAR,MAR,Morocco,.10646474,14.926047,.0079407645,Lower middle income,Middle East & North Africa,1
+2005,MAR,MAR,Morocco,.58331114,13.620053,-.0077848709,Lower middle income,Middle East & North Africa,0
+2010,MAR,MAR,Morocco,.10646474,14.926047,.009081075,Lower middle income,Middle East & North Africa,1
 2015,MAR,MAR,Morocco,.29482099,6.8275852,,Lower middle income,Middle East & North Africa,1
 2020,MAR,MAR,Morocco,-.50097847,6.9155397,,Lower middle income,Middle East & North Africa,1
 1960,MCO,MCO,Monaco,,,,High income,Europe & Central Asia,0
@@ -1643,11 +1643,11 @@ year,countrycode,ctrycode,country,resid_y,resid_x1,resid_x2,income1,region,post
 1980,MDA,MDA,Moldova,,,,Upper middle income,Europe & Central Asia,0
 1985,MDA,MDA,Moldova,,,,Upper middle income,Europe & Central Asia,0
 1990,MDA,MDA,Moldova,-15.53599,,,Upper middle income,Europe & Central Asia,0
-1995,MDA,MDA,Moldova,-4.375823,.70649314,-2.0616819e-06,Upper middle income,Europe & Central Asia,0
-2000,MDA,MDA,Republic of Moldova,3.5721822,12.304258,-.0072966167,Upper middle income,Europe & Central Asia,0
-2005,MDA,MDA,Republic of Moldova,2.1975479,11.693021,.00070345995,Upper middle income,Europe & Central Asia,0
-2010,MDA,MDA,Republic of Moldova,4.5570145,5.7861133,-.0012605926,Upper middle income,Europe & Central Asia,1
-2015,MDA,MDA,Republic of Moldova,5.6391644,-12.105313,.0078558112,Upper middle income,Europe & Central Asia,1
+1995,MDA,MDA,Moldova,-4.375823,.70649314,.0014344696,Upper middle income,Europe & Central Asia,0
+2000,MDA,MDA,Republic of Moldova,3.5721822,12.304258,-.0020574694,Upper middle income,Europe & Central Asia,0
+2005,MDA,MDA,Republic of Moldova,2.1975479,11.693021,.000017501941,Upper middle income,Europe & Central Asia,0
+2010,MDA,MDA,Republic of Moldova,4.5570145,5.7861133,.0012964985,Upper middle income,Europe & Central Asia,1
+2015,MDA,MDA,Republic of Moldova,5.6391644,-12.105313,-.00069100061,Upper middle income,Europe & Central Asia,1
 2020,MDA,MDA,Republic of Moldova,3.9459038,-18.384573,,Upper middle income,Europe & Central Asia,1
 1960,MDG,MDG,Madagascar,1.5498595,1.6058372,,Low income,Sub-Saharan Africa,0
 1965,MDG,MDG,Madagascar,1.7890249,6.874897,,Low income,Sub-Saharan Africa,0
@@ -1655,11 +1655,11 @@ year,countrycode,ctrycode,country,resid_y,resid_x1,resid_x2,income1,region,post
 1977,MDG,MDG,Madagascar,.22318178,4.8461113,,Low income,Sub-Saharan Africa,0
 1980,MDG,MDG,Madagascar,-1.1039025,.99260265,,Low income,Sub-Saharan Africa,0
 1985,MDG,MDG,Madagascar,.71138394,3.2616789,,Low income,Sub-Saharan Africa,0
-1990,MDG,MDG,Madagascar,-.023825547,2.6113522,.029347112,Low income,Sub-Saharan Africa,0
-1995,MDG,MDG,Madagascar,.26798198,-1.4193717,-.0040542721,Low income,Sub-Saharan Africa,0
+1990,MDG,MDG,Madagascar,-.023825547,2.6113522,.031489808,Low income,Sub-Saharan Africa,0
+1995,MDG,MDG,Madagascar,.26798198,-1.4193717,-.0041641085,Low income,Sub-Saharan Africa,0
 2000,MDG,MDG,Madagascar,-.51871967,-2.6751387,,Low income,Sub-Saharan Africa,0
-2005,MDG,MDG,Madagascar,.110911,-7.0899935,-.016045989,Low income,Sub-Saharan Africa,0
-2010,MDG,MDG,Madagascar,-1.8623608,-5.4075575,-.0092468504,Low income,Sub-Saharan Africa,1
+2005,MDG,MDG,Madagascar,.110911,-7.0899935,-.019298077,Low income,Sub-Saharan Africa,0
+2010,MDG,MDG,Madagascar,-1.8623608,-5.4075575,-.0080276215,Low income,Sub-Saharan Africa,1
 2015,MDG,MDG,Madagascar,.23764829,-3.1527989,,Low income,Sub-Saharan Africa,1
 2020,MDG,MDG,Madagascar,-.91340858,-3.6894445,,Low income,Sub-Saharan Africa,1
 1960,MDV,MDV,Maldives,,,,Upper middle income,South Asia,0
@@ -1669,11 +1669,11 @@ year,countrycode,ctrycode,country,resid_y,resid_x1,resid_x2,income1,region,post
 1980,MDV,MDV,Maldives,7.9010692,18.702377,,Upper middle income,South Asia,0
 1985,MDV,MDV,Maldives,3.9178915,.95333636,,Upper middle income,South Asia,0
 1990,MDV,MDV,Maldives,3.4963164,-9.5921307,,Upper middle income,South Asia,0
-1995,MDV,MDV,Maldives,1.3601606,-6.9049802,.046744142,Upper middle income,South Asia,0
-2000,MDV,MDV,Maldives,-2.1100075,-7.6129479,-.014171171,Upper middle income,South Asia,0
+1995,MDV,MDV,Maldives,1.3601606,-6.9049802,.04337582,Upper middle income,South Asia,0
+2000,MDV,MDV,Maldives,-2.1100075,-7.6129479,-.012069511,Upper middle income,South Asia,0
 2005,MDV,MDV,Maldives,-4.757618,16.529764,,Upper middle income,South Asia,0
 2010,MDV,MDV,Maldives,-1.4772298,-.95156837,,Upper middle income,South Asia,1
-2015,MDV,MDV,Maldives,-.27428406,-10.522253,-.03257297,Upper middle income,South Asia,1
+2015,MDV,MDV,Maldives,-.27428406,-10.522253,-.031306308,Upper middle income,South Asia,1
 2020,MDV,MDV,Maldives,.73094779,-.60159689,,Upper middle income,South Asia,1
 1970,MEA,MEA,,6.7412291,,,,,0
 1977,MEA,MEA,,.6156584,,,,,0
@@ -1695,9 +1695,9 @@ year,countrycode,ctrycode,country,resid_y,resid_x1,resid_x2,income1,region,post
 1990,MEX,MEX,Mexico,2.6378074,2.9077652,,Upper middle income,Latin America & Caribbean,0
 1995,MEX,MEX,Mexico,-.26334718,-6.0974903,,Upper middle income,Latin America & Caribbean,0
 2000,MEX,MEX,Mexico,-1.4556457,-15.294295,,Upper middle income,Latin America & Caribbean,0
-2005,MEX,MEX,Mexico,-2.7488806,-18.895819,-.0010999283,Upper middle income,Latin America & Caribbean,0
-2010,MEX,MEX,Mexico,-.47125974,-15.284043,-.0028609233,Upper middle income,Latin America & Caribbean,1
-2015,MEX,MEX,Mexico,-1.2240709,-10.611289,.0039608516,Upper middle income,Latin America & Caribbean,1
+2005,MEX,MEX,Mexico,-2.7488806,-18.895819,-.0021507801,Upper middle income,Latin America & Caribbean,0
+2010,MEX,MEX,Mexico,-.47125974,-15.284043,-.0011294161,Upper middle income,Latin America & Caribbean,1
+2015,MEX,MEX,Mexico,-1.2240709,-10.611289,.0032801961,Upper middle income,Latin America & Caribbean,1
 2020,MEX,MEX,Mexico,-.7101146,-13.64815,,Upper middle income,Latin America & Caribbean,1
 1960,MHL,MHL,Marshall Islands,,,,Upper middle income,East Asia & Pacific,0
 1965,MHL,MHL,Marshall Islands,,,,Upper middle income,East Asia & Pacific,0
@@ -1706,11 +1706,11 @@ year,countrycode,ctrycode,country,resid_y,resid_x1,resid_x2,income1,region,post
 1980,MHL,MHL,Marshall Islands,.64014381,,,Upper middle income,East Asia & Pacific,0
 1985,MHL,MHL,Marshall Islands,1.328167,,,Upper middle income,East Asia & Pacific,0
 1990,MHL,MHL,Marshall Islands,1.6214366,,,Upper middle income,East Asia & Pacific,0
-1995,MHL,MHL,Marshall Islands,-6.8846893,,.022634432,Upper middle income,East Asia & Pacific,0
+1995,MHL,MHL,Marshall Islands,-6.8846893,,.033506926,Upper middle income,East Asia & Pacific,0
 2000,MHL,MHL,Marshall Islands,-2.2779081,,,Upper middle income,East Asia & Pacific,0
 2005,MHL,MHL,Marshall Islands,-2.4247239,,,Upper middle income,East Asia & Pacific,0
 2010,MHL,MHL,Marshall Islands,-.94042194,,,Upper middle income,East Asia & Pacific,1
-2015,MHL,MHL,Marshall Islands,4.0442033,,-.022634432,Upper middle income,East Asia & Pacific,1
+2015,MHL,MHL,Marshall Islands,4.0442033,,-.033506926,Upper middle income,East Asia & Pacific,1
 2020,MHL,MHL,,.59814823,,,Upper middle income,East Asia & Pacific,1
 1960,MKD,MKD,North Macedonia,,,,Upper middle income,Europe & Central Asia,0
 1965,MKD,MKD,North Macedonia,,,,Upper middle income,Europe & Central Asia,0
@@ -1723,7 +1723,7 @@ year,countrycode,ctrycode,country,resid_y,resid_x1,resid_x2,income1,region,post
 2000,MKD,MKD,North Macedonia,-.95311129,-11.337781,,Upper middle income,Europe & Central Asia,0
 2005,MKD,MKD,North Macedonia,2.0723004,-5.9589458,,Upper middle income,Europe & Central Asia,0
 2010,MKD,MKD,North Macedonia,.54943341,2.3876677,,Upper middle income,Europe & Central Asia,1
-2015,MKD,MKD,North Macedonia,2.0120697,1.9393758,-8.3266727e-17,Upper middle income,Europe & Central Asia,1
+2015,MKD,MKD,North Macedonia,2.0120697,1.9393758,-1.3877788e-17,Upper middle income,Europe & Central Asia,1
 2020,MKD,MKD,North Macedonia,1.5913986,-.3481878,,Upper middle income,Europe & Central Asia,1
 1960,MLI,MLI,Mali,,,,Low income,Sub-Saharan Africa,0
 1965,MLI,MLI,Mali,,,,Low income,Sub-Saharan Africa,0
@@ -1731,11 +1731,11 @@ year,countrycode,ctrycode,country,resid_y,resid_x1,resid_x2,income1,region,post
 1977,MLI,MLI,Mali,4.8496304,15.110113,,Low income,Sub-Saharan Africa,0
 1980,MLI,MLI,Mali,-3.2818635,8.3773937,,Low income,Sub-Saharan Africa,0
 1985,MLI,MLI,Mali,4.2686267,-2.0114231,,Low income,Sub-Saharan Africa,0
-1990,MLI,MLI,Mali,.95174944,-4.5841455,.0068144184,Low income,Sub-Saharan Africa,0
+1990,MLI,MLI,Mali,.95174944,-4.5841455,.0014593432,Low income,Sub-Saharan Africa,0
 1995,MLI,MLI,Mali,.26263693,-3.5140016,,Low income,Sub-Saharan Africa,0
-2000,MLI,MLI,Mali,.033112232,.48531431,.020700168,Low income,Sub-Saharan Africa,0
+2000,MLI,MLI,Mali,.033112232,.48531431,.024763338,Low income,Sub-Saharan Africa,0
 2005,MLI,MLI,Mali,-.44227293,-11.044538,,Low income,Sub-Saharan Africa,0
-2010,MLI,MLI,Mali,-1.6810095,-10.262897,-.027514586,Low income,Sub-Saharan Africa,1
+2010,MLI,MLI,Mali,-1.6810095,-10.262897,-.026222682,Low income,Sub-Saharan Africa,1
 2015,MLI,MLI,Mali,-.11197577,-1.0378367,,Low income,Sub-Saharan Africa,1
 2020,MLI,MLI,Mali,-2.3595405,-3.5237236,,Low income,Sub-Saharan Africa,1
 1960,MLT,MLT,Malta,,,,High income,Middle East & North Africa,0
@@ -1747,9 +1747,9 @@ year,countrycode,ctrycode,country,resid_y,resid_x1,resid_x2,income1,region,post
 1990,MLT,MLT,Malta,1.3864195,11.70569,,High income,Middle East & North Africa,0
 1995,MLT,MLT,Malta,-.84644705,18.02726,,High income,Middle East & North Africa,0
 2000,MLT,MLT,Malta,-.39734238,20.360905,,High income,Middle East & North Africa,0
-2005,MLT,MLT,Malta,-2.8227384,20.533506,-.0001301216,High income,Middle East & North Africa,0
-2010,MLT,MLT,Malta,.1132206,15.844708,.0057972181,High income,Middle East & North Africa,1
-2015,MLT,MLT,Malta,.57847583,-11.173359,-.0056670965,High income,Middle East & North Africa,1
+2005,MLT,MLT,Malta,-2.8227384,20.533506,-.0059936279,High income,Middle East & North Africa,0
+2010,MLT,MLT,Malta,.1132206,15.844708,.0024504978,High income,Middle East & North Africa,1
+2015,MLT,MLT,Malta,.57847583,-11.173359,.0035431301,High income,Middle East & North Africa,1
 2020,MLT,MLT,Malta,.46179312,-18.048065,,High income,Middle East & North Africa,1
 1960,MMR,MMR,Myanmar,-3.9233949,20.508593,,Lower middle income,East Asia & Pacific,0
 1965,MMR,MMR,Myanmar,-4.5873771,17.584129,,Lower middle income,East Asia & Pacific,0
@@ -1760,9 +1760,9 @@ year,countrycode,ctrycode,country,resid_y,resid_x1,resid_x2,income1,region,post
 1990,MMR,MMR,Myanmar,1.0432134,8.303462,,Lower middle income,East Asia & Pacific,0
 1995,MMR,MMR,Myanmar,.95194978,5.5121727,,Lower middle income,East Asia & Pacific,0
 2000,MMR,MMR,Myanmar,7.421041,-3.4495394,,Lower middle income,East Asia & Pacific,0
-2005,MMR,MMR,Myanmar,7.7843843,-26.103619,.050881166,Lower middle income,East Asia & Pacific,0
-2010,MMR,MMR,Myanmar,4.3942385,-27.703856,-.023403879,Lower middle income,East Asia & Pacific,1
-2015,MMR,MMR,Myanmar,4.0594544,-18.353319,-.027477287,Lower middle income,East Asia & Pacific,1
+2005,MMR,MMR,Myanmar,7.7843843,-26.103619,.045593429,Lower middle income,East Asia & Pacific,0
+2010,MMR,MMR,Myanmar,4.3942385,-27.703856,-.020714046,Lower middle income,East Asia & Pacific,1
+2015,MMR,MMR,Myanmar,4.0594544,-18.353319,-.024879385,Lower middle income,East Asia & Pacific,1
 2020,MMR,MMR,Myanmar,-5.0335855,-23.950417,,Lower middle income,East Asia & Pacific,1
 1960,MNE,MNE,Montenegro,,,,Upper middle income,Europe & Central Asia,0
 1965,MNE,MNE,Montenegro,,,,Upper middle income,Europe & Central Asia,0
@@ -1772,9 +1772,9 @@ year,countrycode,ctrycode,country,resid_y,resid_x1,resid_x2,income1,region,post
 1985,MNE,MNE,Montenegro,,,,Upper middle income,Europe & Central Asia,0
 1990,MNE,MNE,Montenegro,,,,Upper middle income,Europe & Central Asia,0
 1995,MNE,MNE,Montenegro,,,,Upper middle income,Europe & Central Asia,0
-2000,MNE,MNE,Montenegro,-1.2389942,-23.494131,.0060619819,Upper middle income,Europe & Central Asia,0
+2000,MNE,MNE,Montenegro,-1.2389942,-23.494131,.0060676867,Upper middle income,Europe & Central Asia,0
 2005,MNE,MNE,Montenegro,.4360401,14.912586,,Upper middle income,Europe & Central Asia,0
-2010,MNE,MNE,Montenegro,-1.8373462,8.6280546,-.0060619819,Upper middle income,Europe & Central Asia,1
+2010,MNE,MNE,Montenegro,-1.8373462,8.6280546,-.0060676867,Upper middle income,Europe & Central Asia,1
 2015,MNE,MNE,Montenegro,1.5477875,-1.0264914,,Upper middle income,Europe & Central Asia,1
 2020,MNE,MNE,Montenegro,1.0925128,.97998101,,Upper middle income,Europe & Central Asia,1
 1960,MNG,MNG,Mongolia,,,,Lower middle income,East Asia & Pacific,0
@@ -1785,10 +1785,10 @@ year,countrycode,ctrycode,country,resid_y,resid_x1,resid_x2,income1,region,post
 1985,MNG,MNG,Mongolia,.37199131,,,Lower middle income,East Asia & Pacific,0
 1990,MNG,MNG,Mongolia,-6.3021545,-11.487079,,Lower middle income,East Asia & Pacific,0
 1995,MNG,MNG,Mongolia,-2.2701833,-10.013609,,Lower middle income,East Asia & Pacific,0
-2000,MNG,MNG,Mongolia,-1.2895988,-2.2539504,.053979632,Lower middle income,East Asia & Pacific,0
-2005,MNG,MNG,Mongolia,1.2795041,6.0232697,-.035341442,Lower middle income,East Asia & Pacific,0
-2010,MNG,MNG,Mongolia,6.4425883,11.972026,.05233632,Lower middle income,East Asia & Pacific,1
-2015,MNG,MNG,Mongolia,1.6686035,7.9873114,-.070974506,Lower middle income,East Asia & Pacific,1
+2000,MNG,MNG,Mongolia,-1.2895988,-2.2539504,.058277965,Lower middle income,East Asia & Pacific,0
+2005,MNG,MNG,Mongolia,1.2795041,6.0232697,-.038276937,Lower middle income,East Asia & Pacific,0
+2010,MNG,MNG,Mongolia,6.4425883,11.972026,.052491203,Lower middle income,East Asia & Pacific,1
+2015,MNG,MNG,Mongolia,1.6686035,7.9873114,-.072492227,Lower middle income,East Asia & Pacific,1
 2020,MNG,MNG,Mongolia,.099249654,-2.2279682,,Lower middle income,East Asia & Pacific,1
 1970,MNP,MNP,,,,,,,0
 1977,MNP,MNP,,,,,,,0
@@ -1808,10 +1808,10 @@ year,countrycode,ctrycode,country,resid_y,resid_x1,resid_x2,income1,region,post
 1980,MOZ,MOZ,Mozambique,-8.3462086,,,Low income,Sub-Saharan Africa,0
 1985,MOZ,MOZ,Mozambique,1.8801801,1.1795498,,Low income,Sub-Saharan Africa,0
 1990,MOZ,MOZ,Mozambique,-.79946882,8.6126795,,Low income,Sub-Saharan Africa,0
-1995,MOZ,MOZ,Mozambique,2.5096691,8.7185364,.01090198,Low income,Sub-Saharan Africa,0
-2000,MOZ,MOZ,Mozambique,2.5128112,-.36416784,.0079365009,Low income,Sub-Saharan Africa,0
-2005,MOZ,MOZ,Mozambique,2.4587381,-9.6630726,.00097279367,Low income,Sub-Saharan Africa,0
-2010,MOZ,MOZ,Mozambique,2.0782902,-.4708744,-.019811274,Low income,Sub-Saharan Africa,1
+1995,MOZ,MOZ,Mozambique,2.5096691,8.7185364,.01163659,Low income,Sub-Saharan Africa,0
+2000,MOZ,MOZ,Mozambique,2.5128112,-.36416784,.0069875014,Low income,Sub-Saharan Africa,0
+2005,MOZ,MOZ,Mozambique,2.4587381,-9.6630726,-.0028069129,Low income,Sub-Saharan Africa,0
+2010,MOZ,MOZ,Mozambique,2.0782902,-.4708744,-.015817178,Low income,Sub-Saharan Africa,1
 2015,MOZ,MOZ,Mozambique,-.79958647,-.55015057,,Low income,Sub-Saharan Africa,1
 2020,MOZ,MOZ,Mozambique,-1.4944243,-7.4625001,,Low income,Sub-Saharan Africa,1
 1960,MRT,MRT,Mauritania,,,,Lower middle income,Sub-Saharan Africa,0
@@ -1822,9 +1822,9 @@ year,countrycode,ctrycode,country,resid_y,resid_x1,resid_x2,income1,region,post
 1985,MRT,MRT,Mauritania,.72424275,60.292454,,Lower middle income,Sub-Saharan Africa,0
 1990,MRT,MRT,Mauritania,-.98391718,78.645218,,Lower middle income,Sub-Saharan Africa,0
 1995,MRT,MRT,Mauritania,.40296981,,,Lower middle income,Sub-Saharan Africa,0
-2000,MRT,MRT,Mauritania,-2.2102482,,-.019607257,Lower middle income,Sub-Saharan Africa,0
-2005,MRT,MRT,Mauritania,.90356177,27.308882,-.033909306,Lower middle income,Sub-Saharan Africa,0
-2010,MRT,MRT,Mauritania,-.59385186,-34.469765,.053516563,Lower middle income,Sub-Saharan Africa,1
+2000,MRT,MRT,Mauritania,-2.2102482,,-.018532908,Lower middle income,Sub-Saharan Africa,0
+2005,MRT,MRT,Mauritania,.90356177,27.308882,-.037154142,Lower middle income,Sub-Saharan Africa,0
+2010,MRT,MRT,Mauritania,-.59385186,-34.469765,.055687048,Lower middle income,Sub-Saharan Africa,1
 2015,MRT,MRT,Mauritania,-.31488413,-120.79665,,Lower middle income,Sub-Saharan Africa,1
 2020,MRT,MRT,Mauritania,-.40956533,,,Lower middle income,Sub-Saharan Africa,1
 1960,MUS,MUS,Mauritius,.28035125,-5.9082804,,Upper middle income,Sub-Saharan Africa,0
@@ -1835,9 +1835,9 @@ year,countrycode,ctrycode,country,resid_y,resid_x1,resid_x2,income1,region,post
 1985,MUS,MUS,Mauritius,3.345906,-13.453484,,Upper middle income,Sub-Saharan Africa,0
 1990,MUS,MUS,Mauritius,3.2635348,-11.313767,,Upper middle income,Sub-Saharan Africa,0
 1995,MUS,MUS,Mauritius,.27228683,-3.9933112,,Upper middle income,Sub-Saharan Africa,0
-2000,MUS,MUS,Mauritius,.76156235,2.0605259,-.0010795899,Upper middle income,Sub-Saharan Africa,0
-2005,MUS,MUS,Mauritius,.48422289,6.5616617,.01094012,Upper middle income,Sub-Saharan Africa,0
-2010,MUS,MUS,Mauritius,.83379012,22.835373,-.0098605296,Upper middle income,Sub-Saharan Africa,1
+2000,MUS,MUS,Mauritius,.76156235,2.0605259,.0013237006,Upper middle income,Sub-Saharan Africa,0
+2005,MUS,MUS,Mauritius,.48422289,6.5616617,.0082529783,Upper middle income,Sub-Saharan Africa,0
+2010,MUS,MUS,Mauritius,.83379012,22.835373,-.0095766792,Upper middle income,Sub-Saharan Africa,1
 2015,MUS,MUS,Mauritius,1.5840825,15.976086,,Upper middle income,Sub-Saharan Africa,1
 2020,MUS,MUS,Mauritius,.17630184,10.948186,,Upper middle income,Sub-Saharan Africa,1
 1960,MWI,MWI,Malawi,-2.499665,,,Low income,Sub-Saharan Africa,0
@@ -1847,11 +1847,11 @@ year,countrycode,ctrycode,country,resid_y,resid_x1,resid_x2,income1,region,post
 1980,MWI,MWI,Malawi,-1.1404387,4.3338914,,Low income,Sub-Saharan Africa,0
 1985,MWI,MWI,Malawi,-2.9302151,2.6693656,,Low income,Sub-Saharan Africa,0
 1990,MWI,MWI,Malawi,.23686686,-2.4542141,,Low income,Sub-Saharan Africa,0
-1995,MWI,MWI,Malawi,3.6411793,-8.708498,.059145167,Low income,Sub-Saharan Africa,0
-2000,MWI,MWI,Malawi,-2.1734529,-8.2502737,.00033323743,Low income,Sub-Saharan Africa,0
+1995,MWI,MWI,Malawi,3.6411793,-8.708498,.052800491,Low income,Sub-Saharan Africa,0
+2000,MWI,MWI,Malawi,-2.1734529,-8.2502737,-.00075026049,Low income,Sub-Saharan Africa,0
 2005,MWI,MWI,Malawi,1.9284211,-11.240459,,Low income,Sub-Saharan Africa,0
-2010,MWI,MWI,Malawi,-.16706093,-8.86446,-.028786782,Low income,Sub-Saharan Africa,1
-2015,MWI,MWI,Malawi,-1.3110516,-9.3921595,-.030691622,Low income,Sub-Saharan Africa,1
+2010,MWI,MWI,Malawi,-.16706093,-8.86446,-.025614386,Low income,Sub-Saharan Africa,1
+2015,MWI,MWI,Malawi,-1.3110516,-9.3921595,-.026435843,Low income,Sub-Saharan Africa,1
 2020,MWI,MWI,Malawi,-2.3155706,,,Low income,Sub-Saharan Africa,1
 1960,MYS,MYS,Malaysia,-1.3354938,-42.541611,,Upper middle income,East Asia & Pacific,0
 1965,MYS,MYS,Malaysia,-2.3806055,-38.619991,,Upper middle income,East Asia & Pacific,0
@@ -1872,12 +1872,12 @@ year,countrycode,ctrycode,country,resid_y,resid_x1,resid_x2,income1,region,post
 1977,NAM,NAM,Namibia,,,,Upper middle income,Sub-Saharan Africa,0
 1980,NAM,NAM,Namibia,-.13311268,,,Upper middle income,Sub-Saharan Africa,0
 1985,NAM,NAM,Namibia,-2.5426221,,,Upper middle income,Sub-Saharan Africa,0
-1990,NAM,NAM,Namibia,1.0583893,-3.7458355,-.022395607,Upper middle income,Sub-Saharan Africa,0
+1990,NAM,NAM,Namibia,1.0583893,-3.7458355,-.01627627,Upper middle income,Sub-Saharan Africa,0
 1995,NAM,NAM,Namibia,.058465518,2.3587451,,Upper middle income,Sub-Saharan Africa,0
 2000,NAM,NAM,Namibia,1.8805176,2.0706816,,Upper middle income,Sub-Saharan Africa,0
-2005,NAM,NAM,Namibia,.56828398,-1.8004785,.080553971,Upper middle income,Sub-Saharan Africa,0
-2010,NAM,NAM,Namibia,2.5760679,-3.7594688,-.022662954,Upper middle income,Sub-Saharan Africa,1
-2015,NAM,NAM,Namibia,-2.1584899,-.069551826,-.035495408,Upper middle income,Sub-Saharan Africa,1
+2005,NAM,NAM,Namibia,.56828398,-1.8004785,.07474158,Upper middle income,Sub-Saharan Africa,0
+2010,NAM,NAM,Namibia,2.5760679,-3.7594688,-.023511268,Upper middle income,Sub-Saharan Africa,1
+2015,NAM,NAM,Namibia,-2.1584899,-.069551826,-.034954041,Upper middle income,Sub-Saharan Africa,1
 2020,NAM,NAM,Namibia,-1.3074999,4.9459076,,Upper middle income,Sub-Saharan Africa,1
 1960,NCL,NCL,New Caledonia,,,,High income,East Asia & Pacific,0
 1965,NCL,NCL,New Caledonia,,,,High income,East Asia & Pacific,0
@@ -1901,8 +1901,8 @@ year,countrycode,ctrycode,country,resid_y,resid_x1,resid_x2,income1,region,post
 1990,NER,NER,Niger,-.41176331,1.4470439,,Low income,Sub-Saharan Africa,0
 1995,NER,NER,Niger,-.97032773,-3.0683954,,Low income,Sub-Saharan Africa,0
 2000,NER,NER,Niger,-1.4691559,-.83938515,,Low income,Sub-Saharan Africa,0
-2005,NER,NER,Niger,.83311218,-5.649611,-.0026343539,Low income,Sub-Saharan Africa,0
-2010,NER,NER,Niger,1.7273272,-2.3800194,.0026343539,Low income,Sub-Saharan Africa,1
+2005,NER,NER,Niger,.83311218,-5.649611,-.0059462111,Low income,Sub-Saharan Africa,0
+2010,NER,NER,Niger,1.7273272,-2.3800194,.0059462111,Low income,Sub-Saharan Africa,1
 2015,NER,NER,Niger,.79988182,-1.5144522,,Low income,Sub-Saharan Africa,1
 2020,NER,NER,Niger,1.0331893,-7.0188551,,Low income,Sub-Saharan Africa,1
 1960,NGA,NGA,Nigeria,.67809987,8.7134275,,Lower middle income,Sub-Saharan Africa,0
@@ -1911,12 +1911,12 @@ year,countrycode,ctrycode,country,resid_y,resid_x1,resid_x2,income1,region,post
 1977,NGA,NGA,Nigeria,-.80123919,2.6148162,,Lower middle income,Sub-Saharan Africa,0
 1980,NGA,NGA,Nigeria,-6.5708065,-.88002402,,Lower middle income,Sub-Saharan Africa,0
 1985,NGA,NGA,Nigeria,.13146172,3.4601781,,Lower middle income,Sub-Saharan Africa,0
-1990,NGA,NGA,Nigeria,.57582623,2.0501094,.011534484,Lower middle income,Sub-Saharan Africa,0
+1990,NGA,NGA,Nigeria,.57582623,2.0501094,.011949708,Lower middle income,Sub-Saharan Africa,0
 1995,NGA,NGA,Nigeria,-2.818975,2.9516418,,Lower middle income,Sub-Saharan Africa,0
-2000,NGA,NGA,Nigeria,3.6168864,3.7970934,.0071197818,Lower middle income,Sub-Saharan Africa,0
-2005,NGA,NGA,Nigeria,2.3706901,-3.3776162,-.0017084359,Lower middle income,Sub-Saharan Africa,0
-2010,NGA,NGA,Nigeria,1.7135814,-8.9118509,-.018688099,Lower middle income,Sub-Saharan Africa,1
-2015,NGA,NGA,Nigeria,-2.9122519,-9.2053967,.0017422693,Lower middle income,Sub-Saharan Africa,1
+2000,NGA,NGA,Nigeria,3.6168864,3.7970934,.0070127225,Lower middle income,Sub-Saharan Africa,0
+2005,NGA,NGA,Nigeria,2.3706901,-3.3776162,-.0059513166,Lower middle income,Sub-Saharan Africa,0
+2010,NGA,NGA,Nigeria,1.7135814,-8.9118509,-.016888058,Lower middle income,Sub-Saharan Africa,1
+2015,NGA,NGA,Nigeria,-2.9122519,-9.2053967,.0038769448,Lower middle income,Sub-Saharan Africa,1
 2020,NGA,NGA,Nigeria,-1.5009831,-12.806561,,Lower middle income,Sub-Saharan Africa,1
 1960,NIC,NIC,Nicaragua,6.6652989,57.677418,,Lower middle income,Latin America & Caribbean,0
 1965,NIC,NIC,Nicaragua,1.6862029,29.662731,,Lower middle income,Latin America & Caribbean,0
@@ -1924,11 +1924,11 @@ year,countrycode,ctrycode,country,resid_y,resid_x1,resid_x2,income1,region,post
 1977,NIC,NIC,Nicaragua,-6.3984485,-6.5865827,,Lower middle income,Latin America & Caribbean,0
 1980,NIC,NIC,Nicaragua,1.5807128,5.9476171,,Lower middle income,Latin America & Caribbean,0
 1985,NIC,NIC,Nicaragua,-6.4063773,-15.90026,,Lower middle income,Latin America & Caribbean,0
-1990,NIC,NIC,Nicaragua,-1.1540501,-9.5119791,-.0011242314,Lower middle income,Latin America & Caribbean,0
-1995,NIC,NIC,Nicaragua,1.1918426,-5.2458797,.0043395394,Lower middle income,Latin America & Caribbean,0
-2000,NIC,NIC,Nicaragua,-.6131652,-9.1236677,.0023350932,Lower middle income,Latin America & Caribbean,0
-2005,NIC,NIC,Nicaragua,-.94848371,-9.6856155,.0022811419,Lower middle income,Latin America & Caribbean,0
-2010,NIC,NIC,Nicaragua,1.8042299,-10.549305,-.0078315428,Lower middle income,Latin America & Caribbean,1
+1990,NIC,NIC,Nicaragua,-1.1540501,-9.5119791,.0011096185,Lower middle income,Latin America & Caribbean,0
+1995,NIC,NIC,Nicaragua,1.1918426,-5.2458797,.0045945533,Lower middle income,Latin America & Caribbean,0
+2000,NIC,NIC,Nicaragua,-.6131652,-9.1236677,.0038411513,Lower middle income,Latin America & Caribbean,0
+2005,NIC,NIC,Nicaragua,-.94848371,-9.6856155,-.0013726772,Lower middle income,Latin America & Caribbean,0
+2010,NIC,NIC,Nicaragua,1.8042299,-10.549305,-.0081726462,Lower middle income,Latin America & Caribbean,1
 2015,NIC,NIC,Nicaragua,-1.1896954,-5.7534194,,Lower middle income,Latin America & Caribbean,1
 2020,NIC,NIC,Nicaragua,2.1654871,-17.939291,,Lower middle income,Latin America & Caribbean,1
 1960,NLD,NLD,Netherlands,-.81769806,-26.030199,,High income,Europe & Central Asia,0
@@ -1937,12 +1937,12 @@ year,countrycode,ctrycode,country,resid_y,resid_x1,resid_x2,income1,region,post
 1977,NLD,NLD,Netherlands,-1.248111,-16.172945,,High income,Europe & Central Asia,0
 1980,NLD,NLD,Netherlands,-.41559586,-10.134712,,High income,Europe & Central Asia,0
 1985,NLD,NLD,Netherlands,.7057637,-7.0711102,,High income,Europe & Central Asia,0
-1990,NLD,NLD,Netherlands,2.4284165,1.2184123,-.0088008335,High income,Europe & Central Asia,0
-1995,NLD,NLD,Netherlands,1.6666334,12.549652,-.0032061262,High income,Europe & Central Asia,0
-2000,NLD,NLD,Netherlands,-.75905931,28.409771,.0086689489,High income,Europe & Central Asia,0
-2005,NLD,NLD,Netherlands,-.73264271,23.373169,.006754884,High income,Europe & Central Asia,0
-2010,NLD,NLD,Netherlands,-1.4733328,22.836973,-.018690238,High income,Europe & Central Asia,1
-2015,NLD,NLD,Netherlands,-.034576137,17.90365,.015273364,High income,Europe & Central Asia,1
+1990,NLD,NLD,Netherlands,2.4284165,1.2184123,-.0088042282,High income,Europe & Central Asia,0
+1995,NLD,NLD,Netherlands,1.6666334,12.549652,-.0038668362,High income,Europe & Central Asia,0
+2000,NLD,NLD,Netherlands,-.75905931,28.409771,.012074391,High income,Europe & Central Asia,0
+2005,NLD,NLD,Netherlands,-.73264271,23.373169,.0034077978,High income,Europe & Central Asia,0
+2010,NLD,NLD,Netherlands,-1.4733328,22.836973,-.018925071,High income,Europe & Central Asia,1
+2015,NLD,NLD,Netherlands,-.034576137,17.90365,.016113946,High income,Europe & Central Asia,1
 2020,NLD,NLD,Netherlands,.17109327,3.4437668,,High income,Europe & Central Asia,1
 1960,NOR,NOR,Norway,-.78821963,-8.0892601,,High income,Europe & Central Asia,0
 1965,NOR,NOR,Norway,-.45406485,-11.494279,,High income,Europe & Central Asia,0
@@ -1952,10 +1952,10 @@ year,countrycode,ctrycode,country,resid_y,resid_x1,resid_x2,income1,region,post
 1985,NOR,NOR,Norway,.28257829,-10.021841,,High income,Europe & Central Asia,0
 1990,NOR,NOR,Norway,3.1133988,-12.437001,,High income,Europe & Central Asia,0
 1995,NOR,NOR,Norway,1.1722059,-10.350804,,High income,Europe & Central Asia,0
-2000,NOR,NOR,Norway,-.58535963,-2.5180359,.0080102487,High income,Europe & Central Asia,0
-2005,NOR,NOR,Norway,-2.02283,13.139503,.0055194749,High income,Europe & Central Asia,0
-2010,NOR,NOR,Norway,-1.9591035,26.39739,-.0042416821,High income,Europe & Central Asia,1
-2015,NOR,NOR,Norway,-1.2880945,40.439289,-.0092880409,High income,Europe & Central Asia,1
+2000,NOR,NOR,Norway,-.58535963,-2.5180359,.0095852232,High income,Europe & Central Asia,0
+2005,NOR,NOR,Norway,-2.02283,13.139503,.003855072,High income,Europe & Central Asia,0
+2010,NOR,NOR,Norway,-1.9591035,26.39739,-.002691509,High income,Europe & Central Asia,1
+2015,NOR,NOR,Norway,-1.2880945,40.439289,-.010748787,High income,Europe & Central Asia,1
 2020,NOR,NOR,Norway,-.48383465,43.335648,,High income,Europe & Central Asia,1
 1960,NPL,NPL,Nepal,-1.5844711,-7.4237289,,Lower middle income,South Asia,0
 1965,NPL,NPL,Nepal,-3.3685908,-6.3599763,,Lower middle income,South Asia,0
@@ -1964,10 +1964,10 @@ year,countrycode,ctrycode,country,resid_y,resid_x1,resid_x2,income1,region,post
 1980,NPL,NPL,Nepal,.66656315,-7.3891821,,Lower middle income,South Asia,0
 1985,NPL,NPL,Nepal,1.3128818,-11.324231,,Lower middle income,South Asia,0
 1990,NPL,NPL,Nepal,3.0715406,-9.599124,,Lower middle income,South Asia,0
-1995,NPL,NPL,Nepal,-.0029769933,-5.9224572,-.0015929426,Lower middle income,South Asia,0
-2000,NPL,NPL,Nepal,-.21829875,-5.3485265,.0055120448,Lower middle income,South Asia,0
-2005,NPL,NPL,Nepal,.36259007,-4.8882551,-.0032396321,Lower middle income,South Asia,0
-2010,NPL,NPL,Nepal,1.2863981,5.8856196,-.00067947031,Lower middle income,South Asia,1
+1995,NPL,NPL,Nepal,-.0029769933,-5.9224572,-.000930104,Lower middle income,South Asia,0
+2000,NPL,NPL,Nepal,-.21829875,-5.3485265,.00857074,Lower middle income,South Asia,0
+2005,NPL,NPL,Nepal,.36259007,-4.8882551,-.00657285,Lower middle income,South Asia,0
+2010,NPL,NPL,Nepal,1.2863981,5.8856196,-.0010677862,Lower middle income,South Asia,1
 2015,NPL,NPL,Nepal,2.8764577,24.167624,,Lower middle income,South Asia,1
 2020,NPL,NPL,Nepal,.37000832,44.664562,,Lower middle income,South Asia,1
 1960,NRU,NRU,Nauru,,,,High income,East Asia & Pacific,0
@@ -2002,25 +2002,25 @@ year,countrycode,ctrycode,country,resid_y,resid_x1,resid_x2,income1,region,post
 1977,PAK,PAK,Pakistan,-.91794086,12.628525,,Lower middle income,South Asia,0
 1980,PAK,PAK,Pakistan,3.030566,10.899719,,Lower middle income,South Asia,0
 1985,PAK,PAK,Pakistan,1.8013469,7.9755874,,Lower middle income,South Asia,0
-1990,PAK,PAK,Pakistan,2.0333941,.77265579,.01357541,Lower middle income,South Asia,0
-1995,PAK,PAK,Pakistan,-1.9449962,-.093884721,-.00010433522,Lower middle income,South Asia,0
-2000,PAK,PAK,Pakistan,-1.0068762,-3.2481678,-.0042155269,Lower middle income,South Asia,0
-2005,PAK,PAK,Pakistan,-.98990065,-8.2447243,-.0053012697,Lower middle income,South Asia,0
-2010,PAK,PAK,Pakistan,-1.5841272,-20.618933,-.0052184882,Lower middle income,South Asia,1
-2015,PAK,PAK,Pakistan,.87804401,-23.055542,.0012642096,Lower middle income,South Asia,1
+1990,PAK,PAK,Pakistan,2.0333941,.77265579,.01346154,Lower middle income,South Asia,0
+1995,PAK,PAK,Pakistan,-1.9449962,-.093884721,.0013231351,Lower middle income,South Asia,0
+2000,PAK,PAK,Pakistan,-1.0068762,-3.2481678,-.00012349561,Lower middle income,South Asia,0
+2005,PAK,PAK,Pakistan,-.98990065,-8.2447243,-.0058004875,Lower middle income,South Asia,0
+2010,PAK,PAK,Pakistan,-1.5841272,-20.618933,-.0064844401,Lower middle income,South Asia,1
+2015,PAK,PAK,Pakistan,.87804401,-23.055542,-.0023762514,Lower middle income,South Asia,1
 2020,PAK,PAK,Pakistan,-.7483902,-29.645838,,Lower middle income,South Asia,1
 1960,PAN,PAN,Panama,.50767249,-19.031933,,High income,Latin America & Caribbean,0
 1965,PAN,PAN,Panama,.62552029,-16.274221,,High income,Latin America & Caribbean,0
 1970,PAN,PAN,Panama,-1.7427281,-3.0061629,,High income,Latin America & Caribbean,0
 1977,PAN,PAN,Panama,-2.6897717,4.517169,,High income,Latin America & Caribbean,0
 1980,PAN,PAN,Panama,1.2016971,-5.3762188,,High income,Latin America & Caribbean,0
-1985,PAN,PAN,Panama,-6.1084657,-12.783586,-.0090102181,High income,Latin America & Caribbean,0
-1990,PAN,PAN,Panama,3.3847866,-5.9180522,-.0063861297,High income,Latin America & Caribbean,0
-1995,PAN,PAN,Panama,-2.1451049,16.62064,.00067516812,High income,Latin America & Caribbean,0
-2000,PAN,PAN,Panama,-1.4456947,24.52354,-.0027916599,High income,Latin America & Caribbean,0
-2005,PAN,PAN,Panama,3.4015231,8.2123976,.0037621362,High income,Latin America & Caribbean,0
-2010,PAN,PAN,Panama,3.0382812,-1.0621724,.0058382424,High income,Latin America & Caribbean,1
-2015,PAN,PAN,Panama,.66290289,1.4947648,.0079124607,High income,Latin America & Caribbean,1
+1985,PAN,PAN,Panama,-6.1084657,-12.783586,-.0074870284,High income,Latin America & Caribbean,0
+1990,PAN,PAN,Panama,3.3847866,-5.9180522,-.0070075174,High income,Latin America & Caribbean,0
+1995,PAN,PAN,Panama,-2.1451049,16.62064,.000060923085,High income,Latin America & Caribbean,0
+2000,PAN,PAN,Panama,-1.4456947,24.52354,-.0012789625,High income,Latin America & Caribbean,0
+2005,PAN,PAN,Panama,3.4015231,8.2123976,-.00058612967,High income,Latin America & Caribbean,0
+2010,PAN,PAN,Panama,3.0382812,-1.0621724,.0067585804,High income,Latin America & Caribbean,1
+2015,PAN,PAN,Panama,.66290289,1.4947648,.0095401341,High income,Latin America & Caribbean,1
 2020,PAN,PAN,Panama,1.3093816,8.0838327,,High income,Latin America & Caribbean,1
 1960,PER,PER,Peru,2.2677426,7.7356372,,Upper middle income,Latin America & Caribbean,0
 1965,PER,PER,Peru,-.62154716,4.7011495,,Upper middle income,Latin America & Caribbean,0
@@ -2029,11 +2029,11 @@ year,countrycode,ctrycode,country,resid_y,resid_x1,resid_x2,income1,region,post
 1980,PER,PER,Peru,-1.2827247,-2.3394763,,Upper middle income,Latin America & Caribbean,0
 1985,PER,PER,Peru,-3.8359227,-6.1867328,,Upper middle income,Latin America & Caribbean,0
 1990,PER,PER,Peru,.61434019,-2.8912091,,Upper middle income,Latin America & Caribbean,0
-1995,PER,PER,Peru,-.84969091,6.3111005,.007996466,Upper middle income,Latin America & Caribbean,0
-2000,PER,PER,Peru,-.37790278,2.092459,-.0022299695,Upper middle income,Latin America & Caribbean,0
-2005,PER,PER,Peru,3.4773433,-10.424862,.0057526669,Upper middle income,Latin America & Caribbean,0
-2010,PER,PER,Peru,3.1009831,-7.8908601,-.0033446457,Upper middle income,Latin America & Caribbean,1
-2015,PER,PER,Peru,.19538534,3.6897523,-.0081745172,Upper middle income,Latin America & Caribbean,1
+1995,PER,PER,Peru,-.84969091,6.3111005,.010141986,Upper middle income,Latin America & Caribbean,0
+2000,PER,PER,Peru,-.37790278,2.092459,-.00093106419,Upper middle income,Latin America & Caribbean,0
+2005,PER,PER,Peru,3.4773433,-10.424862,-.00094547088,Upper middle income,Latin America & Caribbean,0
+2010,PER,PER,Peru,3.1009831,-7.8908601,-.0038111906,Upper middle income,Latin America & Caribbean,1
+2015,PER,PER,Peru,.19538534,3.6897523,-.0044542612,Upper middle income,Latin America & Caribbean,1
 2020,PER,PER,Peru,-.7014842,9.2619123,,Upper middle income,Latin America & Caribbean,1
 1960,PHL,PHL,Philippines,-.37144336,5.3976994,,Lower middle income,East Asia & Pacific,0
 1965,PHL,PHL,Philippines,-1.1752764,8.8841667,,Lower middle income,East Asia & Pacific,0
@@ -2042,11 +2042,11 @@ year,countrycode,ctrycode,country,resid_y,resid_x1,resid_x2,income1,region,post
 1980,PHL,PHL,Philippines,-1.3484205,5.161119,,Lower middle income,East Asia & Pacific,0
 1985,PHL,PHL,Philippines,-1.3137101,-8.7219334,,Lower middle income,East Asia & Pacific,0
 1990,PHL,PHL,Philippines,-.012779828,-7.2646375,,Lower middle income,East Asia & Pacific,0
-1995,PHL,PHL,Philippines,-1.2169142,13.194614,-.0033085069,Lower middle income,East Asia & Pacific,0
-2000,PHL,PHL,Philippines,-.42709026,1.547094,-.0047346,Lower middle income,East Asia & Pacific,0
-2005,PHL,PHL,Philippines,.1278514,-15.121715,.0025357825,Lower middle income,East Asia & Pacific,0
-2010,PHL,PHL,Philippines,1.7344164,-9.4863901,-.0035469856,Lower middle income,East Asia & Pacific,1
-2015,PHL,PHL,Philippines,3.1702454,-1.3005521,.0090543097,Lower middle income,East Asia & Pacific,1
+1995,PHL,PHL,Philippines,-1.2169142,13.194614,-.0025073588,Lower middle income,East Asia & Pacific,0
+2000,PHL,PHL,Philippines,-.42709026,1.547094,-.0021380887,Lower middle income,East Asia & Pacific,0
+2005,PHL,PHL,Philippines,.1278514,-15.121715,-.0018710946,Lower middle income,East Asia & Pacific,0
+2010,PHL,PHL,Philippines,1.7344164,-9.4863901,-.0021714182,Lower middle income,East Asia & Pacific,1
+2015,PHL,PHL,Philippines,3.1702454,-1.3005521,.00868796,Lower middle income,East Asia & Pacific,1
 2020,PHL,PHL,Philippines,.24580258,-2.5359604,,Lower middle income,East Asia & Pacific,1
 1960,PLW,PLW,Palau,,,,Upper middle income,East Asia & Pacific,0
 1965,PLW,PLW,Palau,,,,Upper middle income,East Asia & Pacific,0
@@ -2070,7 +2070,7 @@ year,countrycode,ctrycode,country,resid_y,resid_x1,resid_x2,income1,region,post
 1990,PNG,PNG,Papua New Guinea,6.5767426,9.9736738,,Lower middle income,East Asia & Pacific,0
 1995,PNG,PNG,Papua New Guinea,-5.0843081,-.17544174,,Lower middle income,East Asia & Pacific,0
 2000,PNG,PNG,Papua New Guinea,-4.9912801,1.4588753,,Lower middle income,East Asia & Pacific,0
-2005,PNG,PNG,Papua New Guinea,-.27815717,-5.5141993,-2.7755576e-17,Lower middle income,East Asia & Pacific,0
+2005,PNG,PNG,Papua New Guinea,-.27815717,-5.5141993,1.3877788e-17,Lower middle income,East Asia & Pacific,0
 2010,PNG,PNG,Papua New Guinea,1.5172962,-4.9372172,,Lower middle income,East Asia & Pacific,1
 2015,PNG,PNG,Papua New Guinea,-.30113164,-10.490562,,Lower middle income,East Asia & Pacific,1
 2020,PNG,PNG,Papua New Guinea,-1.6862329,-16.809828,,Lower middle income,East Asia & Pacific,1
@@ -2081,22 +2081,22 @@ year,countrycode,ctrycode,country,resid_y,resid_x1,resid_x2,income1,region,post
 1980,POL,POL,Poland,,,,High income,Europe & Central Asia,0
 1985,POL,POL,Poland,,,,High income,Europe & Central Asia,0
 1990,POL,POL,Poland,-1.6776217,-.66401607,,High income,Europe & Central Asia,0
-1995,POL,POL,Poland,.59316421,-2.2723377,-.017938027,High income,Europe & Central Asia,0
-2000,POL,POL,Poland,-1.5950254,-.90501076,-.0078799967,High income,Europe & Central Asia,0
-2005,POL,POL,Poland,-.040834699,.94193864,.0088605713,High income,Europe & Central Asia,0
-2010,POL,POL,Poland,-.79109317,6.5073047,.0058254055,High income,Europe & Central Asia,1
-2015,POL,POL,Poland,1.9267797,5.3033714,.011132046,High income,Europe & Central Asia,1
+1995,POL,POL,Poland,.59316421,-2.2723377,-.017839065,High income,Europe & Central Asia,0
+2000,POL,POL,Poland,-1.5950254,-.90501076,-.0049112621,High income,Europe & Central Asia,0
+2005,POL,POL,Poland,-.040834699,.94193864,.0070420378,High income,Europe & Central Asia,0
+2010,POL,POL,Poland,-.79109317,6.5073047,.0061156102,High income,Europe & Central Asia,1
+2015,POL,POL,Poland,1.9267797,5.3033714,.0095926803,High income,Europe & Central Asia,1
 2020,POL,POL,Poland,1.5846311,-8.9112501,,High income,Europe & Central Asia,1
 1960,PRI,PRI,Puerto Rico,.15574545,,,High income,Latin America & Caribbean,0
 1965,PRI,PRI,Puerto Rico,1.7839178,,,High income,Latin America & Caribbean,0
-1970,PRI,PRI,Puerto Rico,-.60967988,,.018015813,High income,Latin America & Caribbean,0
+1970,PRI,PRI,Puerto Rico,-.60967988,,.019837005,High income,Latin America & Caribbean,0
 1977,PRI,PRI,Puerto Rico,.68787092,,,High income,Latin America & Caribbean,0
-1980,PRI,PRI,Puerto Rico,-.55674273,,-.0020286951,High income,Latin America & Caribbean,0
+1980,PRI,PRI,Puerto Rico,-.55674273,,.0009480411,High income,Latin America & Caribbean,0
 1985,PRI,PRI,Puerto Rico,1.6659873,,,High income,Latin America & Caribbean,0
-1990,PRI,PRI,Puerto Rico,1.6849277,,.00012165787,High income,Latin America & Caribbean,0
+1990,PRI,PRI,Puerto Rico,1.6849277,,.0012917202,High income,Latin America & Caribbean,0
 1995,PRI,PRI,Puerto Rico,1.4091133,,,High income,Latin America & Caribbean,0
-2000,PRI,PRI,Puerto Rico,1.6029761,,-.011342561,High income,Latin America & Caribbean,0
-2005,PRI,PRI,Puerto Rico,-3.1471355,,-.0047662151,High income,Latin America & Caribbean,0
+2000,PRI,PRI,Puerto Rico,1.6029761,,-.010453689,High income,Latin America & Caribbean,0
+2005,PRI,PRI,Puerto Rico,-3.1471355,,-.011623078,High income,Latin America & Caribbean,0
 2010,PRI,PRI,Puerto Rico,-2.0638793,,,High income,Latin America & Caribbean,1
 2015,PRI,PRI,Puerto Rico,-1.4052415,,,High income,Latin America & Caribbean,1
 2020,PRI,PRI,Puerto Rico,-1.2078596,,,High income,Latin America & Caribbean,1
@@ -2121,10 +2121,10 @@ year,countrycode,ctrycode,country,resid_y,resid_x1,resid_x2,income1,region,post
 1985,PRT,PRT,Portugal,2.6750863,-26.464058,,High income,Europe & Central Asia,0
 1990,PRT,PRT,Portugal,1.1827718,-33.342339,,High income,Europe & Central Asia,0
 1995,PRT,PRT,Portugal,1.0727251,-13.387656,,High income,Europe & Central Asia,0
-2000,PRT,PRT,Portugal,-1.4447339,27.874235,-.011439482,High income,Europe & Central Asia,0
-2005,PRT,PRT,Portugal,-2.2545652,42.480488,-.0052177366,High income,Europe & Central Asia,0
-2010,PRT,PRT,Portugal,-3.0903633,45.752502,.00011814565,High income,Europe & Central Asia,1
-2015,PRT,PRT,Portugal,.33675641,3.9712605,.016539073,High income,Europe & Central Asia,1
+2000,PRT,PRT,Portugal,-1.4447339,27.874235,-.0063921474,High income,Europe & Central Asia,0
+2005,PRT,PRT,Portugal,-2.2545652,42.480488,-.007341315,High income,Europe & Central Asia,0
+2010,PRT,PRT,Portugal,-3.0903633,45.752502,-.00089669478,High income,Europe & Central Asia,1
+2015,PRT,PRT,Portugal,.33675641,3.9712605,.014630158,High income,Europe & Central Asia,1
 2020,PRT,PRT,Portugal,-.41538385,-3.938724,,High income,Europe & Central Asia,1
 1960,PRY,PRY,Paraguay,-1.7839396,9.1964407,,Upper middle income,Latin America & Caribbean,0
 1965,PRY,PRY,Paraguay,-1.1980613,14.785691,,Upper middle income,Latin America & Caribbean,0
@@ -2133,11 +2133,11 @@ year,countrycode,ctrycode,country,resid_y,resid_x1,resid_x2,income1,region,post
 1980,PRY,PRY,Paraguay,.95805448,-.085940719,,Upper middle income,Latin America & Caribbean,0
 1985,PRY,PRY,Paraguay,1.927265,-7.8445234,,Upper middle income,Latin America & Caribbean,0
 1990,PRY,PRY,Paraguay,2.0051992,-4.3733845,,Upper middle income,Latin America & Caribbean,0
-1995,PRY,PRY,Paraguay,-2.381109,-2.6135507,.00008073503,Upper middle income,Latin America & Caribbean,0
-2000,PRY,PRY,Paraguay,-3.6937611,-9.2027597,-.0035271433,Upper middle income,Latin America & Caribbean,0
-2005,PRY,PRY,Paraguay,-.63645893,-20.850077,.0026808744,Upper middle income,Latin America & Caribbean,0
-2010,PRY,PRY,Paraguay,1.4011403,-7.4638896,-.003636214,Upper middle income,Latin America & Caribbean,1
-2015,PRY,PRY,Paraguay,-.46298173,1.7481158,.0044017481,Upper middle income,Latin America & Caribbean,1
+1995,PRY,PRY,Paraguay,-2.381109,-2.6135507,.0031644937,Upper middle income,Latin America & Caribbean,0
+2000,PRY,PRY,Paraguay,-3.6937611,-9.2027597,-.00099512644,Upper middle income,Latin America & Caribbean,0
+2005,PRY,PRY,Paraguay,-.63645893,-20.850077,-.0024552918,Upper middle income,Latin America & Caribbean,0
+2010,PRY,PRY,Paraguay,1.4011403,-7.4638896,-.0029542891,Upper middle income,Latin America & Caribbean,1
+2015,PRY,PRY,Paraguay,-.46298173,1.7481158,.0032402135,Upper middle income,Latin America & Caribbean,1
 2020,PRY,PRY,Paraguay,-.16098201,2.097239,,Upper middle income,Latin America & Caribbean,1
 1960,PSE,PSE,West Bank and Gaza,,,,Lower middle income,Middle East & North Africa,0
 1965,PSE,PSE,West Bank and Gaza,,,,Lower middle income,Middle East & North Africa,0
@@ -2146,11 +2146,11 @@ year,countrycode,ctrycode,country,resid_y,resid_x1,resid_x2,income1,region,post
 1980,PSE,PSE,West Bank and Gaza,,,,Lower middle income,Middle East & North Africa,0
 1985,PSE,PSE,West Bank and Gaza,,,,Lower middle income,Middle East & North Africa,0
 1990,PSE,PSE,West Bank and Gaza,,,,Lower middle income,Middle East & North Africa,0
-1995,PSE,PSE,West Bank and Gaza,4.261272,-1.4408821,.0072876401,Lower middle income,Middle East & North Africa,0
-2000,PSE,PSE,Occupied Palestinian Territory,-3.0800221,.57556283,.010590879,Lower middle income,Middle East & North Africa,0
-2005,PSE,PSE,Occupied Palestinian Territory,1.4480486,-6.6149945,.0022130029,Lower middle income,Middle East & North Africa,0
-2010,PSE,PSE,Occupied Palestinian Territory,1.1952736,-9.0556536,-.0094445972,Lower middle income,Middle East & North Africa,1
-2015,PSE,PSE,Occupied Palestinian Territory,.2997894,4.4382286,-.010646924,Lower middle income,Middle East & North Africa,1
+1995,PSE,PSE,West Bank and Gaza,4.261272,-1.4408821,.0096840942,Lower middle income,Middle East & North Africa,0
+2000,PSE,PSE,Occupied Palestinian Territory,-3.0800221,.57556283,.012314703,Lower middle income,Middle East & North Africa,0
+2005,PSE,PSE,Occupied Palestinian Territory,1.4480486,-6.6149945,.00048105203,Lower middle income,Middle East & North Africa,0
+2010,PSE,PSE,Occupied Palestinian Territory,1.1952736,-9.0556536,-.0092330026,Lower middle income,Middle East & North Africa,1
+2015,PSE,PSE,Occupied Palestinian Territory,.2997894,4.4382286,-.013246846,Lower middle income,Middle East & North Africa,1
 2020,PSE,PSE,Occupied Palestinian Territory,-4.1243615,12.097738,,Lower middle income,Middle East & North Africa,1
 1960,PYF,PYF,French Polynesia,,,,High income,East Asia & Pacific,0
 1965,PYF,PYF,French Polynesia,.95182544,,,High income,East Asia & Pacific,0
@@ -2186,10 +2186,10 @@ year,countrycode,ctrycode,country,resid_y,resid_x1,resid_x2,income1,region,post
 1985,ROU,ROU,Romania,,,,High income,Europe & Central Asia,0
 1990,ROU,ROU,Romania,-4.7835417,60.408127,,High income,Europe & Central Asia,0
 1995,ROU,ROU,Romania,-2.8992116,-9.8055792,,High income,Europe & Central Asia,0
-2000,ROU,ROU,Romania,1.8498843,-9.4233465,-.017709492,High income,Europe & Central Asia,0
-2005,ROU,ROU,Romania,2.4339898,-4.7401853,.015833126,High income,Europe & Central Asia,0
-2010,ROU,ROU,Romania,-1.137611,-1.2763731,-.00052844436,High income,Europe & Central Asia,1
-2015,ROU,ROU,Romania,3.2381797,-13.516915,.0024048104,High income,Europe & Central Asia,1
+2000,ROU,ROU,Romania,1.8498843,-9.4233465,-.016373431,High income,Europe & Central Asia,0
+2005,ROU,ROU,Romania,2.4339898,-4.7401853,.011379153,High income,Europe & Central Asia,0
+2010,ROU,ROU,Romania,-1.137611,-1.2763731,.0018466794,High income,Europe & Central Asia,1
+2015,ROU,ROU,Romania,3.2381797,-13.516915,.0031475981,High income,Europe & Central Asia,1
 2020,ROU,ROU,Romania,1.2983106,-21.645729,,High income,Europe & Central Asia,1
 1960,RUS,RUS,Russian Federation,,,,Upper middle income,Europe & Central Asia,0
 1965,RUS,RUS,Russian Federation,,,,Upper middle income,Europe & Central Asia,0
@@ -2200,9 +2200,9 @@ year,countrycode,ctrycode,country,resid_y,resid_x1,resid_x2,income1,region,post
 1990,RUS,RUS,Russian Federation,-7.0662131,,,Upper middle income,Europe & Central Asia,0
 1995,RUS,RUS,Russian Federation,-3.5367146,,,Upper middle income,Europe & Central Asia,0
 2000,RUS,RUS,Russian Federation,4.525454,-8.026392,,Upper middle income,Europe & Central Asia,0
-2005,RUS,RUS,Russian Federation,2.3499658,-6.8884754,-.00044420589,Upper middle income,Europe & Central Asia,0
-2010,RUS,RUS,Russian Federation,1.7264518,1.2664326,-.0081402529,Upper middle income,Europe & Central Asia,1
-2015,RUS,RUS,Russian Federation,.43102452,7.2519364,.0085844593,Upper middle income,Europe & Central Asia,1
+2005,RUS,RUS,Russian Federation,2.3499658,-6.8884754,-.0021147798,Upper middle income,Europe & Central Asia,0
+2010,RUS,RUS,Russian Federation,1.7264518,1.2664326,-.0059702601,Upper middle income,Europe & Central Asia,1
+2015,RUS,RUS,Russian Federation,.43102452,7.2519364,.0080850404,Upper middle income,Europe & Central Asia,1
 2020,RUS,RUS,Russian Federation,1.5700316,6.3964987,,Upper middle income,Europe & Central Asia,1
 1960,RWA,RWA,Rwanda,-7.9839497,1.8540592,,Low income,Sub-Saharan Africa,0
 1965,RWA,RWA,Rwanda,.53592002,13.452978,,Low income,Sub-Saharan Africa,0
@@ -2212,10 +2212,10 @@ year,countrycode,ctrycode,country,resid_y,resid_x1,resid_x2,income1,region,post
 1985,RWA,RWA,Rwanda,-1.2587107,.62651587,,Low income,Sub-Saharan Africa,0
 1990,RWA,RWA,Rwanda,-10.044547,-11.398099,,Low income,Sub-Saharan Africa,0
 1995,RWA,RWA,Rwanda,6.5046802,10.743786,,Low income,Sub-Saharan Africa,0
-2000,RWA,RWA,Rwanda,1.885761,4.0531859,.0076272716,Low income,Sub-Saharan Africa,0
+2000,RWA,RWA,Rwanda,1.885761,4.0531859,.0067004622,Low income,Sub-Saharan Africa,0
 2005,RWA,RWA,Rwanda,3.3898113,-7.7903528,,Low income,Sub-Saharan Africa,0
-2010,RWA,RWA,Rwanda,1.9342216,-9.3611717,-.014944907,Low income,Sub-Saharan Africa,1
-2015,RWA,RWA,Rwanda,2.96316,-6.4026771,.0073176362,Low income,Sub-Saharan Africa,1
+2010,RWA,RWA,Rwanda,1.9342216,-9.3611717,-.014825378,Low income,Sub-Saharan Africa,1
+2015,RWA,RWA,Rwanda,2.96316,-6.4026771,.0081249159,Low income,Sub-Saharan Africa,1
 2020,RWA,RWA,Rwanda,2.6523442,-9.1692934,,Low income,Sub-Saharan Africa,1
 1960,SAU,SAU,Saudi Arabia,5.1924677,,,High income,Middle East & North Africa,0
 1965,SAU,SAU,Saudi Arabia,3.4102924,-3.6534545,,High income,Middle East & North Africa,0
@@ -2239,8 +2239,8 @@ year,countrycode,ctrycode,country,resid_y,resid_x1,resid_x2,income1,region,post
 1990,SDN,SDN,Sudan,3.5640199,-1.0521173,,Low income,Sub-Saharan Africa,0
 1995,SDN,SDN,Sudan,5.2732387,-7.9447613,,Low income,Sub-Saharan Africa,0
 2000,SDN,SDN,Sudan,3.867425,-10.382429,,Low income,Sub-Saharan Africa,0
-2005,SDN,SDN,Sudan,1.5771844,-14.071798,.0057023317,Low income,Sub-Saharan Africa,0
-2010,SDN,SDN,Sudan,-4.1379457,-14.508834,-.0057023317,Low income,Sub-Saharan Africa,1
+2005,SDN,SDN,Sudan,1.5771844,-14.071798,.0042866566,Low income,Sub-Saharan Africa,0
+2010,SDN,SDN,Sudan,-4.1379457,-14.508834,-.0042866566,Low income,Sub-Saharan Africa,1
 2015,SDN,SDN,Sudan,-3.2303832,-11.184793,,Low income,Sub-Saharan Africa,1
 2020,SDN,SDN,Sudan,-8.3816767,-18.068949,,Low income,Sub-Saharan Africa,1
 1960,SEN,SEN,Senegal,-1.1086318,1.3249065,,Lower middle income,Sub-Saharan Africa,0
@@ -2250,10 +2250,10 @@ year,countrycode,ctrycode,country,resid_y,resid_x1,resid_x2,income1,region,post
 1980,SEN,SEN,Senegal,2.7261693,10.735914,,Lower middle income,Sub-Saharan Africa,0
 1985,SEN,SEN,Senegal,.48989972,5.0669456,,Lower middle income,Sub-Saharan Africa,0
 1990,SEN,SEN,Senegal,-.51750576,2.380796,,Lower middle income,Sub-Saharan Africa,0
-1995,SEN,SEN,Senegal,.80228317,-6.5817075,.030705921,Lower middle income,Sub-Saharan Africa,0
-2000,SEN,SEN,Senegal,-.11696845,-5.2776294,-.010785863,Lower middle income,Sub-Saharan Africa,0
-2005,SEN,SEN,Senegal,-.3066662,-10.885056,-.0051346403,Lower middle income,Sub-Saharan Africa,0
-2010,SEN,SEN,Senegal,-.58292818,-4.9098258,-.014785418,Lower middle income,Sub-Saharan Africa,1
+1995,SEN,SEN,Senegal,.80228317,-6.5817075,.030929906,Lower middle income,Sub-Saharan Africa,0
+2000,SEN,SEN,Senegal,-.11696845,-5.2776294,-.0082316548,Lower middle income,Sub-Saharan Africa,0
+2005,SEN,SEN,Senegal,-.3066662,-10.885056,-.009397517,Lower middle income,Sub-Saharan Africa,0
+2010,SEN,SEN,Senegal,-.58292818,-4.9098258,-.013300734,Lower middle income,Sub-Saharan Africa,1
 2015,SEN,SEN,Senegal,1.6449143,1.7568487,,Lower middle income,Sub-Saharan Africa,1
 2020,SEN,SEN,Senegal,.6949513,-4.9866781,,Lower middle income,Sub-Saharan Africa,1
 1960,SGP,SGP,Singapore,-5.4097481,-6.4203482,,High income,East Asia & Pacific,0
@@ -2279,7 +2279,7 @@ year,countrycode,ctrycode,country,resid_y,resid_x1,resid_x2,income1,region,post
 1995,SLB,SLB,Solomon Islands,-.39752668,-6.7474823,,Lower middle income,East Asia & Pacific,0
 2000,SLB,SLB,Solomon Islands,-5.02073,-3.9355793,,Lower middle income,East Asia & Pacific,0
 2005,SLB,SLB,Solomon Islands,2.4322698,-4.8025441,,Lower middle income,East Asia & Pacific,0
-2010,SLB,SLB,Solomon Islands,.95034051,-2.9951091,-2.7755576e-17,Lower middle income,East Asia & Pacific,1
+2010,SLB,SLB,Solomon Islands,.95034051,-2.9951091,-1.3877788e-17,Lower middle income,East Asia & Pacific,1
 2015,SLB,SLB,Solomon Islands,-1.0859585,2.2200596,,Lower middle income,East Asia & Pacific,1
 2020,SLB,SLB,Solomon Islands,-1.3580045,-3.7131672,,Lower middle income,East Asia & Pacific,1
 1960,SLE,SLE,Sierra Leone,1.0689886,9.6692762,,Low income,Sub-Saharan Africa,0
@@ -2290,10 +2290,10 @@ year,countrycode,ctrycode,country,resid_y,resid_x1,resid_x2,income1,region,post
 1985,SLE,SLE,Sierra Leone,-2.8543594,-1.4135315,,Low income,Sub-Saharan Africa,0
 1990,SLE,SLE,Sierra Leone,-1.7754714,-5.8466148,,Low income,Sub-Saharan Africa,0
 1995,SLE,SLE,Sierra Leone,-4.6715312,-3.3520732,,Low income,Sub-Saharan Africa,0
-2000,SLE,SLE,Sierra Leone,2.1102085,7.7283688,-.010876029,Low income,Sub-Saharan Africa,0
+2000,SLE,SLE,Sierra Leone,2.1102085,7.7283688,-.0070109135,Low income,Sub-Saharan Africa,0
 2005,SLE,SLE,Sierra Leone,.4466846,-4.6673942,,Low income,Sub-Saharan Africa,0
-2010,SLE,SLE,Sierra Leone,5.7961707,-4.51931,.0036065788,Low income,Sub-Saharan Africa,1
-2015,SLE,SLE,Sierra Leone,-4.9263239,-5.5501866,.00726945,Low income,Sub-Saharan Africa,1
+2010,SLE,SLE,Sierra Leone,5.7961707,-4.51931,.0016738086,Low income,Sub-Saharan Africa,1
+2015,SLE,SLE,Sierra Leone,-4.9263239,-5.5501866,.0053371051,Low income,Sub-Saharan Africa,1
 2020,SLE,SLE,Sierra Leone,.38896349,-11.181827,,Low income,Sub-Saharan Africa,1
 1960,SLV,SLV,El Salvador,,,,Lower middle income,Latin America & Caribbean,0
 1965,SLV,SLV,El Salvador,.91237515,-1.020317,,Lower middle income,Latin America & Caribbean,0
@@ -2301,12 +2301,12 @@ year,countrycode,ctrycode,country,resid_y,resid_x1,resid_x2,income1,region,post
 1977,SLV,SLV,El Salvador,.18582918,-4.6978817,,Lower middle income,Latin America & Caribbean,0
 1980,SLV,SLV,El Salvador,-5.5240054,-.7413801,,Lower middle income,Latin America & Caribbean,0
 1985,SLV,SLV,El Salvador,-1.5360552,2.2391992,,Lower middle income,Latin America & Caribbean,0
-1990,SLV,SLV,El Salvador,4.2344675,-8.9275627,-.0075599253,Lower middle income,Latin America & Caribbean,0
-1995,SLV,SLV,El Salvador,.34726071,6.1620297,-.0013847317,Lower middle income,Latin America & Caribbean,0
-2000,SLV,SLV,El Salvador,-.61598456,6.9742513,.0072964644,Lower middle income,Latin America & Caribbean,0
-2005,SLV,SLV,El Salvador,-.2589542,1.682626,.0080075627,Lower middle income,Latin America & Caribbean,0
-2010,SLV,SLV,El Salvador,-.23801033,-1.3366644,-.0069964123,Lower middle income,Latin America & Caribbean,1
-2015,SLV,SLV,El Salvador,.59956604,.1196305,.00063704269,Lower middle income,Latin America & Caribbean,1
+1990,SLV,SLV,El Salvador,4.2344675,-8.9275627,-.0054943315,Lower middle income,Latin America & Caribbean,0
+1995,SLV,SLV,El Salvador,.34726071,6.1620297,-.0009206112,Lower middle income,Latin America & Caribbean,0
+2000,SLV,SLV,El Salvador,-.61598456,6.9742513,.0070250481,Lower middle income,Latin America & Caribbean,0
+2005,SLV,SLV,El Salvador,-.2589542,1.682626,.0033585869,Lower middle income,Latin America & Caribbean,0
+2010,SLV,SLV,El Salvador,-.23801033,-1.3366644,-.0044045085,Lower middle income,Latin America & Caribbean,1
+2015,SLV,SLV,El Salvador,.59956604,.1196305,.00043581604,Lower middle income,Latin America & Caribbean,1
 2020,SLV,SLV,El Salvador,1.6722409,.69004768,,Lower middle income,Latin America & Caribbean,1
 1960,SMR,SMR,San Marino,,,,High income,Europe & Central Asia,0
 1965,SMR,SMR,San Marino,,,,High income,Europe & Central Asia,0
@@ -2331,8 +2331,8 @@ year,countrycode,ctrycode,country,resid_y,resid_x1,resid_x2,income1,region,post
 1995,SOM,SOM,Somalia,.12152613,,,Low income,Sub-Saharan Africa,0
 2000,SOM,SOM,Somalia,1.8031541,,,Low income,Sub-Saharan Africa,0
 2005,SOM,SOM,Somalia,2.3619823,,,Low income,Sub-Saharan Africa,0
-2010,SOM,SOM,Somalia,3.7441611,,-.0092359912,Low income,Sub-Saharan Africa,1
-2015,SOM,SOM,Somalia,2.7540247,,.0092359912,Low income,Sub-Saharan Africa,1
+2010,SOM,SOM,Somalia,3.7441611,,-.012553843,Low income,Sub-Saharan Africa,1
+2015,SOM,SOM,Somalia,2.7540247,,.012553843,Low income,Sub-Saharan Africa,1
 2020,SOM,SOM,Somalia,-1.5647134,,,Low income,Sub-Saharan Africa,1
 1960,SRB,SRB,Serbia,,,,Upper middle income,Europe & Central Asia,0
 1965,SRB,SRB,Serbia,,,,Upper middle income,Europe & Central Asia,0
@@ -2344,7 +2344,7 @@ year,countrycode,ctrycode,country,resid_y,resid_x1,resid_x2,income1,region,post
 1995,SRB,SRB,Serbia,-1.555282,2.3485935,,Upper middle income,Europe & Central Asia,0
 2000,SRB,SRB,Serbia,1.764835,2.2547078,,Upper middle income,Europe & Central Asia,0
 2005,SRB,SRB,Serbia,.037937365,-3.5526609,,Upper middle income,Europe & Central Asia,0
-2010,SRB,SRB,Serbia,-3.3374102,4.1652856,-2.7755576e-17,Upper middle income,Europe & Central Asia,1
+2010,SRB,SRB,Serbia,-3.3374102,4.1652856,-1.3877788e-17,Upper middle income,Europe & Central Asia,1
 2015,SRB,SRB,Serbia,.67083406,.19118495,,Upper middle income,Europe & Central Asia,1
 2020,SRB,SRB,Serbia,2.4190857,-5.4071112,,Upper middle income,Europe & Central Asia,1
 1960,SSD,SSD,South Sudan,,,,Low income,Sub-Saharan Africa,0
@@ -2358,7 +2358,7 @@ year,countrycode,ctrycode,country,resid_y,resid_x1,resid_x2,income1,region,post
 2000,SSD,SSD,South Sudan,,,,Low income,Sub-Saharan Africa,0
 2005,SSD,SSD,South Sudan,,,,Low income,Sub-Saharan Africa,0
 2010,SSD,SSD,South Sudan,.18505345,.90348399,,Low income,Sub-Saharan Africa,1
-2015,SSD,SSD,South Sudan,-.18505345,-.90348399,-2.7755576e-17,Low income,Sub-Saharan Africa,1
+2015,SSD,SSD,South Sudan,-.18505345,-.90348399,-4.1633363e-17,Low income,Sub-Saharan Africa,1
 2020,SSD,SSD,South Sudan,,,,Low income,Sub-Saharan Africa,1
 1960,STP,STP,São Tomé and Principe,,,,Lower middle income,Sub-Saharan Africa,0
 1965,STP,STP,São Tomé and Principe,,,,Lower middle income,Sub-Saharan Africa,0
@@ -2368,10 +2368,10 @@ year,countrycode,ctrycode,country,resid_y,resid_x1,resid_x2,income1,region,post
 1985,STP,STP,São Tomé and Principe,-.89803964,,,Lower middle income,Sub-Saharan Africa,0
 1990,STP,STP,São Tomé and Principe,.085833296,,,Lower middle income,Sub-Saharan Africa,0
 1995,STP,STP,São Tomé and Principe,-1.4034199,,,Lower middle income,Sub-Saharan Africa,0
-2000,STP,STP,Sao Tome and Principe,-.41753224,,-.001838874,Lower middle income,Sub-Saharan Africa,0
+2000,STP,STP,Sao Tome and Principe,-.41753224,,-.0001590126,Lower middle income,Sub-Saharan Africa,0
 2005,STP,STP,Sao Tome and Principe,1.7572412,9.9368639,,Lower middle income,Sub-Saharan Africa,0
-2010,STP,STP,Sao Tome and Principe,-.32707858,6.8434582,.0071400632,Lower middle income,Sub-Saharan Africa,1
-2015,STP,STP,Sao Tome and Principe,.15191078,-3.6965137,-.0053011891,Lower middle income,Sub-Saharan Africa,1
+2010,STP,STP,Sao Tome and Principe,-.32707858,6.8434582,.006588283,Lower middle income,Sub-Saharan Africa,1
+2015,STP,STP,Sao Tome and Principe,.15191078,-3.6965137,-.0064292704,Lower middle income,Sub-Saharan Africa,1
 2020,STP,STP,Sao Tome and Principe,-1.7950152,-13.083809,,Lower middle income,Sub-Saharan Africa,1
 1960,SUR,SUR,Suriname,.59837162,,,Upper middle income,Latin America & Caribbean,0
 1965,SUR,SUR,Suriname,6.1437726,11.878706,,Upper middle income,Latin America & Caribbean,0
@@ -2380,7 +2380,7 @@ year,countrycode,ctrycode,country,resid_y,resid_x1,resid_x2,income1,region,post
 1980,SUR,SUR,Suriname,-2.2938159,12.96475,,Upper middle income,Latin America & Caribbean,0
 1985,SUR,SUR,Suriname,.11488084,18.784107,,Upper middle income,Latin America & Caribbean,0
 1990,SUR,SUR,Suriname,-.025870087,5.4106236,,Upper middle income,Latin America & Caribbean,0
-1995,SUR,SUR,Suriname,-2.2412653,-6.0228024,-2.7755576e-17,Upper middle income,Latin America & Caribbean,0
+1995,SUR,SUR,Suriname,-2.2412653,-6.0228024,1.3877788e-17,Upper middle income,Latin America & Caribbean,0
 2000,SUR,SUR,Suriname,1.0442998,-7.1198287,,Upper middle income,Latin America & Caribbean,0
 2005,SUR,SUR,Suriname,2.1093285,-13.604149,,Upper middle income,Latin America & Caribbean,0
 2010,SUR,SUR,Suriname,.77385294,-10.209306,,Upper middle income,Latin America & Caribbean,1
@@ -2393,11 +2393,11 @@ year,countrycode,ctrycode,country,resid_y,resid_x1,resid_x2,income1,region,post
 1980,SVK,SVK,Slovak Republic,,,,High income,Europe & Central Asia,0
 1985,SVK,SVK,Slovak Republic,,,,High income,Europe & Central Asia,0
 1990,SVK,SVK,Slovak Republic,-4.4698696,11.209759,,High income,Europe & Central Asia,0
-1995,SVK,SVK,Slovak Republic,.026909012,11.986663,-.011688944,High income,Europe & Central Asia,0
-2000,SVK,SVK,Slovak Republic,-.29255801,-1.5962294,-.0020705245,High income,Europe & Central Asia,0
-2005,SVK,SVK,Slovak Republic,1.9052931,-13.001493,.0079519311,High income,Europe & Central Asia,0
-2010,SVK,SVK,Slovak Republic,.36757478,-9.8888912,.003013354,High income,Europe & Central Asia,1
-2015,SVK,SVK,Slovak Republic,1.6873608,-.42300272,.0027941831,High income,Europe & Central Asia,1
+1995,SVK,SVK,Slovak Republic,.026909012,11.986663,-.011060282,High income,Europe & Central Asia,0
+2000,SVK,SVK,Slovak Republic,-.29255801,-1.5962294,.00082884572,High income,Europe & Central Asia,0
+2005,SVK,SVK,Slovak Republic,1.9052931,-13.001493,.0054480573,High income,Europe & Central Asia,0
+2010,SVK,SVK,Slovak Republic,.36757478,-9.8888912,.0036865755,High income,Europe & Central Asia,1
+2015,SVK,SVK,Slovak Republic,1.6873608,-.42300272,.001096803,High income,Europe & Central Asia,1
 2020,SVK,SVK,Slovak Republic,.77528995,1.7131951,,High income,Europe & Central Asia,1
 1960,SVN,SVN,Slovenia,,,,High income,Europe & Central Asia,0
 1965,SVN,SVN,Slovenia,,,,High income,Europe & Central Asia,0
@@ -2406,11 +2406,11 @@ year,countrycode,ctrycode,country,resid_y,resid_x1,resid_x2,income1,region,post
 1980,SVN,SVN,Slovenia,,,,High income,Europe & Central Asia,0
 1985,SVN,SVN,Slovenia,,,,High income,Europe & Central Asia,0
 1990,SVN,SVN,Slovenia,-1.840171,,,High income,Europe & Central Asia,0
-1995,SVN,SVN,Slovenia,1.1761575,-10.24087,-.015765388,High income,Europe & Central Asia,0
-2000,SVN,SVN,Slovenia,.41686818,-1.4999837,-.01715732,High income,Europe & Central Asia,0
-2005,SVN,SVN,Slovenia,-.22021744,17.192568,.0028877519,High income,Europe & Central Asia,0
-2010,SVN,SVN,Slovenia,-2.2106059,19.519606,.014762915,High income,Europe & Central Asia,1
-2015,SVN,SVN,Slovenia,1.7311548,-8.0531425,.015272042,High income,Europe & Central Asia,1
+1995,SVN,SVN,Slovenia,1.1761575,-10.24087,-.016752342,High income,Europe & Central Asia,0
+2000,SVN,SVN,Slovenia,.41686818,-1.4999837,-.01378214,High income,Europe & Central Asia,0
+2005,SVN,SVN,Slovenia,-.22021744,17.192568,.0013079059,High income,Europe & Central Asia,0
+2010,SVN,SVN,Slovenia,-2.2106059,19.519606,.015279775,High income,Europe & Central Asia,1
+2015,SVN,SVN,Slovenia,1.7311548,-8.0531425,.0139468,High income,Europe & Central Asia,1
 2020,SVN,SVN,Slovenia,.94681382,-16.918175,,High income,Europe & Central Asia,1
 1960,SWE,SWE,Sweden,.97743624,-9.4824648,,High income,Europe & Central Asia,0
 1965,SWE,SWE,Sweden,-.50348371,-10.788142,,High income,Europe & Central Asia,0
@@ -2420,10 +2420,10 @@ year,countrycode,ctrycode,country,resid_y,resid_x1,resid_x2,income1,region,post
 1985,SWE,SWE,Sweden,1.0008396,-25.884689,,High income,Europe & Central Asia,0
 1990,SWE,SWE,Sweden,.069030695,-25.751827,,High income,Europe & Central Asia,0
 1995,SWE,SWE,Sweden,.95369148,-37.238247,,High income,Europe & Central Asia,0
-2000,SWE,SWE,Sweden,.026083469,9.3758287,.0053354818,High income,Europe & Central Asia,0
-2005,SWE,SWE,Sweden,-1.8123392,30.91291,-.0077666659,High income,Europe & Central Asia,0
-2010,SWE,SWE,Sweden,-.12744896,42.458874,-.00032142905,High income,Europe & Central Asia,1
-2015,SWE,SWE,Sweden,-.2738643,47.13192,.0027526135,High income,Europe & Central Asia,1
+2000,SWE,SWE,Sweden,.026083469,9.3758287,.0071729734,High income,Europe & Central Asia,0
+2005,SWE,SWE,Sweden,-1.8123392,30.91291,-.010263489,High income,Europe & Central Asia,0
+2010,SWE,SWE,Sweden,-.12744896,42.458874,-.0012026493,High income,Europe & Central Asia,1
+2015,SWE,SWE,Sweden,-.2738643,47.13192,.0042931647,High income,Europe & Central Asia,1
 2020,SWE,SWE,Sweden,-.4925839,48.104546,,High income,Europe & Central Asia,1
 1960,SWZ,SWZ,Eswatini,,,,Lower middle income,Sub-Saharan Africa,0
 1965,SWZ,SWZ,Eswatini,,,,Lower middle income,Sub-Saharan Africa,0
@@ -2432,11 +2432,11 @@ year,countrycode,ctrycode,country,resid_y,resid_x1,resid_x2,income1,region,post
 1980,SWZ,SWZ,Eswatini,2.8453681,20.283604,,Lower middle income,Sub-Saharan Africa,0
 1985,SWZ,SWZ,Eswatini,2.5623949,15.242604,,Lower middle income,Sub-Saharan Africa,0
 1990,SWZ,SWZ,Eswatini,2.7226973,3.791151,,Lower middle income,Sub-Saharan Africa,0
-1995,SWZ,SWZ,Eswatini,-1.3854108,-6.257093,-.019392405,Lower middle income,Sub-Saharan Africa,0
-2000,SWZ,SWZ,Eswatini,-1.7849801,-10.166229,-.0057015498,Lower middle income,Sub-Saharan Africa,0
+1995,SWZ,SWZ,Eswatini,-1.3854108,-6.257093,-.019344438,Lower middle income,Sub-Saharan Africa,0
+2000,SWZ,SWZ,Eswatini,-1.7849801,-10.166229,-.0045234086,Lower middle income,Sub-Saharan Africa,0
 2005,SWZ,SWZ,Eswatini,-.14366885,-14.716475,,Lower middle income,Sub-Saharan Africa,0
 2010,SWZ,SWZ,Eswatini,-.41223365,-15.374882,,Lower middle income,Sub-Saharan Africa,1
-2015,SWZ,SWZ,Eswatini,-.97361445,-16.441458,.025093956,Lower middle income,Sub-Saharan Africa,1
+2015,SWZ,SWZ,Eswatini,-.97361445,-16.441458,.023867847,Lower middle income,Sub-Saharan Africa,1
 2020,SWZ,SWZ,Eswatini,-1.4809643,-21.971281,,Lower middle income,Sub-Saharan Africa,1
 1960,SXM,SXM,Sint Maarten (Dutch part),,,,High income,Latin America & Caribbean,0
 1965,SXM,SXM,Sint Maarten (Dutch part),,,,High income,Latin America & Caribbean,0
@@ -2460,8 +2460,8 @@ year,countrycode,ctrycode,country,resid_y,resid_x1,resid_x2,income1,region,post
 1990,SYC,SYC,Seychelles,2.5549014,-10.589904,,High income,Sub-Saharan Africa,0
 1995,SYC,SYC,Seychelles,.86248606,-7.516026,,High income,Sub-Saharan Africa,0
 2000,SYC,SYC,Seychelles,-4.6721196,-5.8532462,,High income,Sub-Saharan Africa,0
-2005,SYC,SYC,Seychelles,.076590054,-7.9207425,-.033019237,High income,Sub-Saharan Africa,0
-2010,SYC,SYC,Seychelles,.61061001,-12.006986,.033019237,High income,Sub-Saharan Africa,1
+2005,SYC,SYC,Seychelles,.076590054,-7.9207425,-.034054883,High income,Sub-Saharan Africa,0
+2010,SYC,SYC,Seychelles,.61061001,-12.006986,.034054883,High income,Sub-Saharan Africa,1
 2015,SYC,SYC,Seychelles,4.31674,-7.8601718,,High income,Sub-Saharan Africa,1
 2020,SYC,SYC,,-4.4612226,10.14222,,High income,Sub-Saharan Africa,1
 1960,SYR,SYR,Syrian Arab Republic,4.2929029,28.351965,,Low income,Middle East & North Africa,0
@@ -2471,8 +2471,8 @@ year,countrycode,ctrycode,country,resid_y,resid_x1,resid_x2,income1,region,post
 1980,SYR,SYR,Syrian Arab Republic,2.3765709,-3.7429683,,Low income,Middle East & North Africa,0
 1985,SYR,SYR,Syrian Arab Republic,-1.8670427,-4.5712681,,Low income,Middle East & North Africa,0
 1990,SYR,SYR,Syrian Arab Republic,5.5020504,-.3877959,,Low income,Middle East & North Africa,0
-1995,SYR,SYR,Syrian Arab Republic,1.2282106,-6.9815421,.0021496392,Low income,Middle East & North Africa,0
-2000,SYR,SYR,Syrian Arab Republic,-.028056717,-8.6315737,-.0021496392,Low income,Middle East & North Africa,0
+1995,SYR,SYR,Syrian Arab Republic,1.2282106,-6.9815421,.001043112,Low income,Middle East & North Africa,0
+2000,SYR,SYR,Syrian Arab Republic,-.028056717,-8.6315737,-.001043112,Low income,Middle East & North Africa,0
 2005,SYR,SYR,Syrian Arab Republic,.16493294,-7.3172269,,Low income,Middle East & North Africa,0
 2010,SYR,SYR,Syrian Arab Republic,-8.7788906,-23.767004,,Low income,Middle East & North Africa,1
 2015,SYR,SYR,Syrian Arab Republic,-4.6383862,,,Low income,Middle East & North Africa,1
@@ -2500,7 +2500,7 @@ year,countrycode,ctrycode,country,resid_y,resid_x1,resid_x2,income1,region,post
 1995,TCD,TCD,Chad,-1.9617467,.80110091,,Low income,Sub-Saharan Africa,0
 2000,TCD,TCD,Chad,7.9510088,2.2754219,,Low income,Sub-Saharan Africa,0
 2005,TCD,TCD,Chad,1.3184751,-16.437616,,Low income,Sub-Saharan Africa,0
-2010,TCD,TCD,Chad,2.5492308,-14.514082,0,Low income,Sub-Saharan Africa,1
+2010,TCD,TCD,Chad,2.5492308,-14.514082,-1.3877788e-17,Low income,Sub-Saharan Africa,1
 2015,TCD,TCD,Chad,-4.0730462,-11.678367,,Low income,Sub-Saharan Africa,1
 2020,TCD,TCD,Chad,-3.4093482,,,Low income,Sub-Saharan Africa,1
 1970,TEA,TEA,,-5.0681338,,,,,0
@@ -2534,22 +2534,22 @@ year,countrycode,ctrycode,country,resid_y,resid_x1,resid_x2,income1,region,post
 1990,TGO,TGO,Togo,-2.0014338,1.9146136,,Low income,Sub-Saharan Africa,0
 1995,TGO,TGO,Togo,.57414061,.78784508,,Low income,Sub-Saharan Africa,0
 2000,TGO,TGO,Togo,-2.9921327,-7.4314551,,Low income,Sub-Saharan Africa,0
-2005,TGO,TGO,Togo,-3.9938569,-9.1473532,-.0037586405,Low income,Sub-Saharan Africa,0
-2010,TGO,TGO,Togo,.79321694,1.3673586,-.004025775,Low income,Sub-Saharan Africa,1
-2015,TGO,TGO,Togo,.015846143,.6706025,.007784416,Low income,Sub-Saharan Africa,1
+2005,TGO,TGO,Togo,-3.9938569,-9.1473532,-.0054681189,Low income,Sub-Saharan Africa,0
+2010,TGO,TGO,Togo,.79321694,1.3673586,-.0033717037,Low income,Sub-Saharan Africa,1
+2015,TGO,TGO,Togo,.015846143,.6706025,.0088398224,Low income,Sub-Saharan Africa,1
 2020,TGO,TGO,Togo,1.2661021,-8.8030758,,Low income,Sub-Saharan Africa,1
 1960,THA,THA,Thailand,-2.0637486,-28.048256,,Upper middle income,East Asia & Pacific,0
 1965,THA,THA,Thailand,-.89102703,-26.133545,,Upper middle income,East Asia & Pacific,0
 1970,THA,THA,Thailand,-2.4661415,-26.827597,,Upper middle income,East Asia & Pacific,0
 1977,THA,THA,Thailand,.042414095,-17.248028,,Upper middle income,East Asia & Pacific,0
 1980,THA,THA,Thailand,-.020212643,-12.336,,Upper middle income,East Asia & Pacific,0
-1985,THA,THA,Thailand,2.7544148,-4.4094906,-.0033137887,Upper middle income,East Asia & Pacific,0
-1990,THA,THA,Thailand,5.6928501,22.664196,-.0047566686,Upper middle income,East Asia & Pacific,0
-1995,THA,THA,Thailand,-2.9108071,61.150757,-.008792772,Upper middle income,East Asia & Pacific,0
-2000,THA,THA,Thailand,1.0167453,10.994761,.0026951344,Upper middle income,East Asia & Pacific,0
-2005,THA,THA,Thailand,-.81902736,-8.4905081,.0061413166,Upper middle income,East Asia & Pacific,0
-2010,THA,THA,Thailand,.21855378,3.8646228,-.0026391984,Upper middle income,East Asia & Pacific,1
-2015,THA,THA,Thailand,.71825516,9.505558,.010665976,Upper middle income,East Asia & Pacific,1
+1985,THA,THA,Thailand,2.7544148,-4.4094906,-.0013474002,Upper middle income,East Asia & Pacific,0
+1990,THA,THA,Thailand,5.6928501,22.664196,-.0024666912,Upper middle income,East Asia & Pacific,0
+1995,THA,THA,Thailand,-2.9108071,61.150757,-.007507408,Upper middle income,East Asia & Pacific,0
+2000,THA,THA,Thailand,1.0167453,10.994761,.003970155,Upper middle income,East Asia & Pacific,0
+2005,THA,THA,Thailand,-.81902736,-8.4905081,.0021876432,Upper middle income,East Asia & Pacific,0
+2010,THA,THA,Thailand,.21855378,3.8646228,-.0028308646,Upper middle income,East Asia & Pacific,1
+2015,THA,THA,Thailand,.71825516,9.505558,.0079945661,Upper middle income,East Asia & Pacific,1
 2020,THA,THA,Thailand,-1.2722691,15.313531,,Upper middle income,East Asia & Pacific,1
 1960,TJK,TJK,Tajikistan,,,,Lower middle income,Europe & Central Asia,0
 1965,TJK,TJK,Tajikistan,,,,Lower middle income,Europe & Central Asia,0
@@ -2558,10 +2558,10 @@ year,countrycode,ctrycode,country,resid_y,resid_x1,resid_x2,income1,region,post
 1980,TJK,TJK,Tajikistan,,,,Lower middle income,Europe & Central Asia,0
 1985,TJK,TJK,Tajikistan,.88590968,,,Lower middle income,Europe & Central Asia,0
 1990,TJK,TJK,Tajikistan,-13.171863,,,Lower middle income,Europe & Central Asia,0
-1995,TJK,TJK,Tajikistan,-7.3812265,8.3493471,.013635797,Lower middle income,Europe & Central Asia,0
-2000,TJK,TJK,Tajikistan,4.5938501,15.51441,-.0037063034,Lower middle income,Europe & Central Asia,0
-2005,TJK,TJK,Tajikistan,2.2073174,3.8978472,-.0020063547,Lower middle income,Europe & Central Asia,0
-2010,TJK,TJK,Tajikistan,2.9856367,-1.9764892,-.0079231393,Lower middle income,Europe & Central Asia,1
+1995,TJK,TJK,Tajikistan,-7.3812265,8.3493471,.0092376713,Lower middle income,Europe & Central Asia,0
+2000,TJK,TJK,Tajikistan,4.5938501,15.51441,-.00078439579,Lower middle income,Europe & Central Asia,0
+2005,TJK,TJK,Tajikistan,2.2073174,3.8978472,-.0037058641,Lower middle income,Europe & Central Asia,0
+2010,TJK,TJK,Tajikistan,2.9856367,-1.9764892,-.0047474112,Lower middle income,Europe & Central Asia,1
 2015,TJK,TJK,Tajikistan,3.7816441,-5.9422417,,Lower middle income,Europe & Central Asia,1
 2020,TJK,TJK,Tajikistan,6.0987306,-19.842875,,Lower middle income,Europe & Central Asia,1
 1960,TKM,TKM,Turkmenistan,,,,Upper middle income,Europe & Central Asia,0
@@ -2596,9 +2596,9 @@ year,countrycode,ctrycode,country,resid_y,resid_x1,resid_x2,income1,region,post
 1985,TLS,TLS,Timor-Leste,,,,Lower middle income,East Asia & Pacific,0
 1990,TLS,TLS,Timor-Leste,5.9811378,,,Lower middle income,East Asia & Pacific,0
 1995,TLS,TLS,Timor-Leste,-7.2392673,,,Lower middle income,East Asia & Pacific,0
-2000,TLS,TLS,Timor-Leste,7.2910018,3.5786467,-.012217666,Lower middle income,East Asia & Pacific,0
-2005,TLS,TLS,Timor-Leste,.19403593,7.9068651,-.011263351,Lower middle income,East Asia & Pacific,0
-2010,TLS,TLS,Timor-Leste,-.6353457,-.85402685,.023481017,Lower middle income,East Asia & Pacific,1
+2000,TLS,TLS,Timor-Leste,7.2910018,3.5786467,-.008860724,Lower middle income,East Asia & Pacific,0
+2005,TLS,TLS,Timor-Leste,.19403593,7.9068651,-.016635939,Lower middle income,East Asia & Pacific,0
+2010,TLS,TLS,Timor-Leste,-.6353457,-.85402685,.025496664,Lower middle income,East Asia & Pacific,1
 2015,TLS,TLS,Timor-Leste,-.95636237,.36992162,,Lower middle income,East Asia & Pacific,1
 2020,TLS,TLS,Timor-Leste,-4.6352,-11.001407,,Lower middle income,East Asia & Pacific,1
 1970,TMN,TMN,,3.1137047,,,,,0
@@ -2621,9 +2621,9 @@ year,countrycode,ctrycode,country,resid_y,resid_x1,resid_x2,income1,region,post
 1990,TON,TON,Tonga,3.3158221,2.8415532,,Upper middle income,East Asia & Pacific,0
 1995,TON,TON,Tonga,-.0098758386,4.866931,,Upper middle income,East Asia & Pacific,0
 2000,TON,TON,Tonga,-.6676718,7.8575344,,Upper middle income,East Asia & Pacific,0
-2005,TON,TON,Tonga,-3.3178411,8.8603878,.0058941231,Upper middle income,East Asia & Pacific,0
+2005,TON,TON,Tonga,-3.3178411,8.8603878,.0051029534,Upper middle income,East Asia & Pacific,0
 2010,TON,TON,Tonga,-.058783691,-8.9543295,,Upper middle income,East Asia & Pacific,1
-2015,TON,TON,Tonga,.49522367,-6.1908364,-.0058941231,Upper middle income,East Asia & Pacific,1
+2015,TON,TON,Tonga,.49522367,-6.1908364,-.0051029534,Upper middle income,East Asia & Pacific,1
 2020,TON,TON,Tonga,-.40489268,-12.624902,,Upper middle income,East Asia & Pacific,1
 1970,TSA,TSA,,-5.3042192,,,,,0
 1977,TSA,TSA,,-2.724143,,,,,0
@@ -2651,11 +2651,11 @@ year,countrycode,ctrycode,country,resid_y,resid_x1,resid_x2,income1,region,post
 1965,TTO,TTO,Trinidad and Tobago,-2.2086904,7.3828635,,High income,Latin America & Caribbean,0
 1970,TTO,TTO,Trinidad and Tobago,-2.8975418,11.507311,,High income,Latin America & Caribbean,0
 1977,TTO,TTO,Trinidad and Tobago,1.5283506,8.8844481,,High income,Latin America & Caribbean,0
-1980,TTO,TTO,Trinidad and Tobago,-.45096582,3.6615009,-.0099049574,High income,Latin America & Caribbean,0
+1980,TTO,TTO,Trinidad and Tobago,-.45096582,3.6615009,-.010852582,High income,Latin America & Caribbean,0
 1985,TTO,TTO,Trinidad and Tobago,-6.1451802,11.30291,,High income,Latin America & Caribbean,0
-1990,TTO,TTO,Trinidad and Tobago,1.7999822,11.02163,.010412403,High income,Latin America & Caribbean,0
+1990,TTO,TTO,Trinidad and Tobago,1.7999822,11.02163,.0079181259,High income,Latin America & Caribbean,0
 1995,TTO,TTO,Trinidad and Tobago,2.5991352,7.9014621,,High income,Latin America & Caribbean,0
-2000,TTO,TTO,Trinidad and Tobago,4.4393973,-.86117744,-.00050744589,High income,Latin America & Caribbean,0
+2000,TTO,TTO,Trinidad and Tobago,4.4393973,-.86117744,.0029344556,High income,Latin America & Caribbean,0
 2005,TTO,TTO,Trinidad and Tobago,3.2201169,-20.250164,,High income,Latin America & Caribbean,0
 2010,TTO,TTO,Trinidad and Tobago,1.7878364,-22.175188,,High income,Latin America & Caribbean,1
 2015,TTO,TTO,Trinidad and Tobago,-3.6501083,-14.816779,,High income,Latin America & Caribbean,1
@@ -2667,11 +2667,11 @@ year,countrycode,ctrycode,country,resid_y,resid_x1,resid_x2,income1,region,post
 1980,TUN,TUN,Tunisia,1.3509285,3.4356179,,Lower middle income,Middle East & North Africa,0
 1985,TUN,TUN,Tunisia,-1.7429087,6.9680157,,Lower middle income,Middle East & North Africa,0
 1990,TUN,TUN,Tunisia,2.4062884,7.3568082,,Lower middle income,Middle East & North Africa,0
-1995,TUN,TUN,Tunisia,.64584482,-3.0602629,-.0017900058,Lower middle income,Middle East & North Africa,0
-2000,TUN,TUN,Tunisia,-.050898965,-.86652458,-.01057975,Lower middle income,Middle East & North Africa,0
-2005,TUN,TUN,Tunisia,1.1317861,-11.110861,.014078439,Lower middle income,Middle East & North Africa,0
-2010,TUN,TUN,Tunisia,-.66321963,-3.5560727,-.020086631,Lower middle income,Middle East & North Africa,1
-2015,TUN,TUN,Tunisia,-.44481251,-3.4898722,.018377949,Lower middle income,Middle East & North Africa,1
+1995,TUN,TUN,Tunisia,.64584482,-3.0602629,.000079762729,Lower middle income,Middle East & North Africa,0
+2000,TUN,TUN,Tunisia,-.050898965,-.86652458,-.0060408558,Lower middle income,Middle East & North Africa,0
+2005,TUN,TUN,Tunisia,1.1317861,-11.110861,.010998584,Lower middle income,Middle East & North Africa,0
+2010,TUN,TUN,Tunisia,-.66321963,-3.5560727,-.020414419,Lower middle income,Middle East & North Africa,1
+2015,TUN,TUN,Tunisia,-.44481251,-3.4898722,.015376928,Lower middle income,Middle East & North Africa,1
 2020,TUN,TUN,Tunisia,-1.7594097,-9.3007088,,Lower middle income,Middle East & North Africa,1
 1960,TUR,TUR,Turkey,-1.5043418,10.117608,,Upper middle income,Europe & Central Asia,0
 1965,TUR,TUR,Turkey,-1.1112654,12.565998,,Upper middle income,Europe & Central Asia,0
@@ -2681,10 +2681,10 @@ year,countrycode,ctrycode,country,resid_y,resid_x1,resid_x2,income1,region,post
 1985,TUR,TUR,Turkey,-.49857053,-3.9807382,,Upper middle income,Europe & Central Asia,0
 1990,TUR,TUR,Turkey,.75513184,-9.9496918,,Upper middle income,Europe & Central Asia,0
 1995,TUR,TUR,Turkey,-.6860826,-10.647412,,Upper middle income,Europe & Central Asia,0
-2000,TUR,TUR,TÃ¼rkiye,-.050938904,-18.870693,-.021092042,Upper middle income,Europe & Central Asia,0
-2005,TUR,TUR,TÃ¼rkiye,-.71138841,-18.016455,-.0066558076,Upper middle income,Europe & Central Asia,0
-2010,TUR,TUR,TÃ¼rkiye,2.9145629,4.4964061,.002842491,Upper middle income,Europe & Central Asia,1
-2015,TUR,TUR,TÃ¼rkiye,.6427418,12.620569,.024905359,Upper middle income,Europe & Central Asia,1
+2000,TUR,TUR,TÃ¼rkiye,-.050938904,-18.870693,-.019813562,Upper middle income,Europe & Central Asia,0
+2005,TUR,TUR,TÃ¼rkiye,-.71138841,-18.016455,-.011404181,Upper middle income,Europe & Central Asia,0
+2010,TUR,TUR,TÃ¼rkiye,2.9145629,4.4964061,.0049733603,Upper middle income,Europe & Central Asia,1
+2015,TUR,TUR,TÃ¼rkiye,.6427418,12.620569,.026244383,Upper middle income,Europe & Central Asia,1
 2020,TUR,TUR,TÃ¼rkiye,4.2962313,8.727684,,Upper middle income,Europe & Central Asia,1
 1960,TUV,TUV,Tuvalu,,,,Upper middle income,East Asia & Pacific,0
 1965,TUV,TUV,Tuvalu,,,,Upper middle income,East Asia & Pacific,0
@@ -2720,9 +2720,9 @@ year,countrycode,ctrycode,country,resid_y,resid_x1,resid_x2,income1,region,post
 1985,TZA,TZA,Tanzania,.22855525,11.232103,,Lower middle income,Sub-Saharan Africa,0
 1990,TZA,TZA,Tanzania,.05479259,12.101245,,Lower middle income,Sub-Saharan Africa,0
 1995,TZA,TZA,Tanzania,-.13599166,.99239665,,Lower middle income,Sub-Saharan Africa,0
-2000,TZA,TZA,"Tanzania, United Republic of",1.8577782,.92394876,-.0094773751,Lower middle income,Sub-Saharan Africa,0
-2005,TZA,TZA,"Tanzania, United Republic of",2.3442569,-5.4619923,.010223083,Lower middle income,Sub-Saharan Africa,0
-2010,TZA,TZA,"Tanzania, United Republic of",1.9532293,-4.3346334,-.0007457083,Lower middle income,Sub-Saharan Africa,1
+2000,TZA,TZA,"Tanzania, United Republic of",1.8577782,.92394876,-.0084029855,Lower middle income,Sub-Saharan Africa,0
+2005,TZA,TZA,"Tanzania, United Republic of",2.3442569,-5.4619923,.0059496039,Lower middle income,Sub-Saharan Africa,0
+2010,TZA,TZA,"Tanzania, United Republic of",1.9532293,-4.3346334,.0024533821,Lower middle income,Sub-Saharan Africa,1
 2015,TZA,TZA,"Tanzania, United Republic of",1.5750909,-3.543833,,Lower middle income,Sub-Saharan Africa,1
 2020,TZA,TZA,"Tanzania, United Republic of",.73644114,-11.909236,,Lower middle income,Sub-Saharan Africa,1
 1960,UGA,UGA,Uganda,,,,Low income,Sub-Saharan Africa,0
@@ -2732,11 +2732,11 @@ year,countrycode,ctrycode,country,resid_y,resid_x1,resid_x2,income1,region,post
 1980,UGA,UGA,Uganda,,,,Low income,Sub-Saharan Africa,0
 1985,UGA,UGA,Uganda,-2.5163512,8.561182,,Low income,Sub-Saharan Africa,0
 1990,UGA,UGA,Uganda,2.0288815,7.4833183,,Low income,Sub-Saharan Africa,0
-1995,UGA,UGA,Uganda,2.179574,2.0313962,.010373077,Low income,Sub-Saharan Africa,0
-2000,UGA,UGA,Uganda,-.31306511,3.6761794,-.0044096587,Low income,Sub-Saharan Africa,0
-2005,UGA,UGA,Uganda,2.0086646,-2.4763622,.024413951,Low income,Sub-Saharan Africa,0
-2010,UGA,UGA,Uganda,-.66731328,-5.5255971,-.02263055,Low income,Sub-Saharan Africa,1
-2015,UGA,UGA,Uganda,-1.5593634,-3.7664654,-.0077468199,Low income,Sub-Saharan Africa,1
+1995,UGA,UGA,Uganda,2.179574,2.0313962,.0041896361,Low income,Sub-Saharan Africa,0
+2000,UGA,UGA,Uganda,-.31306511,3.6761794,-.0039397646,Low income,Sub-Saharan Africa,0
+2005,UGA,UGA,Uganda,2.0086646,-2.4763622,.02049938,Low income,Sub-Saharan Africa,0
+2010,UGA,UGA,Uganda,-.66731328,-5.5255971,-.019900559,Low income,Sub-Saharan Africa,1
+2015,UGA,UGA,Uganda,-1.5593634,-3.7664654,-.00084869261,Low income,Sub-Saharan Africa,1
 2020,UGA,UGA,Uganda,-1.1610271,-9.9836512,,Low income,Sub-Saharan Africa,1
 1960,UKR,UKR,Ukraine,,,,Lower middle income,Europe & Central Asia,0
 1965,UKR,UKR,Ukraine,,,,Lower middle income,Europe & Central Asia,0
@@ -2746,9 +2746,9 @@ year,countrycode,ctrycode,country,resid_y,resid_x1,resid_x2,income1,region,post
 1985,UKR,UKR,Ukraine,,,,Lower middle income,Europe & Central Asia,0
 1990,UKR,UKR,Ukraine,-7.8441954,-23.821409,,Lower middle income,Europe & Central Asia,0
 1995,UKR,UKR,Ukraine,-4.9842186,-11.214967,,Lower middle income,Europe & Central Asia,0
-2000,UKR,UKR,Ukraine,8.3696136,3.671391,.0059720217,Lower middle income,Europe & Central Asia,0
-2005,UKR,UKR,Ukraine,1.9800744,26.962639,.0014414311,Lower middle income,Europe & Central Asia,0
-2010,UKR,UKR,Ukraine,.71065193,27.684048,-.007413453,Lower middle income,Europe & Central Asia,1
+2000,UKR,UKR,Ukraine,8.3696136,3.671391,.0064206002,Lower middle income,Europe & Central Asia,0
+2005,UKR,UKR,Ukraine,1.9800744,26.962639,-.00077265146,Lower middle income,Europe & Central Asia,0
+2010,UKR,UKR,Ukraine,.71065193,27.684048,-.0056479489,Lower middle income,Europe & Central Asia,1
 2015,UKR,UKR,Ukraine,1.8394189,3.3750927,,Lower middle income,Europe & Central Asia,1
 2020,UKR,UKR,Ukraine,-.071345218,-26.656796,,Lower middle income,Europe & Central Asia,1
 1960,URY,URY,Uruguay,-2.794858,10.808013,,High income,Latin America & Caribbean,0
@@ -2758,24 +2758,24 @@ year,countrycode,ctrycode,country,resid_y,resid_x1,resid_x2,income1,region,post
 1980,URY,URY,Uruguay,-2.8489163,25.060547,,High income,Latin America & Caribbean,0
 1985,URY,URY,Uruguay,2.0440617,17.089258,,High income,Latin America & Caribbean,0
 1990,URY,URY,Uruguay,4.1483312,1.5070035,,High income,Latin America & Caribbean,0
-1995,URY,URY,Uruguay,.87591493,2.8700233,-.0015021974,High income,Latin America & Caribbean,0
-2000,URY,URY,Uruguay,-3.7565987,15.186571,.010746878,High income,Latin America & Caribbean,0
-2005,URY,URY,Uruguay,3.4166901,-15.645738,-.0017473184,High income,Latin America & Caribbean,0
-2010,URY,URY,Uruguay,2.5259771,-19.090971,-.010921973,High income,Latin America & Caribbean,1
-2015,URY,URY,Uruguay,-.78403521,-19.278219,.0034246105,High income,Latin America & Caribbean,1
+1995,URY,URY,Uruguay,.87591493,2.8700233,-.0029402771,High income,Latin America & Caribbean,0
+2000,URY,URY,Uruguay,-3.7565987,15.186571,.011687361,High income,Latin America & Caribbean,0
+2005,URY,URY,Uruguay,3.4166901,-15.645738,-.0059854803,High income,Latin America & Caribbean,0
+2010,URY,URY,Uruguay,2.5259771,-19.090971,-.0083838729,High income,Latin America & Caribbean,1
+2015,URY,URY,Uruguay,-.78403521,-19.278219,.0056222691,High income,Latin America & Caribbean,1
 2020,URY,URY,Uruguay,-.0032136247,-22.679678,,High income,Latin America & Caribbean,1
 1960,USA,USA,United States,-.45065376,14.596414,,High income,North America,0
 1965,USA,USA,United States,-.43825355,18.42016,,High income,North America,0
-1970,USA,USA,United States,-2.7924497,18.914692,-.018015813,High income,North America,0
+1970,USA,USA,United States,-2.7924497,18.914692,-.019837005,High income,North America,0
 1977,USA,USA,United States,-.2729429,16.297356,,High income,North America,0
-1980,USA,USA,United States,1.2981638,8.02491,-.020524157,High income,North America,0
+1980,USA,USA,United States,1.2981638,8.02491,-.021793872,High income,North America,0
 1985,USA,USA,United States,1.6604396,6.2528739,,High income,North America,0
-1990,USA,USA,United States,1.8816351,-5.0303607,-.0076888874,High income,North America,0
+1990,USA,USA,United States,1.8816351,-5.0303607,-.0068066982,High income,North America,0
 1995,USA,USA,United States,.66701585,-7.5260215,,High income,North America,0
-2000,USA,USA,United States,-.57983243,-6.2602406,-.016780797,High income,North America,0
-2005,USA,USA,United States,-1.8240066,-9.5571899,.021273576,High income,North America,0
-2010,USA,USA,United States,-.52585518,-17.436428,.016633125,High income,North America,1
-2015,USA,USA,United States,.27532196,-16.53623,.025102954,High income,North America,1
+2000,USA,USA,United States,-.57983243,-6.2602406,-.012087737,High income,North America,0
+2005,USA,USA,United States,-1.8240066,-9.5571899,.019648375,High income,North America,0
+2010,USA,USA,United States,-.52585518,-17.436428,.016767418,High income,North America,1
+2015,USA,USA,United States,.27532196,-16.53623,.024109522,High income,North America,1
 2020,USA,USA,United States,1.101418,-20.159933,,High income,North America,1
 1960,UZB,UZB,Uzbekistan,,,,Lower middle income,Europe & Central Asia,0
 1965,UZB,UZB,Uzbekistan,,,,Lower middle income,Europe & Central Asia,0
@@ -2785,7 +2785,7 @@ year,countrycode,ctrycode,country,resid_y,resid_x1,resid_x2,income1,region,post
 1985,UZB,UZB,Uzbekistan,,,,Lower middle income,Europe & Central Asia,0
 1990,UZB,UZB,Uzbekistan,-5.9045839,,,Lower middle income,Europe & Central Asia,0
 1995,UZB,UZB,Uzbekistan,-2.860754,,,Lower middle income,Europe & Central Asia,0
-2000,UZB,UZB,Uzbekistan,-1.4786011,,-2.7755576e-17,Lower middle income,Europe & Central Asia,0
+2000,UZB,UZB,Uzbekistan,-1.4786011,,5.5511151e-17,Lower middle income,Europe & Central Asia,0
 2005,UZB,UZB,Uzbekistan,2.2063909,,,Lower middle income,Europe & Central Asia,0
 2010,UZB,UZB,Uzbekistan,2.3101091,-4.8167386,,Lower middle income,Europe & Central Asia,1
 2015,UZB,UZB,Uzbekistan,2.512902,-2.4268296,,Lower middle income,Europe & Central Asia,1
@@ -2863,8 +2863,8 @@ year,countrycode,ctrycode,country,resid_y,resid_x1,resid_x2,income1,region,post
 1995,VUT,VUT,Vanuatu,-1.0410936,-9.1938734,,Lower middle income,East Asia & Pacific,0
 2000,VUT,VUT,Vanuatu,-2.6402433,-5.553719,,Lower middle income,East Asia & Pacific,0
 2005,VUT,VUT,Vanuatu,1.2862724,1.6451441,,Lower middle income,East Asia & Pacific,0
-2010,VUT,VUT,Vanuatu,-.96889377,19.496513,-.0082429927,Lower middle income,East Asia & Pacific,1
-2015,VUT,VUT,Vanuatu,.94593942,14.065095,.0082429927,Lower middle income,East Asia & Pacific,1
+2010,VUT,VUT,Vanuatu,-.96889377,19.496513,-.0073877419,Lower middle income,East Asia & Pacific,1
+2015,VUT,VUT,Vanuatu,.94593942,14.065095,.0073877419,Lower middle income,East Asia & Pacific,1
 2020,VUT,VUT,Vanuatu,-2.746763,5.674161,,Lower middle income,East Asia & Pacific,1
 1960,WSM,WSM,Samoa,,,,Lower middle income,East Asia & Pacific,0
 1965,WSM,WSM,Samoa,,,,Lower middle income,East Asia & Pacific,0
@@ -2876,7 +2876,7 @@ year,countrycode,ctrycode,country,resid_y,resid_x1,resid_x2,income1,region,post
 1995,WSM,WSM,Samoa,1.8154906,-4.4127002,,Lower middle income,East Asia & Pacific,0
 2000,WSM,WSM,Samoa,3.1028605,2.7683983,,Lower middle income,East Asia & Pacific,0
 2005,WSM,WSM,Samoa,.3811799,-2.5897658,,Lower middle income,East Asia & Pacific,0
-2010,WSM,WSM,Samoa,-.83191395,1.8717327,-2.7755576e-17,Lower middle income,East Asia & Pacific,1
+2010,WSM,WSM,Samoa,-.83191395,1.8717327,-1.3877788e-17,Lower middle income,East Asia & Pacific,1
 2015,WSM,WSM,Samoa,1.6614403,8.743309,,Lower middle income,East Asia & Pacific,1
 2020,WSM,WSM,Samoa,-2.2607393,11.745258,,Lower middle income,East Asia & Pacific,1
 1960,YEM,YEM,"Yemen, Rep.",,,,Low income,Middle East & North Africa,0
@@ -2886,7 +2886,7 @@ year,countrycode,ctrycode,country,resid_y,resid_x1,resid_x2,income1,region,post
 1980,YEM,YEM,"Yemen, Rep.",,,,Low income,Middle East & North Africa,0
 1985,YEM,YEM,"Yemen, Rep.",,,,Low income,Middle East & North Africa,0
 1990,YEM,YEM,"Yemen, Rep.",7.2002883,5.7689071,,Low income,Middle East & North Africa,0
-1995,YEM,YEM,"Yemen, Rep.",3.2919562,2.4558539,-2.7755576e-17,Low income,Middle East & North Africa,0
+1995,YEM,YEM,"Yemen, Rep.",3.2919562,2.4558539,1.3877788e-17,Low income,Middle East & North Africa,0
 2000,YEM,YEM,Yemen,2.3859816,2.5700693,,Low income,Middle East & North Africa,0
 2005,YEM,YEM,Yemen,1.5400548,-3.27666,,Low income,Middle East & North Africa,0
 2010,YEM,YEM,Yemen,-1.574984,-7.5181704,,Low income,Middle East & North Africa,1
@@ -2899,11 +2899,11 @@ year,countrycode,ctrycode,country,resid_y,resid_x1,resid_x2,income1,region,post
 1980,ZAF,ZAF,South Africa,1.0022984,-1.1658286,,Upper middle income,Sub-Saharan Africa,0
 1985,ZAF,ZAF,South Africa,-1.7856271,-.052016299,,Upper middle income,Sub-Saharan Africa,0
 1990,ZAF,ZAF,South Africa,-.33777478,.023558283,,Upper middle income,Sub-Saharan Africa,0
-1995,ZAF,ZAF,South Africa,.18877347,3.8721192,-.027398607,Upper middle income,Sub-Saharan Africa,0
-2000,ZAF,ZAF,South Africa,.33009443,5.6845326,-.018291278,Upper middle income,Sub-Saharan Africa,0
-2005,ZAF,ZAF,South Africa,.99060297,3.0322204,.0091986759,Upper middle income,Sub-Saharan Africa,0
-2010,ZAF,ZAF,South Africa,-.30934581,-2.1462243,.0088173104,Upper middle income,Sub-Saharan Africa,1
-2015,ZAF,ZAF,South Africa,-1.3612537,-3.6537824,.027673896,Upper middle income,Sub-Saharan Africa,1
+1995,ZAF,ZAF,South Africa,.18877347,3.8721192,-.029533733,Upper middle income,Sub-Saharan Africa,0
+2000,ZAF,ZAF,South Africa,.33009443,5.6845326,-.014511824,Upper middle income,Sub-Saharan Africa,0
+2005,ZAF,ZAF,South Africa,.99060297,3.0322204,.0057218745,Upper middle income,Sub-Saharan Africa,0
+2010,ZAF,ZAF,South Africa,-.30934581,-2.1462243,.010658899,Upper middle income,Sub-Saharan Africa,1
+2015,ZAF,ZAF,South Africa,-1.3612537,-3.6537824,.027664782,Upper middle income,Sub-Saharan Africa,1
 2020,ZAF,ZAF,South Africa,-1.5741193,-7.2963753,,Upper middle income,Sub-Saharan Africa,1
 1960,ZMB,ZMB,Zambia,.61482477,,,Low income,Sub-Saharan Africa,0
 1965,ZMB,ZMB,Zambia,.72536886,,,Low income,Sub-Saharan Africa,0
@@ -2912,11 +2912,11 @@ year,countrycode,ctrycode,country,resid_y,resid_x1,resid_x2,income1,region,post
 1980,ZMB,ZMB,Zambia,-.49854568,,,Low income,Sub-Saharan Africa,0
 1985,ZMB,ZMB,Zambia,-.81908107,,,Low income,Sub-Saharan Africa,0
 1990,ZMB,ZMB,Zambia,-1.6491361,,,Low income,Sub-Saharan Africa,0
-1995,ZMB,ZMB,Zambia,-.37421164,,.019659555,Low income,Sub-Saharan Africa,0
-2000,ZMB,ZMB,Zambia,.61154401,,.006677052,Low income,Sub-Saharan Africa,0
-2005,ZMB,ZMB,Zambia,2.9249537,3.8373909,.0018215496,Low income,Sub-Saharan Africa,0
-2010,ZMB,ZMB,Zambia,1.9104961,.52667314,-.0095412591,Low income,Sub-Saharan Africa,1
-2015,ZMB,ZMB,Zambia,-1.2251897,1.202682,-.018616898,Low income,Sub-Saharan Africa,1
+1995,ZMB,ZMB,Zambia,-.37421164,,.014533718,Low income,Sub-Saharan Africa,0
+2000,ZMB,ZMB,Zambia,.61154401,,.007860803,Low income,Sub-Saharan Africa,0
+2005,ZMB,ZMB,Zambia,2.9249537,3.8373909,.000073977928,Low income,Sub-Saharan Africa,0
+2010,ZMB,ZMB,Zambia,1.9104961,.52667314,-.0065026036,Low income,Sub-Saharan Africa,1
+2015,ZMB,ZMB,Zambia,-1.2251897,1.202682,-.015965896,Low income,Sub-Saharan Africa,1
 2020,ZMB,ZMB,Zambia,-.013462927,-5.5667462,,Low income,Sub-Saharan Africa,1
 1960,ZWE,ZWE,Zimbabwe,-.35255688,,,Lower middle income,Sub-Saharan Africa,0
 1965,ZWE,ZWE,Zimbabwe,1.0791283,,,Lower middle income,Sub-Saharan Africa,0
@@ -2926,10 +2926,10 @@ year,countrycode,ctrycode,country,resid_y,resid_x1,resid_x2,income1,region,post
 1985,ZWE,ZWE,Zimbabwe,1.5475514,.91523445,,Lower middle income,Sub-Saharan Africa,0
 1990,ZWE,ZWE,Zimbabwe,2.8119996,-4.6722326,,Lower middle income,Sub-Saharan Africa,0
 1995,ZWE,ZWE,Zimbabwe,-.58764052,-3.0409794,,Lower middle income,Sub-Saharan Africa,0
-2000,ZWE,ZWE,Zimbabwe,-8.677269,-7.5410619,-.000099672172,Lower middle income,Sub-Saharan Africa,0
-2005,ZWE,ZWE,Zimbabwe,-6.3560371,-2.8206823,.03562199,Lower middle income,Sub-Saharan Africa,0
-2010,ZWE,ZWE,Zimbabwe,8.1349459,9.5637016,.0016389416,Lower middle income,Sub-Saharan Africa,1
-2015,ZWE,ZWE,Zimbabwe,-2.0391712,4.7862096,-.037161257,Lower middle income,Sub-Saharan Africa,1
+2000,ZWE,ZWE,Zimbabwe,-8.677269,-7.5410619,.0046331841,Lower middle income,Sub-Saharan Africa,0
+2005,ZWE,ZWE,Zimbabwe,-6.3560371,-2.8206823,.029564096,Lower middle income,Sub-Saharan Africa,0
+2010,ZWE,ZWE,Zimbabwe,8.1349459,9.5637016,.000099986741,Lower middle income,Sub-Saharan Africa,1
+2015,ZWE,ZWE,Zimbabwe,-2.0391712,4.7862096,-.034297265,Lower middle income,Sub-Saharan Africa,1
 2020,ZWE,ZWE,Zimbabwe,.060399424,-5.1002235,,Lower middle income,Sub-Saharan Africa,1
 1960,,,Africa Eastern and Southern,,,,,,0
 1965,,,Africa Eastern and Southern,,,,,,0
