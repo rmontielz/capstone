@@ -1,0 +1,1013 @@
+year,countrycode,ctrycode,country,resid_y,resid_x1,resid_x2,region,post
+1960,ABW,ABW,Aruba,,,,Latin America & Caribbean,0
+1965,ABW,ABW,Aruba,,,,Latin America & Caribbean,0
+1970,ABW,ABW,Aruba,,,,Latin America & Caribbean,0
+1975,ABW,ABW,Aruba,,,,Latin America & Caribbean,0
+1980,ABW,ABW,Aruba,,,,Latin America & Caribbean,0
+1985,ABW,ABW,Aruba,,,,Latin America & Caribbean,0
+1990,ABW,ABW,Aruba,2.3702407,9.9684839,,Latin America & Caribbean,0
+1995,ABW,ABW,Aruba,-1.325449,3.5372312,,Latin America & Caribbean,0
+2000,ABW,ABW,Aruba,1.1197641,-.60778457,,Latin America & Caribbean,0
+2005,ABW,ABW,Aruba,-2.8271308,-14.990599,,Latin America & Caribbean,0
+2010,ABW,ABW,Aruba,-1.0161941,-7.7102518,,Latin America & Caribbean,1
+2015,ABW,ABW,Aruba,-.14657211,-6.8174758,,Latin America & Caribbean,1
+2020,ABW,ABW,,1.8253413,16.620396,,Latin America & Caribbean,1
+1960,AND,AND,Andorra,,,,Europe & Central Asia,0
+1965,AND,AND,Andorra,,,,Europe & Central Asia,0
+1970,AND,AND,Andorra,-1.033605,,,Europe & Central Asia,0
+1975,AND,AND,Andorra,-3.7879484,,,Europe & Central Asia,0
+1980,AND,AND,Andorra,-.89268965,,,Europe & Central Asia,0
+1985,AND,AND,Andorra,.080239773,,,Europe & Central Asia,0
+1990,AND,AND,Andorra,-1.6348954,,,Europe & Central Asia,0
+1995,AND,AND,Andorra,3.3848145,,,Europe & Central Asia,0
+2000,AND,AND,Andorra,2.967272,,,Europe & Central Asia,0
+2005,AND,AND,Andorra,-1.7790239,,,Europe & Central Asia,0
+2010,AND,AND,Andorra,1.0766126,,,Europe & Central Asia,1
+2015,AND,AND,Andorra,.75073612,,,Europe & Central Asia,1
+2020,AND,AND,,.86848718,,,Europe & Central Asia,1
+1960,ARE,ARE,United Arab Emirates,,,,Middle East & North Africa,0
+1965,ARE,ARE,United Arab Emirates,,,,Middle East & North Africa,0
+1970,ARE,ARE,United Arab Emirates,21.445194,,,Middle East & North Africa,0
+1975,ARE,ARE,United Arab Emirates,-.23394336,9.4552135,,Middle East & North Africa,0
+1980,ARE,ARE,United Arab Emirates,-.16269696,-8.6834383,,Middle East & North Africa,0
+1985,ARE,ARE,United Arab Emirates,-7.0912457,-2.5541191,,Middle East & North Africa,0
+1990,ARE,ARE,United Arab Emirates,2.0998144,-10.896288,,Middle East & North Africa,0
+1995,ARE,ARE,United Arab Emirates,-3.159497,-5.669445,,Middle East & North Africa,0
+2000,ARE,ARE,United Arab Emirates,-1.5024929,-9.2937384,,Middle East & North Africa,0
+2005,ARE,ARE,United Arab Emirates,-5.8720636,1.9142308,,Middle East & North Africa,0
+2010,ARE,ARE,United Arab Emirates,-1.6090127,-1.7258525,,Middle East & North Africa,1
+2015,ARE,ARE,United Arab Emirates,-2.2276745,13.93337,,Middle East & North Africa,1
+2020,ARE,ARE,United Arab Emirates,-1.6863816,13.520066,,Middle East & North Africa,1
+1960,ATG,ATG,Antigua and Barbuda,,,,Latin America & Caribbean,0
+1965,ATG,ATG,Antigua and Barbuda,,,,Latin America & Caribbean,0
+1970,ATG,ATG,Antigua and Barbuda,,,,Latin America & Caribbean,0
+1975,ATG,ATG,Antigua and Barbuda,,,,Latin America & Caribbean,0
+1980,ATG,ATG,Antigua and Barbuda,3.1703339,8.2769833,,Latin America & Caribbean,0
+1985,ATG,ATG,Antigua and Barbuda,4.3565698,.94400966,,Latin America & Caribbean,0
+1990,ATG,ATG,Antigua and Barbuda,1.7637371,1.4473445,,Latin America & Caribbean,0
+1995,ATG,ATG,Antigua and Barbuda,-1.788682,10.13626,,Latin America & Caribbean,0
+2000,ATG,ATG,Antigua and Barbuda,-1.5560251,12.943258,,Latin America & Caribbean,0
+2005,ATG,ATG,Antigua and Barbuda,.11425897,-1.1758599,,Latin America & Caribbean,0
+2010,ATG,ATG,Antigua and Barbuda,-4.2245188,5.2014947,,Latin America & Caribbean,1
+2015,ATG,ATG,Antigua and Barbuda,.29669496,-18.052454,,Latin America & Caribbean,1
+2020,ATG,ATG,,-2.1323688,-19.721037,,Latin America & Caribbean,1
+1960,AUS,AUS,Australia,-1.0499854,-13.776262,,East Asia & Pacific,0
+1965,AUS,AUS,Australia,-.2002535,-15.848812,,East Asia & Pacific,0
+1970,AUS,AUS,Australia,-1.6536998,-20.412151,,East Asia & Pacific,0
+1975,AUS,AUS,Australia,-1.4124587,-23.750322,,East Asia & Pacific,0
+1980,AUS,AUS,Australia,.69779444,-28.30406,.0029613082,East Asia & Pacific,0
+1985,AUS,AUS,Australia,.60112423,-18.009136,.001932069,East Asia & Pacific,0
+1990,AUS,AUS,Australia,1.222837,-9.9223022,.00024605199,East Asia & Pacific,0
+1995,AUS,AUS,Australia,1.0473086,-1.7691534,-.0023265083,East Asia & Pacific,0
+2000,AUS,AUS,Australia,.052443366,9.9321089,-.0017429914,East Asia & Pacific,0
+2005,AUS,AUS,Australia,.4328576,18.273937,-.00054571981,East Asia & Pacific,0
+2010,AUS,AUS,Australia,.17993964,26.122267,-.001057453,East Asia & Pacific,1
+2015,AUS,AUS,Australia,-.41332293,41.635422,.00053324323,East Asia & Pacific,1
+2020,AUS,AUS,Australia,.49541536,35.828465,,East Asia & Pacific,1
+1960,AUT,AUT,Austria,-.17123547,-4.9156456,,Europe & Central Asia,0
+1965,AUT,AUT,Austria,-.47717282,-3.3281646,,Europe & Central Asia,0
+1970,AUT,AUT,Austria,.62178922,-3.0780632,,Europe & Central Asia,0
+1975,AUT,AUT,Austria,-.13793431,4.887507,,Europe & Central Asia,0
+1980,AUT,AUT,Austria,.81847692,12.982966,,Europe & Central Asia,0
+1985,AUT,AUT,Austria,.2347665,12.400002,,Europe & Central Asia,0
+1990,AUT,AUT,Austria,1.6400268,13.99276,,Europe & Central Asia,0
+1995,AUT,AUT,Austria,.52479738,13.5895,,Europe & Central Asia,0
+2000,AUT,AUT,Austria,-.87136811,1.9666258,,Europe & Central Asia,0
+2005,AUT,AUT,Austria,-.088691674,-9.9953995,,Europe & Central Asia,0
+2010,AUT,AUT,Austria,-.53230339,-9.5391293,,Europe & Central Asia,1
+2015,AUT,AUT,Austria,-.47485533,-15.217215,,Europe & Central Asia,1
+2020,AUT,AUT,Austria,-1.0862957,-13.745743,,Europe & Central Asia,1
+1960,BEL,BEL,Belgium,.66686624,3.0110991,,Europe & Central Asia,0
+1965,BEL,BEL,Belgium,-.59969962,2.0127728,,Europe & Central Asia,0
+1970,BEL,BEL,Belgium,.7611236,-1.2097434,,Europe & Central Asia,0
+1975,BEL,BEL,Belgium,-1.351279,-.68404013,,Europe & Central Asia,0
+1980,BEL,BEL,Belgium,1.0577523,-3.9522598,,Europe & Central Asia,0
+1985,BEL,BEL,Belgium,.31991604,-8.6232224,,Europe & Central Asia,0
+1990,BEL,BEL,Belgium,1.3031343,12.442245,,Europe & Central Asia,0
+1995,BEL,BEL,Belgium,.14712244,22.163631,.004036203,Europe & Central Asia,0
+2000,BEL,BEL,Belgium,-.57786369,7.8383207,.0032116103,Europe & Central Asia,0
+2005,BEL,BEL,Belgium,-.45604539,-8.7065277,.00066789071,Europe & Central Asia,0
+2010,BEL,BEL,Belgium,-.66598797,-15.770704,-.0014409572,Europe & Central Asia,1
+2015,BEL,BEL,Belgium,-.54835391,-5.176743,-.0024034814,Europe & Central Asia,1
+2020,BEL,BEL,Belgium,-.056685284,-3.3448298,-.004071265,Europe & Central Asia,1
+1960,BHR,BHR,Bahrain,,,,Middle East & North Africa,0
+1965,BHR,BHR,Bahrain,,,,Middle East & North Africa,0
+1970,BHR,BHR,Bahrain,1.4327456,4.4678769,,Middle East & North Africa,0
+1975,BHR,BHR,Bahrain,1.4834499,16.414513,,Middle East & North Africa,0
+1980,BHR,BHR,Bahrain,-2.2893009,10.266912,,Middle East & North Africa,0
+1985,BHR,BHR,Bahrain,-2.2165606,3.8236442,,Middle East & North Africa,0
+1990,BHR,BHR,Bahrain,5.7515607,-11.803043,,Middle East & North Africa,0
+1995,BHR,BHR,Bahrain,.24086298,-10.712119,,Middle East & North Africa,0
+2000,BHR,BHR,Bahrain,-2.3768399,-4.3735948,,Middle East & North Africa,0
+2005,BHR,BHR,Bahrain,-1.9288787,-5.8122807,,Middle East & North Africa,0
+2010,BHR,BHR,Bahrain,.82671243,-5.8436947,,Middle East & North Africa,1
+2015,BHR,BHR,Bahrain,-.59946835,3.5717859,,Middle East & North Africa,1
+2020,BHR,BHR,Bahrain,-.32428321,,,Middle East & North Africa,1
+1960,BHS,BHS,"Bahamas, The",3.3856812,,,Latin America & Caribbean,0
+1965,BHS,BHS,"Bahamas, The",2.4512413,49.695847,,Latin America & Caribbean,0
+1970,BHS,BHS,"Bahamas, The",-8.352602,27.535,,Latin America & Caribbean,0
+1975,BHS,BHS,"Bahamas, The",3.1552935,17.885853,,Latin America & Caribbean,0
+1980,BHS,BHS,"Bahamas, The",3.4559135,-.55594915,,Latin America & Caribbean,0
+1985,BHS,BHS,"Bahamas, The",1.1209244,-8.7532492,,Latin America & Caribbean,0
+1990,BHS,BHS,"Bahamas, The",-1.8695178,-5.7694426,,Latin America & Caribbean,0
+1995,BHS,BHS,"Bahamas, The",1.3768727,-6.5603504,,Latin America & Caribbean,0
+2000,BHS,BHS,Bahamas,-.99986458,-12.181066,,Latin America & Caribbean,0
+2005,BHS,BHS,Bahamas,-1.5826064,-15.813203,,Latin America & Caribbean,0
+2010,BHS,BHS,Bahamas,-1.0932248,-10.361849,,Latin America & Caribbean,1
+2015,BHS,BHS,Bahamas,-1.2217964,-20.638435,,Latin America & Caribbean,1
+2020,BHS,BHS,Bahamas,.17368522,-14.483157,,Latin America & Caribbean,1
+1960,BMU,BMU,Bermuda,-.47722036,,,North America,0
+1965,BMU,BMU,Bermuda,1.6873095,,,North America,0
+1970,BMU,BMU,Bermuda,-1.4506695,,,North America,0
+1975,BMU,BMU,Bermuda,1.737789,,,North America,0
+1980,BMU,BMU,Bermuda,1.2811755,,,North America,0
+1985,BMU,BMU,Bermuda,.095599934,,,North America,0
+1990,BMU,BMU,Bermuda,-.32910344,,,North America,0
+1995,BMU,BMU,Bermuda,1.2037765,,,North America,0
+2000,BMU,BMU,Bermuda,1.7650515,,,North America,0
+2005,BMU,BMU,Bermuda,-.26098627,,,North America,0
+2010,BMU,BMU,Bermuda,-3.9397368,,,North America,1
+2015,BMU,BMU,Bermuda,-1.1278774,,,North America,1
+2020,BMU,BMU,,-.1851081,,,North America,1
+1960,BRB,BRB,Barbados,-.12587827,,,Latin America & Caribbean,0
+1965,BRB,BRB,Barbados,3.7614851,19.141937,,Latin America & Caribbean,0
+1970,BRB,BRB,Barbados,-.98903221,22.269133,,Latin America & Caribbean,0
+1975,BRB,BRB,Barbados,1.3135675,-.4272612,,Latin America & Caribbean,0
+1980,BRB,BRB,Barbados,.53218162,-5.3751297,,Latin America & Caribbean,0
+1985,BRB,BRB,Barbados,1.3334559,-11.191322,,Latin America & Caribbean,0
+1990,BRB,BRB,Barbados,-1.7740425,-14.759375,,Latin America & Caribbean,0
+1995,BRB,BRB,Barbados,.94130361,-12.817363,,Latin America & Caribbean,0
+2000,BRB,BRB,Barbados,-1.1086411,-4.6086054,,Latin America & Caribbean,0
+2005,BRB,BRB,Barbados,.15999535,-5.549139,,Latin America & Caribbean,0
+2010,BRB,BRB,Barbados,-2.2637217,6.6139932,,Latin America & Caribbean,1
+2015,BRB,BRB,Barbados,-1.8300039,6.7031331,,Latin America & Caribbean,1
+2020,BRB,BRB,Barbados,.049330514,,,Latin America & Caribbean,1
+1960,BRN,BRN,Brunei Darussalam,,,,East Asia & Pacific,0
+1965,BRN,BRN,Brunei Darussalam,,,,East Asia & Pacific,0
+1970,BRN,BRN,Brunei Darussalam,,,,East Asia & Pacific,0
+1975,BRN,BRN,Brunei Darussalam,10.537976,,,East Asia & Pacific,0
+1980,BRN,BRN,Brunei Darussalam,-4.3194742,,,East Asia & Pacific,0
+1985,BRN,BRN,Brunei Darussalam,-3.2960448,,,East Asia & Pacific,0
+1990,BRN,BRN,Brunei Darussalam,1.0711063,,,East Asia & Pacific,0
+1995,BRN,BRN,Brunei Darussalam,-.68683684,33.461433,,East Asia & Pacific,0
+2000,BRN,BRN,Brunei Darussalam,.46584004,19.680147,,East Asia & Pacific,0
+2005,BRN,BRN,Brunei Darussalam,-1.7359501,-12.074253,,East Asia & Pacific,0
+2010,BRN,BRN,Brunei Darussalam,-.49938565,-17.803633,,East Asia & Pacific,1
+2015,BRN,BRN,Brunei Darussalam,-.89378774,-7.6720548,,East Asia & Pacific,1
+2020,BRN,BRN,Brunei Darussalam,-.64344329,-15.59164,,East Asia & Pacific,1
+1960,CAN,CAN,Canada,.4573974,-18.076666,,North America,0
+1965,CAN,CAN,Canada,-.012887776,-12.117357,,North America,0
+1970,CAN,CAN,Canada,-.84007412,-10.162487,,North America,0
+1975,CAN,CAN,Canada,-.091046423,-4.7166309,,North America,0
+1980,CAN,CAN,Canada,1.0991354,3.5192778,,North America,0
+1985,CAN,CAN,Canada,.50675744,-1.682079,,North America,0
+1990,CAN,CAN,Canada,.27631947,-.7507109,,North America,0
+1995,CAN,CAN,Canada,.61346287,-1.9562297,-.0012434218,North America,0
+2000,CAN,CAN,Canada,-.11410629,23.292072,.00036505322,North America,0
+2005,CAN,CAN,Canada,-.64218491,22.650808,.0016556962,North America,0
+2010,CAN,CAN,Canada,.56095052,,.0022198565,North America,1
+2015,CAN,CAN,Canada,-.71178651,,-.00095259841,North America,1
+2020,CAN,CAN,Canada,-1.1019369,,-.0020445858,North America,1
+1960,CHE,CHE,Switzerland,1.2306873,1.3668691,,Europe & Central Asia,0
+1965,CHE,CHE,Switzerland,-.54328722,-5.8552461,,Europe & Central Asia,0
+1970,CHE,CHE,Switzerland,.10194661,,,Europe & Central Asia,0
+1975,CHE,CHE,Switzerland,-2.5464056,,,Europe & Central Asia,0
+1980,CHE,CHE,Switzerland,1.6942822,-11.147026,,Europe & Central Asia,0
+1985,CHE,CHE,Switzerland,.89404386,5.7904391,,Europe & Central Asia,0
+1990,CHE,CHE,Switzerland,.4690161,9.1255655,,Europe & Central Asia,0
+1995,CHE,CHE,Switzerland,-.52353072,6.8474445,,Europe & Central Asia,0
+2000,CHE,CHE,Switzerland,-1.0247037,-3.8204775,,Europe & Central Asia,0
+2005,CHE,CHE,Switzerland,.49846643,-11.214758,,Europe & Central Asia,0
+2010,CHE,CHE,Switzerland,.074916214,-.64807683,,Europe & Central Asia,1
+2015,CHE,CHE,Switzerland,-.41272557,9.5552654,,Europe & Central Asia,1
+2020,CHE,CHE,Switzerland,.087294109,,,Europe & Central Asia,1
+1960,CHI,CHI,Channel Islands,,,,Europe & Central Asia,0
+1965,CHI,CHI,Channel Islands,,,,Europe & Central Asia,0
+1970,CHI,CHI,Channel Islands,,,,Europe & Central Asia,0
+1975,CHI,CHI,Channel Islands,,,,Europe & Central Asia,0
+1980,CHI,CHI,Channel Islands,,,,Europe & Central Asia,0
+1985,CHI,CHI,Channel Islands,,,,Europe & Central Asia,0
+1990,CHI,CHI,Channel Islands,,,,Europe & Central Asia,0
+1995,CHI,CHI,Channel Islands,,,,Europe & Central Asia,0
+2000,CHI,CHI,Channel Islands,,,,Europe & Central Asia,0
+2005,CHI,CHI,Channel Islands,,,,Europe & Central Asia,0
+2010,CHI,CHI,Channel Islands,-1.9076611,,,Europe & Central Asia,1
+2015,CHI,CHI,Channel Islands,.035486937,,,Europe & Central Asia,1
+2020,CHI,CHI,,1.8721741,,,Europe & Central Asia,1
+1960,CHL,CHL,Chile,-1.5418961,2.7668107,,Latin America & Caribbean,0
+1965,CHL,CHL,Chile,-1.6315124,-6.7428641,,Latin America & Caribbean,0
+1970,CHL,CHL,Chile,-4.715344,-15.175088,,Latin America & Caribbean,0
+1975,CHL,CHL,Chile,-2.3026879,-7.8451414,,Latin America & Caribbean,0
+1980,CHL,CHL,Chile,-2.1571572,23.485371,,Latin America & Caribbean,0
+1985,CHL,CHL,Chile,1.4924247,8.5757456,,Latin America & Caribbean,0
+1990,CHL,CHL,Chile,4.0871186,-4.086463,,Latin America & Caribbean,0
+1995,CHL,CHL,Chile,1.4559966,-.66321915,,Latin America & Caribbean,0
+2000,CHL,CHL,Chile,.75908589,3.6668978,,Latin America & Caribbean,0
+2005,CHL,CHL,Chile,1.8143469,-8.296978,,Latin America & Caribbean,0
+2010,CHL,CHL,Chile,2.6823864,-4.7627916,-.0013997689,Latin America & Caribbean,1
+2015,CHL,CHL,Chile,-.59804744,7.4476862,.00024659155,Latin America & Caribbean,1
+2020,CHL,CHL,Chile,.65528548,1.6300353,.0011531773,Latin America & Caribbean,1
+1960,CUW,CUW,Curaçao,,,,Latin America & Caribbean,0
+1965,CUW,CUW,Curaçao,,,,Latin America & Caribbean,0
+1970,CUW,CUW,Curaçao,,,,Latin America & Caribbean,0
+1975,CUW,CUW,Curaçao,,,,Latin America & Caribbean,0
+1980,CUW,CUW,Curaçao,,,,Latin America & Caribbean,0
+1985,CUW,CUW,Curaçao,,,,Latin America & Caribbean,0
+1990,CUW,CUW,Curaçao,,,,Latin America & Caribbean,0
+1995,CUW,CUW,Curaçao,,,,Latin America & Caribbean,0
+2000,CUW,CUW,Curaçao,.19854625,,,Latin America & Caribbean,0
+2005,CUW,CUW,Curaçao,.64381313,,,Latin America & Caribbean,0
+2010,CUW,CUW,Curaçao,-.48484981,,,Latin America & Caribbean,1
+2015,CUW,CUW,Curaçao,-1.3971723,,,Latin America & Caribbean,1
+2020,CUW,CUW,,1.0396627,,,Latin America & Caribbean,1
+1960,CYM,CYM,Cayman Islands,,,,Latin America & Caribbean,0
+1965,CYM,CYM,Cayman Islands,,,,Latin America & Caribbean,0
+1970,CYM,CYM,Cayman Islands,,,,Latin America & Caribbean,0
+1975,CYM,CYM,Cayman Islands,,,,Latin America & Caribbean,0
+1980,CYM,CYM,Cayman Islands,,,,Latin America & Caribbean,0
+1985,CYM,CYM,Cayman Islands,,,,Latin America & Caribbean,0
+1990,CYM,CYM,Cayman Islands,,,,Latin America & Caribbean,0
+1995,CYM,CYM,Cayman Islands,,,,Latin America & Caribbean,0
+2000,CYM,CYM,Cayman Islands,,,,Latin America & Caribbean,0
+2005,CYM,CYM,Cayman Islands,,,,Latin America & Caribbean,0
+2010,CYM,CYM,Cayman Islands,-1.585252,,,Latin America & Caribbean,1
+2015,CYM,CYM,Cayman Islands,.93533802,,,Latin America & Caribbean,1
+2020,CYM,CYM,,.64991403,,,Latin America & Caribbean,1
+1960,CYP,CYP,Cyprus,,,,Europe & Central Asia,0
+1965,CYP,CYP,Cyprus,,,,Europe & Central Asia,0
+1970,CYP,CYP,Cyprus,,,,Europe & Central Asia,0
+1975,CYP,CYP,Cyprus,6.5997744,-8.5963554,,Europe & Central Asia,0
+1980,CYP,CYP,Cyprus,1.2255511,-27.523752,,Europe & Central Asia,0
+1985,CYP,CYP,Cyprus,.48678368,-20.562773,,Europe & Central Asia,0
+1990,CYP,CYP,Cyprus,.19695997,8.8256712,,Europe & Central Asia,0
+1995,CYP,CYP,Cyprus,-.99056876,24.445953,,Europe & Central Asia,0
+2000,CYP,CYP,Cyprus,-1.2769803,-12.936249,,Europe & Central Asia,0
+2005,CYP,CYP,Cyprus,-1.7596794,36.347504,,Europe & Central Asia,0
+2010,CYP,CYP,Cyprus,-5.951798,,,Europe & Central Asia,1
+2015,CYP,CYP,Cyprus,1.0300597,,,Europe & Central Asia,1
+2020,CYP,CYP,Cyprus,.43989778,,,Europe & Central Asia,1
+1960,CZE,CZE,Czech Republic,,,,Europe & Central Asia,0
+1965,CZE,CZE,Czech Republic,,,,Europe & Central Asia,0
+1970,CZE,CZE,Czech Republic,,,,Europe & Central Asia,0
+1975,CZE,CZE,Czech Republic,,,,Europe & Central Asia,0
+1980,CZE,CZE,Czech Republic,,,,Europe & Central Asia,0
+1985,CZE,CZE,Czech Republic,,,,Europe & Central Asia,0
+1990,CZE,CZE,Czech Republic,-2.5036764,32.324982,-.0066929958,Europe & Central Asia,0
+1995,CZE,CZE,Czech Republic,-.3464272,23.076056,-.0013361389,Europe & Central Asia,0
+2000,CZE,CZE,Czechia,.59032619,-8.6719818,.00054918998,Europe & Central Asia,0
+2005,CZE,CZE,Czechia,1.4540431,-18.061777,-.000067247107,Europe & Central Asia,0
+2010,CZE,CZE,Czechia,-.25060922,-12.073346,.00079538033,Europe & Central Asia,1
+2015,CZE,CZE,Czechia,1.9319201,-7.1560917,.0027391191,Europe & Central Asia,1
+2020,CZE,CZE,Czechia,-.87557673,-9.4378405,.0040126923,Europe & Central Asia,1
+1960,DEU,DEU,Germany,-.033985078,,,Europe & Central Asia,0
+1965,DEU,DEU,Germany,-.55858016,,,Europe & Central Asia,0
+1970,DEU,DEU,Germany,-.75584716,12.120512,,Europe & Central Asia,0
+1975,DEU,DEU,Germany,.088190652,13.311719,,Europe & Central Asia,0
+1980,DEU,DEU,Germany,.90582162,18.77669,,Europe & Central Asia,0
+1985,DEU,DEU,Germany,.34653512,14.422017,,Europe & Central Asia,0
+1990,DEU,DEU,Germany,2.1741769,8.8735075,.00025920384,Europe & Central Asia,0
+1995,DEU,DEU,Germany,-.48212141,16.822935,.0017048405,Europe & Central Asia,0
+2000,DEU,DEU,Germany,-1.432444,15.432961,.0018625836,Europe & Central Asia,0
+2005,DEU,DEU,Germany,-.41164091,-12.700069,-.000096316071,Europe & Central Asia,0
+2010,DEU,DEU,Germany,1.2049006,-27.084379,-.00033302349,Europe & Central Asia,1
+2015,DEU,DEU,Germany,-.29685202,-29.39011,-.00063827762,Europe & Central Asia,1
+2020,DEU,DEU,Germany,-.74815428,-30.585783,-.0027590108,Europe & Central Asia,1
+1960,DNK,DNK,Denmark,.93526363,,,Europe & Central Asia,0
+1965,DNK,DNK,Denmark,.48336291,,,Europe & Central Asia,0
+1970,DNK,DNK,Denmark,-2.1067774,,,Europe & Central Asia,0
+1975,DNK,DNK,Denmark,-.72565889,,,Europe & Central Asia,0
+1980,DNK,DNK,Denmark,1.439368,,,Europe & Central Asia,0
+1985,DNK,DNK,Denmark,-.11563852,,,Europe & Central Asia,0
+1990,DNK,DNK,Denmark,1.7194191,,,Europe & Central Asia,0
+1995,DNK,DNK,Denmark,.31771344,,,Europe & Central Asia,0
+2000,DNK,DNK,Denmark,-.93648511,-12.550715,,Europe & Central Asia,0
+2005,DNK,DNK,Denmark,-1.1546321,18.693287,,Europe & Central Asia,0
+2010,DNK,DNK,Denmark,-.66392618,11.089672,,Europe & Central Asia,1
+2015,DNK,DNK,Denmark,-.015632566,-3.5257614,,Europe & Central Asia,1
+2020,DNK,DNK,Denmark,.82362366,-13.706482,,Europe & Central Asia,1
+1960,ESP,ESP,Spain,3.3273838,,,Europe & Central Asia,0
+1965,ESP,ESP,Spain,.80028772,,,Europe & Central Asia,0
+1970,ESP,ESP,Spain,.32065398,4.3468404,,Europe & Central Asia,0
+1975,ESP,ESP,Spain,-2.667912,3.6833372,,Europe & Central Asia,0
+1980,ESP,ESP,Spain,-.12132134,-3.6374512,.0034672157,Europe & Central Asia,0
+1985,ESP,ESP,Spain,1.1720322,-13.983363,.00020571194,Europe & Central Asia,0
+1990,ESP,ESP,Spain,.96531755,-16.78266,.0015220431,Europe & Central Asia,0
+1995,ESP,ESP,Spain,.55727679,-22.204025,.00081773865,Europe & Central Asia,0
+2000,ESP,ESP,Spain,-.28474328,3.1850708,-.0006263344,Europe & Central Asia,0
+2005,ESP,ESP,Spain,-1.262946,42.693481,-.0016125459,Europe & Central Asia,0
+2010,ESP,ESP,Spain,-2.272227,33.863468,-.0021956284,Europe & Central Asia,1
+2015,ESP,ESP,Spain,.49683127,-10.915035,-.00095714873,Europe & Central Asia,1
+2020,ESP,ESP,Spain,-1.0306338,-20.249664,-.00062105194,Europe & Central Asia,1
+1960,EST,EST,Estonia,,,,Europe & Central Asia,0
+1965,EST,EST,Estonia,,,,Europe & Central Asia,0
+1970,EST,EST,Estonia,,,,Europe & Central Asia,0
+1975,EST,EST,Estonia,,,,Europe & Central Asia,0
+1980,EST,EST,Estonia,,,,Europe & Central Asia,0
+1985,EST,EST,Estonia,,,,Europe & Central Asia,0
+1990,EST,EST,Estonia,-8.616065,,,Europe & Central Asia,0
+1995,EST,EST,Estonia,2.2814889,-15.396722,,Europe & Central Asia,0
+2000,EST,EST,Estonia,4.1137695,-4.6128507,,Europe & Central Asia,0
+2005,EST,EST,Estonia,.15866008,14.262053,,Europe & Central Asia,0
+2010,EST,EST,Estonia,2.1466238,9.6812449,,Europe & Central Asia,1
+2015,EST,EST,Estonia,1.4385321,1.6966136,,Europe & Central Asia,1
+2020,EST,EST,Estonia,-1.5230098,-5.6303396,,Europe & Central Asia,1
+1960,FIN,FIN,Finland,-.28437454,12.914387,,Europe & Central Asia,0
+1965,FIN,FIN,Finland,-.57575935,7.595932,,Europe & Central Asia,0
+1970,FIN,FIN,Finland,.70372891,2.2119284,,Europe & Central Asia,0
+1975,FIN,FIN,Finland,-1.1103448,-.78971517,.002671449,Europe & Central Asia,0
+1980,FIN,FIN,Finland,2.0777321,-.91236228,-.00040113064,Europe & Central Asia,0
+1985,FIN,FIN,Finland,1.3481039,11.33377,.0015137552,Europe & Central Asia,0
+1990,FIN,FIN,Finland,-1.6504604,15.319038,.0030438274,Europe & Central Asia,0
+1995,FIN,FIN,Finland,1.9949139,-15.392484,-.00056269811,Europe & Central Asia,0
+2000,FIN,FIN,Finland,.54612511,-18.036793,-.0023943379,Europe & Central Asia,0
+2005,FIN,FIN,Finland,-.50809044,-16.683592,-.0025049383,Europe & Central Asia,0
+2010,FIN,FIN,Finland,-1.1437938,-2.796823,-.001537313,Europe & Central Asia,1
+2015,FIN,FIN,Finland,-.21780993,3.5829518,-.00017835951,Europe & Central Asia,1
+2020,FIN,FIN,Finland,-1.1799707,1.6537615,.00034974617,Europe & Central Asia,1
+1960,FRA,FRA,France,.96415484,-11.654289,,Europe & Central Asia,0
+1965,FRA,FRA,France,.21634747,-12.08155,,Europe & Central Asia,0
+1970,FRA,FRA,France,.44930097,-11.157472,-.0006643135,Europe & Central Asia,0
+1975,FRA,FRA,France,-.53969532,1.2730086,-.00062612101,Europe & Central Asia,0
+1980,FRA,FRA,France,.80555528,13.753595,-.0022515454,Europe & Central Asia,0
+1985,FRA,FRA,France,.41753277,14.952831,-.0024208513,Europe & Central Asia,0
+1990,FRA,FRA,France,1.091254,15.790548,-.0016266531,Europe & Central Asia,0
+1995,FRA,FRA,France,.084293194,2.3431187,-.000789051,Europe & Central Asia,0
+2000,FRA,FRA,France,-.87536705,-7.5284834,-.00010019698,Europe & Central Asia,0
+2005,FRA,FRA,France,-.81958419,-13.595572,.00038803529,Europe & Central Asia,0
+2010,FRA,FRA,France,-.50968426,-5.6332655,.001365738,Europe & Central Asia,1
+2015,FRA,FRA,France,-.51152641,.94810867,.0029090364,Europe & Central Asia,1
+2020,FRA,FRA,France,-.7725814,12.58942,.0038159227,Europe & Central Asia,1
+1960,FRO,FRO,Faroe Islands,,,,Europe & Central Asia,0
+1965,FRO,FRO,Faroe Islands,,,,Europe & Central Asia,0
+1970,FRO,FRO,Faroe Islands,,,,Europe & Central Asia,0
+1975,FRO,FRO,Faroe Islands,,,,Europe & Central Asia,0
+1980,FRO,FRO,Faroe Islands,,,,Europe & Central Asia,0
+1985,FRO,FRO,Faroe Islands,,,,Europe & Central Asia,0
+1990,FRO,FRO,Faroe Islands,,,,Europe & Central Asia,0
+1995,FRO,FRO,Faroe Islands,,,,Europe & Central Asia,0
+2000,FRO,FRO,Faroe Islands,,,,Europe & Central Asia,0
+2005,FRO,FRO,Faroe Islands,,,,Europe & Central Asia,0
+2010,FRO,FRO,Faroe Islands,1.924964,,,Europe & Central Asia,1
+2015,FRO,FRO,Faroe Islands,-1.2773844,,,Europe & Central Asia,1
+2020,FRO,FRO,,-.64757949,,,Europe & Central Asia,1
+1960,GBR,GBR,United Kingdom,-.47770655,-32.183201,,Europe & Central Asia,0
+1965,GBR,GBR,United Kingdom,-1.4630188,-37.522499,,Europe & Central Asia,0
+1970,GBR,GBR,United Kingdom,-1.3101596,-36.588291,,Europe & Central Asia,0
+1975,GBR,GBR,United Kingdom,-.570234,-40.632915,,Europe & Central Asia,0
+1980,GBR,GBR,United Kingdom,.68883145,-38.576542,,Europe & Central Asia,0
+1985,GBR,GBR,United Kingdom,1.8748168,-.33200222,,Europe & Central Asia,0
+1990,GBR,GBR,United Kingdom,1.1707224,12.599124,-.00016118024,Europe & Central Asia,0
+1995,GBR,GBR,United Kingdom,1.047774,8.1670895,.0013897505,Europe & Central Asia,0
+2000,GBR,GBR,United Kingdom,.3508639,26.806404,.0020676609,Europe & Central Asia,0
+2005,GBR,GBR,United Kingdom,-.90528756,53.508308,.00031069666,Europe & Central Asia,0
+2010,GBR,GBR,United Kingdom,.24232703,44.253815,-.0011685248,Europe & Central Asia,1
+2015,GBR,GBR,United Kingdom,-.069293663,19.084492,-.00199077,Europe & Central Asia,1
+2020,GBR,GBR,United Kingdom,-.57963556,21.416222,-.00044763301,Europe & Central Asia,1
+1960,GIB,GIB,Gibraltar,,,,Europe & Central Asia,0
+1965,GIB,GIB,Gibraltar,,,,Europe & Central Asia,0
+1970,GIB,GIB,Gibraltar,,,,Europe & Central Asia,0
+1975,GIB,GIB,Gibraltar,,,,Europe & Central Asia,0
+1980,GIB,GIB,Gibraltar,,,,Europe & Central Asia,0
+1985,GIB,GIB,Gibraltar,,,,Europe & Central Asia,0
+1990,GIB,GIB,Gibraltar,,,,Europe & Central Asia,0
+1995,GIB,GIB,Gibraltar,,,,Europe & Central Asia,0
+2000,GIB,GIB,Gibraltar,,,,Europe & Central Asia,0
+2005,GIB,GIB,Gibraltar,,,,Europe & Central Asia,0
+2010,GIB,GIB,Gibraltar,,,,Europe & Central Asia,1
+2015,GIB,GIB,Gibraltar,,,,Europe & Central Asia,1
+2020,GIB,GIB,,,,,Europe & Central Asia,1
+1960,GRC,GRC,Greece,3.1915317,3.6294436,,Europe & Central Asia,0
+1965,GRC,GRC,Greece,3.0294757,-3.076282,,Europe & Central Asia,0
+1970,GRC,GRC,Greece,.98054826,-8.1197882,,Europe & Central Asia,0
+1975,GRC,GRC,Greece,1.0323507,-.32421356,,Europe & Central Asia,0
+1980,GRC,GRC,Greece,-1.2629048,3.4770427,,Europe & Central Asia,0
+1985,GRC,GRC,Greece,-1.0194948,-5.2972441,,Europe & Central Asia,0
+1990,GRC,GRC,Greece,-.44055402,-19.459324,,Europe & Central Asia,0
+1995,GRC,GRC,Greece,-.51858932,-23.105249,,Europe & Central Asia,0
+2000,GRC,GRC,Greece,1.6991565,-3.6938322,,Europe & Central Asia,0
+2005,GRC,GRC,Greece,-.14361112,4.1834769,,Europe & Central Asia,0
+2010,GRC,GRC,Greece,-6.2180228,38.476875,,Europe & Central Asia,1
+2015,GRC,GRC,Greece,-1.0695012,25.066799,,Europe & Central Asia,1
+2020,GRC,GRC,Greece,.73961484,-11.757702,,Europe & Central Asia,1
+1960,GRL,GRL,Greenland,,,,Europe & Central Asia,0
+1965,GRL,GRL,Greenland,,,,Europe & Central Asia,0
+1970,GRL,GRL,Greenland,1.0373296,,,Europe & Central Asia,0
+1975,GRL,GRL,Greenland,1.4851687,,,Europe & Central Asia,0
+1980,GRL,GRL,Greenland,-1.230953,,,Europe & Central Asia,0
+1985,GRL,GRL,Greenland,1.8820776,,,Europe & Central Asia,0
+1990,GRL,GRL,Greenland,-4.0217028,,,Europe & Central Asia,0
+1995,GRL,GRL,Greenland,-.14654577,,,Europe & Central Asia,0
+2000,GRL,GRL,Greenland,.28640625,,,Europe & Central Asia,0
+2005,GRL,GRL,Greenland,2.5107694,,,Europe & Central Asia,0
+2010,GRL,GRL,Greenland,-.27980551,,,Europe & Central Asia,1
+2015,GRL,GRL,Greenland,-.77605504,,,Europe & Central Asia,1
+2020,GRL,GRL,,-.7466895,,,Europe & Central Asia,1
+1960,GUM,GUM,Guam,,,,East Asia & Pacific,0
+1965,GUM,GUM,Guam,,,,East Asia & Pacific,0
+1970,GUM,GUM,Guam,,,,East Asia & Pacific,0
+1975,GUM,GUM,Guam,,,,East Asia & Pacific,0
+1980,GUM,GUM,Guam,,,,East Asia & Pacific,0
+1985,GUM,GUM,Guam,,,,East Asia & Pacific,0
+1990,GUM,GUM,Guam,,,,East Asia & Pacific,0
+1995,GUM,GUM,Guam,,,,East Asia & Pacific,0
+2000,GUM,GUM,Guam,,,,East Asia & Pacific,0
+2005,GUM,GUM,Guam,.19691725,,,East Asia & Pacific,0
+2010,GUM,GUM,Guam,1.3224325,,,East Asia & Pacific,1
+2015,GUM,GUM,Guam,.51927722,,,East Asia & Pacific,1
+2020,GUM,GUM,Guam,-2.0386269,,,East Asia & Pacific,1
+1960,HKG,HKG,"Hong Kong SAR, China",,,,East Asia & Pacific,0
+1965,HKG,HKG,"Hong Kong SAR, China",-2.7914844,,,East Asia & Pacific,0
+1970,HKG,HKG,"Hong Kong SAR, China",-1.7715558,,,East Asia & Pacific,0
+1975,HKG,HKG,"Hong Kong SAR, China",.93229187,,,East Asia & Pacific,0
+1980,HKG,HKG,"Hong Kong SAR, China",2.9559247,,,East Asia & Pacific,0
+1985,HKG,HKG,"Hong Kong SAR, China",1.8729923,,,East Asia & Pacific,0
+1990,HKG,HKG,"Hong Kong SAR, China",2.8155315,-21.311604,,East Asia & Pacific,0
+1995,HKG,HKG,"Hong Kong SAR, China",-3.5430608,-7.5163436,,East Asia & Pacific,0
+2000,HKG,HKG,"Hong Kong, China",.033364989,-26.783632,,East Asia & Pacific,0
+2005,HKG,HKG,"Hong Kong, China",1.3439996,-49.571449,,East Asia & Pacific,0
+2010,HKG,HKG,"Hong Kong, China",1.0874041,15.149198,,East Asia & Pacific,1
+2015,HKG,HKG,"Hong Kong, China",-1.0767241,30.34446,,East Asia & Pacific,1
+2020,HKG,HKG,"Hong Kong, China",-1.8586842,59.689373,,East Asia & Pacific,1
+1960,HRV,HRV,Croatia,,,,Europe & Central Asia,0
+1965,HRV,HRV,Croatia,,,,Europe & Central Asia,0
+1970,HRV,HRV,Croatia,,,,Europe & Central Asia,0
+1975,HRV,HRV,Croatia,,,,Europe & Central Asia,0
+1980,HRV,HRV,Croatia,,,,Europe & Central Asia,0
+1985,HRV,HRV,Croatia,,,,Europe & Central Asia,0
+1990,HRV,HRV,Croatia,-8.2778053,,,Europe & Central Asia,0
+1995,HRV,HRV,Croatia,1.6617165,-5.9512191,,Europe & Central Asia,0
+2000,HRV,HRV,Croatia,2.2298512,-1.0323418,,Europe & Central Asia,0
+2005,HRV,HRV,Croatia,.55857217,2.2939057,,Europe & Central Asia,0
+2010,HRV,HRV,Croatia,-1.8678844,10.957716,,Europe & Central Asia,1
+2015,HRV,HRV,Croatia,2.4070072,-.067157723,,Europe & Central Asia,1
+2020,HRV,HRV,Croatia,3.2885427,-6.2009034,,Europe & Central Asia,1
+1960,HUN,HUN,Hungary,-1.5518496,,,Europe & Central Asia,0
+1965,HUN,HUN,Hungary,7.5516629,,,Europe & Central Asia,0
+1970,HUN,HUN,Hungary,-.082165658,,,Europe & Central Asia,0
+1975,HUN,HUN,Hungary,.29825616,,,Europe & Central Asia,0
+1980,HUN,HUN,Hungary,.45520768,,,Europe & Central Asia,0
+1985,HUN,HUN,Hungary,-1.6629189,,,Europe & Central Asia,0
+1990,HUN,HUN,Hungary,-4.205771,10.22229,,Europe & Central Asia,0
+1995,HUN,HUN,Hungary,-1.2898811,-1.4737574,-.00019502905,Europe & Central Asia,0
+2000,HUN,HUN,Hungary,.78831053,7.1743722,-.0012305279,Europe & Central Asia,0
+2005,HUN,HUN,Hungary,-1.531161,9.5955782,.00067041285,Europe & Central Asia,0
+2010,HUN,HUN,Hungary,-.63367033,3.1806366,.0021674868,Europe & Central Asia,1
+2015,HUN,HUN,Hungary,1.5790894,-12.77531,-.00037182088,Europe & Central Asia,1
+2020,HUN,HUN,Hungary,.28489089,-15.923811,-.001040522,Europe & Central Asia,1
+1960,IMN,IMN,Isle of Man,,,,Europe & Central Asia,0
+1965,IMN,IMN,Isle of Man,,,,Europe & Central Asia,0
+1970,IMN,IMN,Isle of Man,,,,Europe & Central Asia,0
+1975,IMN,IMN,Isle of Man,,,,Europe & Central Asia,0
+1980,IMN,IMN,Isle of Man,,,,Europe & Central Asia,0
+1985,IMN,IMN,Isle of Man,2.2095799,,,Europe & Central Asia,0
+1990,IMN,IMN,Isle of Man,-1.7475312,,,Europe & Central Asia,0
+1995,IMN,IMN,Isle of Man,3.0105402,,,Europe & Central Asia,0
+2000,IMN,IMN,Isle of Man,-.40539578,,,Europe & Central Asia,0
+2005,IMN,IMN,Isle of Man,1.2834067,,,Europe & Central Asia,0
+2010,IMN,IMN,Isle of Man,1.2132524,,,Europe & Central Asia,1
+2015,IMN,IMN,Isle of Man,-.64748031,,,Europe & Central Asia,1
+2020,IMN,IMN,,-4.9163723,,,Europe & Central Asia,1
+1960,IRL,IRL,Ireland,-2.6300154,8.3590813,,Europe & Central Asia,0
+1965,IRL,IRL,Ireland,-2.7506487,2.4212303,,Europe & Central Asia,0
+1970,IRL,IRL,Ireland,-3.9459996,1.5254558,,Europe & Central Asia,0
+1975,IRL,IRL,Ireland,-2.0828497,1.1411036,,Europe & Central Asia,0
+1980,IRL,IRL,Ireland,-1.3672262,-.86913806,,Europe & Central Asia,0
+1985,IRL,IRL,Ireland,-.93945014,-9.0679731,,Europe & Central Asia,0
+1990,IRL,IRL,Ireland,1.6698358,-14.705944,,Europe & Central Asia,0
+1995,IRL,IRL,Ireland,4.3822913,13.711808,,Europe & Central Asia,0
+2000,IRL,IRL,Ireland,.77105683,15.788412,,Europe & Central Asia,0
+2005,IRL,IRL,Ireland,-3.0003896,65.885887,,Europe & Central Asia,0
+2010,IRL,IRL,Ireland,-.11703025,19.065783,,Europe & Central Asia,1
+2015,IRL,IRL,Ireland,6.2443151,-41.299332,,Europe & Central Asia,1
+2020,IRL,IRL,Ireland,3.7661104,-61.956371,,Europe & Central Asia,1
+1960,ISL,ISL,Iceland,.73042947,4.5064187,,Europe & Central Asia,0
+1965,ISL,ISL,Iceland,-3.7088962,-7.5193887,,Europe & Central Asia,0
+1970,ISL,ISL,Iceland,1.6792686,-19.164753,,Europe & Central Asia,0
+1975,ISL,ISL,Iceland,.72129726,-28.175343,,Europe & Central Asia,0
+1980,ISL,ISL,Iceland,1.0173807,-27.212234,,Europe & Central Asia,0
+1985,ISL,ISL,Iceland,.091062784,-29.106665,,Europe & Central Asia,0
+1990,ISL,ISL,Iceland,-.8450585,-32.777428,-.0031365107,Europe & Central Asia,0
+1995,ISL,ISL,Iceland,.77350366,-22.49049,-.0016494306,Europe & Central Asia,0
+2000,ISL,ISL,Iceland,.12554751,28.584959,.0041068397,Europe & Central Asia,0
+2005,ISL,ISL,Iceland,.007421161,129.10562,.0058542844,Europe & Central Asia,0
+2010,ISL,ISL,Iceland,-.78968209,18.127846,.001750406,Europe & Central Asia,1
+2015,ISL,ISL,Iceland,.54215163,-10.434381,-.0018718053,Europe & Central Asia,1
+2020,ISL,ISL,Iceland,-.34442616,-3.4441631,-.0050537833,Europe & Central Asia,1
+1960,ISR,ISR,Israel,.99553615,3.4278035,,Middle East & North Africa,0
+1965,ISR,ISR,Israel,.35656455,5.4629884,,Middle East & North Africa,0
+1970,ISR,ISR,Israel,.33080813,,,Middle East & North Africa,0
+1975,ISR,ISR,Israel,-2.4491792,,,Middle East & North Africa,0
+1980,ISR,ISR,Israel,-.27231711,,,Middle East & North Africa,0
+1985,ISR,ISR,Israel,-.7999981,,,Middle East & North Africa,0
+1990,ISR,ISR,Israel,2.3653541,,,Middle East & North Africa,0
+1995,ISR,ISR,Israel,-.53761894,8.2217512,-.002474386,Middle East & North Africa,0
+2000,ISR,ISR,Israel,-2.0316713,15.003937,-.0031304255,Middle East & North Africa,0
+2005,ISR,ISR,Israel,.36151797,5.2771111,-.00083657011,Middle East & North Africa,0
+2010,ISR,ISR,Israel,.79156059,-7.260417,.0015412997,Middle East & North Africa,1
+2015,ISR,ISR,Israel,-.18103971,-13.670273,.0021074417,Middle East & North Africa,1
+2020,ISR,ISR,Israel,1.070483,-16.4629,.0027926401,Middle East & North Africa,1
+1960,ITA,ITA,Italy,.8929351,27.51025,,Europe & Central Asia,0
+1965,ITA,ITA,Italy,.81419623,27.866924,,Europe & Central Asia,0
+1970,ITA,ITA,Italy,-.014992583,28.506279,-.006581435,Europe & Central Asia,0
+1975,ITA,ITA,Italy,-.091677822,17.241125,-.0052503725,Europe & Central Asia,0
+1980,ITA,ITA,Italy,1.4953327,-1.1483727,-.0032010332,Europe & Central Asia,0
+1985,ITA,ITA,Italy,1.243172,-9.2367573,-.0021941764,Europe & Central Asia,0
+1990,ITA,ITA,Italy,1.3065675,-11.964967,.00087153685,Europe & Central Asia,0
+1995,ITA,ITA,Italy,.0050986819,-19.540314,.0022427011,Europe & Central Asia,0
+2000,ITA,ITA,Italy,-.87944305,-14.387223,.0014418813,Europe & Central Asia,0
+2005,ITA,ITA,Italy,-1.9445902,-15.121443,.0023258082,Europe & Central Asia,0
+2010,ITA,ITA,Italy,-2.4366651,-1.1125323,.0035122535,Europe & Central Asia,1
+2015,ITA,ITA,Italy,-.62539011,-11.024102,.0033945697,Europe & Central Asia,1
+2020,ITA,ITA,Italy,.23545673,-17.588867,.0034382667,Europe & Central Asia,1
+1960,JPN,JPN,Japan,3.334084,-5.421701,,East Asia & Pacific,0
+1965,JPN,JPN,Japan,3.7959681,-3.2555175,,East Asia & Pacific,0
+1970,JPN,JPN,Japan,-2.6101053,20.129126,.0045280117,East Asia & Pacific,0
+1975,JPN,JPN,Japan,-.57368022,17.998684,.0019861662,East Asia & Pacific,0
+1980,JPN,JPN,Japan,1.688749,20.431517,-.00011703934,East Asia & Pacific,0
+1985,JPN,JPN,Japan,1.5926287,41.523399,.00013417106,East Asia & Pacific,0
+1990,JPN,JPN,Japan,1.2162414,51.219994,.00084275665,East Asia & Pacific,0
+1995,JPN,JPN,Japan,-1.7536161,53.232216,.00012532141,East Asia & Pacific,0
+2000,JPN,JPN,Japan,-1.7487211,-17.283295,-.0016933704,East Asia & Pacific,0
+2005,JPN,JPN,Japan,-2.2267594,-54.515476,-.0034318308,East Asia & Pacific,0
+2010,JPN,JPN,Japan,-.28335565,-48.723583,-.0024874348,East Asia & Pacific,1
+2015,JPN,JPN,Japan,-1.3839151,-41.761871,-.00016597245,East Asia & Pacific,1
+2020,JPN,JPN,Japan,-1.0475181,-33.573494,.00027922078,East Asia & Pacific,1
+1960,KNA,KNA,St. Kitts and Nevis,,,,Latin America & Caribbean,0
+1965,KNA,KNA,St. Kitts and Nevis,,,,Latin America & Caribbean,0
+1970,KNA,KNA,St. Kitts and Nevis,,,,Latin America & Caribbean,0
+1975,KNA,KNA,St. Kitts and Nevis,,,,Latin America & Caribbean,0
+1980,KNA,KNA,St. Kitts and Nevis,.91358382,12.940239,,Latin America & Caribbean,0
+1985,KNA,KNA,St. Kitts and Nevis,3.7755268,5.346839,,Latin America & Caribbean,0
+1990,KNA,KNA,St. Kitts and Nevis,1.0953622,14.049607,,Latin America & Caribbean,0
+1995,KNA,KNA,St. Kitts and Nevis,-1.4089227,15.469971,,Latin America & Caribbean,0
+2000,KNA,KNA,St. Kitts and Nevis,-1.7016308,7.2106528,,Latin America & Caribbean,0
+2005,KNA,KNA,St. Kitts and Nevis,1.1886985,-12.592149,,Latin America & Caribbean,0
+2010,KNA,KNA,St. Kitts and Nevis,-.037714422,-9.9603796,,Latin America & Caribbean,1
+2015,KNA,KNA,St. Kitts and Nevis,-.92930239,-16.431503,,Latin America & Caribbean,1
+2020,KNA,KNA,,-2.895601,-16.033278,,Latin America & Caribbean,1
+1960,KOR,KOR,"Korea, Rep.",-6.1523356,-12.23195,,East Asia & Pacific,0
+1965,KOR,KOR,"Korea, Rep.",-2.1514692,-7.168673,,East Asia & Pacific,0
+1970,KOR,KOR,"Korea, Rep.",-1.8034573,.4148041,,East Asia & Pacific,0
+1975,KOR,KOR,"Korea, Rep.",.46638948,-7.1264944,,East Asia & Pacific,0
+1980,KOR,KOR,"Korea, Rep.",.73591989,-5.6602626,,East Asia & Pacific,0
+1985,KOR,KOR,"Korea, Rep.",2.8267899,-12.380996,,East Asia & Pacific,0
+1990,KOR,KOR,"Korea, Rep.",4.2534647,-21.48382,-.00024992676,East Asia & Pacific,0
+1995,KOR,KOR,"Korea, Rep.",.45210475,-20.553701,.0038666998,East Asia & Pacific,0
+2000,KOR,KOR,Korea,.81443149,-6.2744484,.00048458675,East Asia & Pacific,0
+2005,KOR,KOR,Korea,.42938536,-12.992898,.00022262703,East Asia & Pacific,0
+2010,KOR,KOR,Korea,.60714149,5.3012929,.0015830369,East Asia & Pacific,1
+2015,KOR,KOR,Korea,-.43050012,40.344799,-.0015299576,East Asia & Pacific,1
+2020,KOR,KOR,Korea,-.047865018,59.812347,-.0043770662,East Asia & Pacific,1
+1960,KWT,KWT,Kuwait,,,,Middle East & North Africa,0
+1965,KWT,KWT,Kuwait,,,,Middle East & North Africa,0
+1970,KWT,KWT,Kuwait,-5.8865919,-15.371723,,Middle East & North Africa,0
+1975,KWT,KWT,Kuwait,-2.3448827,2.024091,,Middle East & North Africa,0
+1980,KWT,KWT,Kuwait,-8.6714687,27.85416,,Middle East & North Africa,0
+1985,KWT,KWT,Kuwait,1.5130923,42.921982,,Middle East & North Africa,0
+1990,KWT,KWT,Kuwait,14.549081,-43.847782,,Middle East & North Africa,0
+1995,KWT,KWT,Kuwait,.33048451,-11.552134,,Middle East & North Africa,0
+2000,KWT,KWT,Kuwait,4.7772741,-5.1179547,,Middle East & North Africa,0
+2005,KWT,KWT,Kuwait,.71975285,-14.072317,,Middle East & North Africa,0
+2010,KWT,KWT,Kuwait,-1.0941626,-8.3833656,,Middle East & North Africa,1
+2015,KWT,KWT,Kuwait,-2.4553435,25.545044,,Middle East & North Africa,1
+2020,KWT,KWT,Kuwait,-1.4372355,,,Middle East & North Africa,1
+1960,LIE,LIE,Liechtenstein,,,,Europe & Central Asia,0
+1965,LIE,LIE,Liechtenstein,,,,Europe & Central Asia,0
+1970,LIE,LIE,Liechtenstein,,,,Europe & Central Asia,0
+1975,LIE,LIE,Liechtenstein,,,,Europe & Central Asia,0
+1980,LIE,LIE,Liechtenstein,,,,Europe & Central Asia,0
+1985,LIE,LIE,Liechtenstein,,,,Europe & Central Asia,0
+1990,LIE,LIE,Liechtenstein,,,,Europe & Central Asia,0
+1995,LIE,LIE,Liechtenstein,,,,Europe & Central Asia,0
+2000,LIE,LIE,Liechtenstein,,,,Europe & Central Asia,0
+2005,LIE,LIE,Liechtenstein,,,,Europe & Central Asia,0
+2010,LIE,LIE,Liechtenstein,,,,Europe & Central Asia,1
+2015,LIE,LIE,Liechtenstein,,,,Europe & Central Asia,1
+2020,LIE,LIE,,,,,Europe & Central Asia,1
+1960,LTU,LTU,Lithuania,,,,Europe & Central Asia,0
+1965,LTU,LTU,Lithuania,,,,Europe & Central Asia,0
+1970,LTU,LTU,Lithuania,,,,Europe & Central Asia,0
+1975,LTU,LTU,Lithuania,,,,Europe & Central Asia,0
+1980,LTU,LTU,Lithuania,,,,Europe & Central Asia,0
+1985,LTU,LTU,Lithuania,,,,Europe & Central Asia,0
+1990,LTU,LTU,Lithuania,-13.768288,,,Europe & Central Asia,0
+1995,LTU,LTU,Lithuania,.96742004,-3.9125385,,Europe & Central Asia,0
+2000,LTU,LTU,Lithuania,3.3883519,-3.3485019,,Europe & Central Asia,0
+2005,LTU,LTU,Lithuania,2.0585287,9.8395491,,Europe & Central Asia,0
+2010,LTU,LTU,Lithuania,3.3548269,4.1278114,,Europe & Central Asia,1
+2015,LTU,LTU,Lithuania,3.1109705,-.33283234,,Europe & Central Asia,1
+2020,LTU,LTU,Lithuania,.88818926,-6.3734875,,Europe & Central Asia,1
+1960,LUX,LUX,Luxembourg,-.88439411,.66919839,,Europe & Central Asia,0
+1965,LUX,LUX,Luxembourg,-2.0475352,-1.9882123,,Europe & Central Asia,0
+1970,LUX,LUX,Luxembourg,-.94175953,-6.3293681,,Europe & Central Asia,0
+1975,LUX,LUX,Luxembourg,-3.216532,8.3373079,,Europe & Central Asia,0
+1980,LUX,LUX,Luxembourg,.89198858,26.763521,,Europe & Central Asia,0
+1985,LUX,LUX,Luxembourg,3.5993741,18.210546,,Europe & Central Asia,0
+1990,LUX,LUX,Luxembourg,3.2880182,20.406626,,Europe & Central Asia,0
+1995,LUX,LUX,Luxembourg,1.1707007,.93176728,,Europe & Central Asia,0
+2000,LUX,LUX,Luxembourg,.67378503,-20.0646,,Europe & Central Asia,0
+2005,LUX,LUX,Luxembourg,.16500534,-20.200645,,Europe & Central Asia,0
+2010,LUX,LUX,Luxembourg,-.67444199,-18.829876,,Europe & Central Asia,1
+2015,LUX,LUX,Luxembourg,-1.0619882,-.67940384,,Europe & Central Asia,1
+2020,LUX,LUX,Luxembourg,-.96222067,-7.2268629,,Europe & Central Asia,1
+1960,LVA,LVA,Latvia,,,,Europe & Central Asia,0
+1965,LVA,LVA,Latvia,,,,Europe & Central Asia,0
+1970,LVA,LVA,Latvia,,,,Europe & Central Asia,0
+1975,LVA,LVA,Latvia,,,,Europe & Central Asia,0
+1980,LVA,LVA,Latvia,,,,Europe & Central Asia,0
+1985,LVA,LVA,Latvia,,,,Europe & Central Asia,0
+1990,LVA,LVA,Latvia,-11.591316,,,Europe & Central Asia,0
+1995,LVA,LVA,Latvia,.55313617,-14.234527,-.0019864414,Europe & Central Asia,0
+2000,LVA,LVA,Latvia,4.3459239,1.5798041,-.00089191284,Europe & Central Asia,0
+2005,LVA,LVA,Latvia,2.2244093,25.814615,-.00012190582,Europe & Central Asia,0
+2010,LVA,LVA,Latvia,1.5503635,17.176044,-.00056226063,Europe & Central Asia,1
+2015,LVA,LVA,Latvia,1.7869053,-8.0038347,.00094806385,Europe & Central Asia,1
+2020,LVA,LVA,Latvia,1.1305779,-22.332102,.0026144569,Europe & Central Asia,1
+1960,MAC,MAC,"Macao SAR, China",,,,East Asia & Pacific,0
+1965,MAC,MAC,"Macao SAR, China",,,,East Asia & Pacific,0
+1970,MAC,MAC,"Macao SAR, China",,,,East Asia & Pacific,0
+1975,MAC,MAC,"Macao SAR, China",,,,East Asia & Pacific,0
+1980,MAC,MAC,"Macao SAR, China",,,,East Asia & Pacific,0
+1985,MAC,MAC,"Macao SAR, China",-1.2705563,-6.9686341,,East Asia & Pacific,0
+1990,MAC,MAC,"Macao SAR, China",-.048524883,-5.8443952,,East Asia & Pacific,0
+1995,MAC,MAC,"Macao SAR, China",-7.1201377,-6.0080533,,East Asia & Pacific,0
+2000,MAC,MAC,"Macao, China",4.2442961,-31.316801,,East Asia & Pacific,0
+2005,MAC,MAC,"Macao, China",1.2671778,-54.292919,,East Asia & Pacific,0
+2010,MAC,MAC,"Macao, China",7.2588763,-45.442543,,East Asia & Pacific,1
+2015,MAC,MAC,"Macao, China",-6.1770344,5.3416023,,East Asia & Pacific,1
+2020,MAC,MAC,"Macao, China",1.8459034,144.53175,,East Asia & Pacific,1
+1960,MCO,MCO,Monaco,,,,Europe & Central Asia,0
+1965,MCO,MCO,Monaco,,,,Europe & Central Asia,0
+1970,MCO,MCO,Monaco,-.43375963,,,Europe & Central Asia,0
+1975,MCO,MCO,Monaco,-1.8698894,,,Europe & Central Asia,0
+1980,MCO,MCO,Monaco,-.44184834,,,Europe & Central Asia,0
+1985,MCO,MCO,Monaco,-.99021065,,,Europe & Central Asia,0
+1990,MCO,MCO,Monaco,-.31151941,,,Europe & Central Asia,0
+1995,MCO,MCO,Monaco,-1.1889703,,,Europe & Central Asia,0
+2000,MCO,MCO,Monaco,-.98620981,,,Europe & Central Asia,0
+2005,MCO,MCO,Monaco,.48007372,,,Europe & Central Asia,0
+2010,MCO,MCO,Monaco,1.1590849,,,Europe & Central Asia,1
+2015,MCO,MCO,Monaco,.4518725,,,Europe & Central Asia,1
+2020,MCO,MCO,,4.1313763,,,Europe & Central Asia,1
+1960,MLT,MLT,Malta,,,,Middle East & North Africa,0
+1965,MLT,MLT,Malta,,,,Middle East & North Africa,0
+1970,MLT,MLT,Malta,-3.3833256,5.9580183,,Middle East & North Africa,0
+1975,MLT,MLT,Malta,5.9536901,-19.244795,,Middle East & North Africa,0
+1980,MLT,MLT,Malta,-2.2175548,-18.916285,,Middle East & North Africa,0
+1985,MLT,MLT,Malta,-1.4637728,-3.317632,,Middle East & North Africa,0
+1990,MLT,MLT,Malta,.88959986,12.053081,,Middle East & North Africa,0
+1995,MLT,MLT,Malta,-.62168324,18.296032,,Middle East & North Africa,0
+2000,MLT,MLT,Malta,-.20372245,19.957497,,Middle East & North Africa,0
+2005,MLT,MLT,Malta,-1.3197086,10.975726,,Middle East & North Africa,0
+2010,MLT,MLT,Malta,.6629501,9.4625082,,Middle East & North Africa,1
+2015,MLT,MLT,Malta,1.1208349,-14.034302,,Middle East & North Africa,1
+2020,MLT,MLT,Malta,.5826925,-21.189848,,Middle East & North Africa,1
+1960,NCL,NCL,New Caledonia,,,,East Asia & Pacific,0
+1965,NCL,NCL,New Caledonia,,,,East Asia & Pacific,0
+1970,NCL,NCL,New Caledonia,,,,East Asia & Pacific,0
+1975,NCL,NCL,New Caledonia,,,,East Asia & Pacific,0
+1980,NCL,NCL,New Caledonia,,,,East Asia & Pacific,0
+1985,NCL,NCL,New Caledonia,,,,East Asia & Pacific,0
+1990,NCL,NCL,New Caledonia,,,,East Asia & Pacific,0
+1995,NCL,NCL,New Caledonia,,,,East Asia & Pacific,0
+2000,NCL,NCL,New Caledonia,,,,East Asia & Pacific,0
+2005,NCL,NCL,New Caledonia,,,,East Asia & Pacific,0
+2010,NCL,NCL,New Caledonia,,,,East Asia & Pacific,1
+2015,NCL,NCL,New Caledonia,0,,,East Asia & Pacific,1
+2020,NCL,NCL,New Caledonia,,,,East Asia & Pacific,1
+1960,NLD,NLD,Netherlands,-.4089509,-13.235394,,Europe & Central Asia,0
+1965,NLD,NLD,Netherlands,.63492501,-13.947764,,Europe & Central Asia,0
+1970,NLD,NLD,Netherlands,-.4919641,-16.808847,.0027177369,Europe & Central Asia,0
+1975,NLD,NLD,Netherlands,-1.3321745,-6.6936493,.0012188783,Europe & Central Asia,0
+1980,NLD,NLD,Netherlands,-.074614905,-2.7640574,-.00045777531,Europe & Central Asia,0
+1985,NLD,NLD,Netherlands,.10494592,-2.1442306,-.00064939493,Europe & Central Asia,0
+1990,NLD,NLD,Netherlands,1.6563919,.73902744,.000020566347,Europe & Central Asia,0
+1995,NLD,NLD,Netherlands,1.2997317,10.348818,.0010687035,Europe & Central Asia,0
+2000,NLD,NLD,Netherlands,-1.0908452,23.641895,.0029615832,Europe & Central Asia,0
+2005,NLD,NLD,Netherlands,.19579588,9.3929567,.00072400132,Europe & Central Asia,0
+2010,NLD,NLD,Netherlands,-.83644885,10.880645,-.001333087,Europe & Central Asia,1
+2015,NLD,NLD,Netherlands,.17548975,8.3319769,-.0029110336,Europe & Central Asia,1
+2020,NLD,NLD,Netherlands,.16771846,-7.7413764,-.0033601788,Europe & Central Asia,1
+1960,NOR,NOR,Norway,-.64208579,3.3500738,,Europe & Central Asia,0
+1965,NOR,NOR,Norway,-1.0105814,-2.8688707,,Europe & Central Asia,0
+1970,NOR,NOR,Norway,-1.2010114,-9.24368,,Europe & Central Asia,0
+1975,NOR,NOR,Norway,.73488688,-15.201859,,Europe & Central Asia,0
+1980,NOR,NOR,Norway,2.2911973,-20.599409,,Europe & Central Asia,0
+1985,NOR,NOR,Norway,-.25808933,-3.7348993,,Europe & Central Asia,0
+1990,NOR,NOR,Norway,2.5230272,-12.486593,,Europe & Central Asia,0
+1995,NOR,NOR,Norway,1.1014531,-11.33001,,Europe & Central Asia,0
+2000,NOR,NOR,Norway,-.52758747,-6.4856887,,Europe & Central Asia,0
+2005,NOR,NOR,Norway,-.69995666,.088213325,,Europe & Central Asia,0
+2010,NOR,NOR,Norway,-.97567523,14.559527,,Europe & Central Asia,1
+2015,NOR,NOR,Norway,-1.0150973,31.443356,,Europe & Central Asia,1
+2020,NOR,NOR,Norway,-.32047981,32.509842,,Europe & Central Asia,1
+1960,NRU,NRU,Nauru,,,,East Asia & Pacific,0
+1965,NRU,NRU,Nauru,,,,East Asia & Pacific,0
+1970,NRU,NRU,Nauru,6.0061078,,,East Asia & Pacific,0
+1975,NRU,NRU,Nauru,1.8137714,,,East Asia & Pacific,0
+1980,NRU,NRU,Nauru,1.6854346,,,East Asia & Pacific,0
+1985,NRU,NRU,Nauru,-.98293674,,,East Asia & Pacific,0
+1990,NRU,NRU,Nauru,-7.7289572,,,East Asia & Pacific,0
+1995,NRU,NRU,Nauru,-8.4786406,,,East Asia & Pacific,0
+2000,NRU,NRU,Nauru,-5.999795,,,East Asia & Pacific,0
+2005,NRU,NRU,Nauru,.036832377,,,East Asia & Pacific,0
+2010,NRU,NRU,Nauru,9.8407507,,,East Asia & Pacific,1
+2015,NRU,NRU,Nauru,.34994543,,,East Asia & Pacific,1
+2020,NRU,NRU,,3.4574871,,,East Asia & Pacific,1
+1960,NZL,NZL,New Zealand,.12316077,-25.333801,,East Asia & Pacific,0
+1965,NZL,NZL,New Zealand,-.54345876,-33.675121,,East Asia & Pacific,0
+1970,NZL,NZL,New Zealand,-.70451623,-37.619194,,East Asia & Pacific,0
+1975,NZL,NZL,New Zealand,-3.0717814,-40.216408,,East Asia & Pacific,0
+1980,NZL,NZL,New Zealand,2.4481111,-42.907288,,East Asia & Pacific,0
+1985,NZL,NZL,New Zealand,-.94801039,-25.523521,.0031699764,East Asia & Pacific,0
+1990,NZL,NZL,New Zealand,.81646377,5.0322814,.0053686914,East Asia & Pacific,0
+1995,NZL,NZL,New Zealand,.34313378,19.56007,.000080456943,East Asia & Pacific,0
+2000,NZL,NZL,New Zealand,.56507295,23.555107,-.0034557607,East Asia & Pacific,0
+2005,NZL,NZL,New Zealand,-.11408041,31.923695,-.0025333269,East Asia & Pacific,0
+2010,NZL,NZL,New Zealand,.65109456,39.853069,-.0034280806,East Asia & Pacific,1
+2015,NZL,NZL,New Zealand,.17870098,47.218128,-.00084314571,East Asia & Pacific,1
+2020,NZL,NZL,New Zealand,.2561093,38.132977,.0016411889,East Asia & Pacific,1
+1960,PAN,PAN,Panama,-.095409334,-6.7331476,,Latin America & Caribbean,0
+1965,PAN,PAN,Panama,-.057440627,-6.3133631,,Latin America & Caribbean,0
+1970,PAN,PAN,Panama,-2.110636,6.3377352,,Latin America & Caribbean,0
+1975,PAN,PAN,Panama,-2.8018143,12.283854,,Latin America & Caribbean,0
+1980,PAN,PAN,Panama,1.4082078,2.4939654,,Latin America & Caribbean,0
+1985,PAN,PAN,Panama,-6.3769565,-7.1758156,,Latin America & Caribbean,0
+1990,PAN,PAN,Panama,2.9073467,-9.0977545,,Latin America & Caribbean,0
+1995,PAN,PAN,Panama,-2.1595771,12.735444,,Latin America & Caribbean,0
+2000,PAN,PAN,Panama,-1.6507719,17.055786,,Latin America & Caribbean,0
+2005,PAN,PAN,Panama,4.2533798,-7.2061863,,Latin America & Caribbean,0
+2010,PAN,PAN,Panama,3.9858959,-11.471002,,Latin America & Caribbean,1
+2015,PAN,PAN,Panama,1.1173285,-3.2417979,,Latin America & Caribbean,1
+2020,PAN,PAN,Panama,1.5804466,.33228171,,Latin America & Caribbean,1
+1960,POL,POL,Poland,,,,Europe & Central Asia,0
+1965,POL,POL,Poland,,,,Europe & Central Asia,0
+1970,POL,POL,Poland,,,,Europe & Central Asia,0
+1975,POL,POL,Poland,,,,Europe & Central Asia,0
+1980,POL,POL,Poland,,,,Europe & Central Asia,0
+1985,POL,POL,Poland,,,,Europe & Central Asia,0
+1990,POL,POL,Poland,-2.3777859,2.9727237,,Europe & Central Asia,0
+1995,POL,POL,Poland,.61102718,-.17627154,,Europe & Central Asia,0
+2000,POL,POL,Poland,-1.5495698,-.1485038,,Europe & Central Asia,0
+2005,POL,POL,Poland,1.0342695,-6.317852,,Europe & Central Asia,0
+2010,POL,POL,Poland,-.27054277,3.6801646,,Europe & Central Asia,1
+2015,POL,POL,Poland,1.3587505,6.8738561,,Europe & Central Asia,1
+2020,POL,POL,Poland,1.1938515,-6.8841171,,Europe & Central Asia,1
+1960,PRI,PRI,Puerto Rico,.61460042,,,Latin America & Caribbean,0
+1965,PRI,PRI,Puerto Rico,1.4259516,,,Latin America & Caribbean,0
+1970,PRI,PRI,Puerto Rico,-.4568722,,,Latin America & Caribbean,0
+1975,PRI,PRI,Puerto Rico,.022725673,,,Latin America & Caribbean,0
+1980,PRI,PRI,Puerto Rico,-.41804436,,,Latin America & Caribbean,0
+1985,PRI,PRI,Puerto Rico,1.0473591,,,Latin America & Caribbean,0
+1990,PRI,PRI,Puerto Rico,1.1589773,,,Latin America & Caribbean,0
+1995,PRI,PRI,Puerto Rico,1.2037016,,,Latin America & Caribbean,0
+2000,PRI,PRI,Puerto Rico,1.18115,,,Latin America & Caribbean,0
+2005,PRI,PRI,Puerto Rico,-2.321517,,,Latin America & Caribbean,0
+2010,PRI,PRI,Puerto Rico,-.74822509,,,Latin America & Caribbean,1
+2015,PRI,PRI,Puerto Rico,-1.3796878,,,Latin America & Caribbean,1
+2020,PRI,PRI,Puerto Rico,-1.3301194,,,Latin America & Caribbean,1
+1960,PRT,PRT,Portugal,.1852207,-2.9889398,,Europe & Central Asia,0
+1965,PRT,PRT,Portugal,1.3172753,-5.0937438,,Europe & Central Asia,0
+1970,PRT,PRT,Portugal,2.2052066,-1.477566,,Europe & Central Asia,0
+1975,PRT,PRT,Portugal,-2.5455179,4.8801007,,Europe & Central Asia,0
+1980,PRT,PRT,Portugal,-.56684411,2.6424019,,Europe & Central Asia,0
+1985,PRT,PRT,Portugal,2.3645263,-21.585928,-.0016912607,Europe & Central Asia,0
+1990,PRT,PRT,Portugal,1.1923342,-32.201836,-.00030741096,Europe & Central Asia,0
+1995,PRT,PRT,Portugal,1.1120518,-14.097457,.001165262,Europe & Central Asia,0
+2000,PRT,PRT,Portugal,-1.710596,24.656704,-.0017040723,Europe & Central Asia,0
+2005,PRT,PRT,Portugal,-1.2595072,29.84141,-.001849592,Europe & Central Asia,0
+2010,PRT,PRT,Portugal,-2.2131689,34.974979,.00071721722,Europe & Central Asia,1
+2015,PRT,PRT,Portugal,.49758369,-4.8633933,.0010499478,Europe & Central Asia,1
+2020,PRT,PRT,Portugal,-.57856458,-14.686732,.0026199091,Europe & Central Asia,1
+1960,PYF,PYF,French Polynesia,,,,East Asia & Pacific,0
+1965,PYF,PYF,French Polynesia,.23539102,,,East Asia & Pacific,0
+1970,PYF,PYF,French Polynesia,2.3821707,,,East Asia & Pacific,0
+1975,PYF,PYF,French Polynesia,.63234347,,,East Asia & Pacific,0
+1980,PYF,PYF,French Polynesia,1.2949439,,,East Asia & Pacific,0
+1985,PYF,PYF,French Polynesia,.22045344,,,East Asia & Pacific,0
+1990,PYF,PYF,French Polynesia,.22924082,,,East Asia & Pacific,0
+1995,PYF,PYF,French Polynesia,-1.4650842,,,East Asia & Pacific,0
+2000,PYF,PYF,French Polynesia,-1.1425433,,,East Asia & Pacific,0
+2005,PYF,PYF,French Polynesia,-1.2648562,,,East Asia & Pacific,0
+2010,PYF,PYF,French Polynesia,-1.9460666,,,East Asia & Pacific,1
+2015,PYF,PYF,French Polynesia,1.4142894,,,East Asia & Pacific,1
+2020,PYF,PYF,,-.59028238,,,East Asia & Pacific,1
+1960,QAT,QAT,Qatar,,,,Middle East & North Africa,0
+1965,QAT,QAT,Qatar,,,,Middle East & North Africa,0
+1970,QAT,QAT,Qatar,-1.8456943,2.6499789,,Middle East & North Africa,0
+1975,QAT,QAT,Qatar,-3.145056,-.6768083,,Middle East & North Africa,0
+1980,QAT,QAT,Qatar,-4.5434356,-6.383379,,Middle East & North Africa,0
+1985,QAT,QAT,Qatar,-1.7923243,4.8309221,,Middle East & North Africa,0
+1990,QAT,QAT,Qatar,.51370054,.80142558,,Middle East & North Africa,0
+1995,QAT,QAT,Qatar,4.7078118,-13.096087,,Middle East & North Africa,0
+2000,QAT,QAT,Qatar,2.4185884,-22.109484,,Middle East & North Africa,0
+2005,QAT,QAT,Qatar,.40862405,-.12691823,,Middle East & North Africa,0
+2010,QAT,QAT,Qatar,4.4549928,-26.60141,,Middle East & North Africa,1
+2015,QAT,QAT,Qatar,-2.4198339,13.6092,,Middle East & North Africa,1
+2020,QAT,QAT,Qatar,1.2426264,47.102562,,Middle East & North Africa,1
+1960,ROU,ROU,Romania,,,,Europe & Central Asia,0
+1965,ROU,ROU,Romania,,,,Europe & Central Asia,0
+1970,ROU,ROU,Romania,,,,Europe & Central Asia,0
+1975,ROU,ROU,Romania,,,,Europe & Central Asia,0
+1980,ROU,ROU,Romania,,,,Europe & Central Asia,0
+1985,ROU,ROU,Romania,,,,Europe & Central Asia,0
+1990,ROU,ROU,Romania,-5.1110845,67.372086,,Europe & Central Asia,0
+1995,ROU,ROU,Romania,-3.2527418,-6.7009468,,Europe & Central Asia,0
+2000,ROU,ROU,Romania,1.6539181,-10.83491,,Europe & Central Asia,0
+2005,ROU,ROU,Romania,3.2082007,-11.776875,,Europe & Central Asia,0
+2010,ROU,ROU,Romania,-.54886562,-4.8665686,,Europe & Central Asia,1
+2015,ROU,ROU,Romania,2.9434381,-12.70142,,Europe & Central Asia,1
+2020,ROU,ROU,Romania,1.1071353,-20.491369,,Europe & Central Asia,1
+1960,SAU,SAU,Saudi Arabia,4.2202997,,,Middle East & North Africa,0
+1965,SAU,SAU,Saudi Arabia,2.449383,11.265029,,Middle East & North Africa,0
+1970,SAU,SAU,Saudi Arabia,18.032194,2.6131272,,Middle East & North Africa,0
+1975,SAU,SAU,Saudi Arabia,.059268825,-.4371115,,Middle East & North Africa,0
+1980,SAU,SAU,Saudi Arabia,-7.1608934,-.09720733,,Middle East & North Africa,0
+1985,SAU,SAU,Saudi Arabia,-6.6300483,6.3234744,,Middle East & North Africa,0
+1990,SAU,SAU,Saudi Arabia,.66979116,-3.8350706,,Middle East & North Africa,0
+1995,SAU,SAU,Saudi Arabia,-3.9983706,-2.7974715,,Middle East & North Africa,0
+2000,SAU,SAU,Saudi Arabia,-3.082829,.45803532,,Middle East & North Africa,0
+2005,SAU,SAU,Saudi Arabia,-2.3972375,-7.7318907,,Middle East & North Africa,0
+2010,SAU,SAU,Saudi Arabia,.63513166,-9.6195641,,Middle East & North Africa,1
+2015,SAU,SAU,Saudi Arabia,-.89781946,3.8586497,,Middle East & North Africa,1
+2020,SAU,SAU,Saudi Arabia,-1.8988711,,,Middle East & North Africa,1
+1960,SGP,SGP,Singapore,-6.0135708,-4.7201395,,East Asia & Pacific,0
+1965,SGP,SGP,Singapore,.17328015,-7.2302651,,East Asia & Pacific,0
+1970,SGP,SGP,Singapore,.9726522,-3.4045041,,East Asia & Pacific,0
+1975,SGP,SGP,Singapore,-.96850473,-1.3741776,,East Asia & Pacific,0
+1980,SGP,SGP,Singapore,2.5908916,13.342691,,East Asia & Pacific,0
+1985,SGP,SGP,Singapore,.072045982,4.1778989,,East Asia & Pacific,0
+1990,SGP,SGP,Singapore,3.4408867,-3.2529891,,East Asia & Pacific,0
+1995,SGP,SGP,Singapore,-1.7465107,8.3739624,,East Asia & Pacific,0
+2000,SGP,SGP,Singapore,.10399643,3.1033673,,East Asia & Pacific,0
+2005,SGP,SGP,Singapore,-.88652289,-20.027309,,East Asia & Pacific,0
+2010,SGP,SGP,Singapore,2.4018836,-2.5866232,,East Asia & Pacific,1
+2015,SGP,SGP,Singapore,-.23573251,4.5668178,,East Asia & Pacific,1
+2020,SGP,SGP,Singapore,.09520492,9.031271,,East Asia & Pacific,1
+1960,SMR,SMR,San Marino,,,,Europe & Central Asia,0
+1965,SMR,SMR,San Marino,,,,Europe & Central Asia,0
+1970,SMR,SMR,San Marino,,,,Europe & Central Asia,0
+1975,SMR,SMR,San Marino,,,,Europe & Central Asia,0
+1980,SMR,SMR,San Marino,,,,Europe & Central Asia,0
+1985,SMR,SMR,San Marino,,,,Europe & Central Asia,0
+1990,SMR,SMR,San Marino,,,,Europe & Central Asia,0
+1995,SMR,SMR,San Marino,,,,Europe & Central Asia,0
+2000,SMR,SMR,San Marino,.41431296,-28.838364,,Europe & Central Asia,0
+2005,SMR,SMR,San Marino,-1.2137243,-2.5363579,,Europe & Central Asia,0
+2010,SMR,SMR,San Marino,-4.277564,13.120772,,Europe & Central Asia,1
+2015,SMR,SMR,San Marino,-.50137675,19.333288,,Europe & Central Asia,1
+2020,SMR,SMR,,5.578352,-1.0793407,,Europe & Central Asia,1
+1960,SVK,SVK,Slovak Republic,,,,Europe & Central Asia,0
+1965,SVK,SVK,Slovak Republic,,,,Europe & Central Asia,0
+1970,SVK,SVK,Slovak Republic,,,,Europe & Central Asia,0
+1975,SVK,SVK,Slovak Republic,,,,Europe & Central Asia,0
+1980,SVK,SVK,Slovak Republic,,,,Europe & Central Asia,0
+1985,SVK,SVK,Slovak Republic,,,,Europe & Central Asia,0
+1990,SVK,SVK,Slovak Republic,-4.8148775,17.63439,,Europe & Central Asia,0
+1995,SVK,SVK,Slovak Republic,.10959569,14.342385,,Europe & Central Asia,0
+2000,SVK,SVK,Slovak Republic,-.21967018,-2.0475011,,Europe & Central Asia,0
+2005,SVK,SVK,Slovak Republic,2.8738048,-20.261477,,Europe & Central Asia,0
+2010,SVK,SVK,Slovak Republic,.86612898,-12.602989,,Europe & Central Asia,1
+2015,SVK,SVK,Slovak Republic,1.0602976,.83283395,,Europe & Central Asia,1
+2020,SVK,SVK,Slovak Republic,.12472063,2.1023591,,Europe & Central Asia,1
+1960,SVN,SVN,Slovenia,,,,Europe & Central Asia,0
+1965,SVN,SVN,Slovenia,,,,Europe & Central Asia,0
+1970,SVN,SVN,Slovenia,,,,Europe & Central Asia,0
+1975,SVN,SVN,Slovenia,,,,Europe & Central Asia,0
+1980,SVN,SVN,Slovenia,,,,Europe & Central Asia,0
+1985,SVN,SVN,Slovenia,,,,Europe & Central Asia,0
+1990,SVN,SVN,Slovenia,-2.1531088,,,Europe & Central Asia,0
+1995,SVN,SVN,Slovenia,1.0926203,-4.9214935,-.0031948532,Europe & Central Asia,0
+2000,SVN,SVN,Slovenia,.22811307,1.4038154,.000054946759,Europe & Central Asia,0
+2005,SVN,SVN,Slovenia,.53014737,12.334761,.0012459925,Europe & Central Asia,0
+2010,SVN,SVN,Slovenia,-1.6875105,17.003811,.0023940692,Europe & Central Asia,1
+2015,SVN,SVN,Slovenia,1.3318602,-8.0434074,.00065584393,Europe & Central Asia,1
+2020,SVN,SVN,Slovenia,.65787852,-17.777485,-.0011559994,Europe & Central Asia,1
+1960,SWE,SWE,Sweden,1.4352512,4.3252354,,Europe & Central Asia,0
+1965,SWE,SWE,Sweden,-.89387411,.60238481,,Europe & Central Asia,0
+1970,SWE,SWE,Sweden,-.89770114,-9.2015314,,Europe & Central Asia,0
+1975,SWE,SWE,Sweden,-1.5325593,-14.049791,,Europe & Central Asia,0
+1980,SWE,SWE,Sweden,1.4844131,-18.765123,,Europe & Central Asia,0
+1985,SWE,SWE,Sweden,.22490701,-20.227156,,Europe & Central Asia,0
+1990,SWE,SWE,Sweden,-.57730889,-26.216341,,Europe & Central Asia,0
+1995,SWE,SWE,Sweden,1.0053273,-40.342571,,Europe & Central Asia,0
+2000,SWE,SWE,Sweden,.19131637,3.4711759,,Europe & Central Asia,0
+2005,SWE,SWE,Sweden,-.58112347,16.367723,,Europe & Central Asia,0
+2010,SWE,SWE,Sweden,.41042086,29.978968,,Europe & Central Asia,1
+2015,SWE,SWE,Sweden,-.076767877,37.352219,,Europe & Central Asia,1
+2020,SWE,SWE,Sweden,-.1923013,36.704811,,Europe & Central Asia,1
+1960,SXM,SXM,Sint Maarten (Dutch part),,,,Latin America & Caribbean,0
+1965,SXM,SXM,Sint Maarten (Dutch part),,,,Latin America & Caribbean,0
+1970,SXM,SXM,Sint Maarten (Dutch part),,,,Latin America & Caribbean,0
+1975,SXM,SXM,Sint Maarten (Dutch part),,,,Latin America & Caribbean,0
+1980,SXM,SXM,Sint Maarten (Dutch part),,,,Latin America & Caribbean,0
+1985,SXM,SXM,Sint Maarten (Dutch part),,,,Latin America & Caribbean,0
+1990,SXM,SXM,Sint Maarten (Dutch part),,,,Latin America & Caribbean,0
+1995,SXM,SXM,Sint Maarten (Dutch part),,,,Latin America & Caribbean,0
+2000,SXM,SXM,Sint Maarten (Dutch part),,,,Latin America & Caribbean,0
+2005,SXM,SXM,Sint Maarten (Dutch part),,,,Latin America & Caribbean,0
+2010,SXM,SXM,Sint Maarten (Dutch part),1.6242765,,,Latin America & Caribbean,1
+2015,SXM,SXM,Sint Maarten (Dutch part),-1.8653685,,,Latin America & Caribbean,1
+2020,SXM,SXM,,.24109197,,,Latin America & Caribbean,1
+1960,SYC,SYC,Seychelles,-2.6114142,,,Sub-Saharan Africa,0
+1965,SYC,SYC,Seychelles,-3.7833283,,,Sub-Saharan Africa,0
+1970,SYC,SYC,Seychelles,.55044442,31.791203,,Sub-Saharan Africa,0
+1975,SYC,SYC,Seychelles,4.1935811,29.300665,,Sub-Saharan Africa,0
+1980,SYC,SYC,Seychelles,-3.1760154,12.418079,,Sub-Saharan Africa,0
+1985,SYC,SYC,Seychelles,1.9397652,-.17184623,,Sub-Saharan Africa,0
+1990,SYC,SYC,Seychelles,2.4262807,-8.3802032,,Sub-Saharan Africa,0
+1995,SYC,SYC,Seychelles,1.0093913,-7.3136854,,Sub-Saharan Africa,0
+2000,SYC,SYC,Seychelles,-4.2891183,-7.2658129,,Sub-Saharan Africa,0
+2005,SYC,SYC,Seychelles,1.5702327,-19.88929,,Sub-Saharan Africa,0
+2010,SYC,SYC,Seychelles,1.9299074,-21.393503,,Sub-Saharan Africa,1
+2015,SYC,SYC,Seychelles,4.6368079,-12.345099,,Sub-Saharan Africa,1
+2020,SYC,SYC,,-4.3965344,3.2494924,,Sub-Saharan Africa,1
+1960,TCA,TCA,Turks and Caicos Islands,,,,Latin America & Caribbean,0
+1965,TCA,TCA,Turks and Caicos Islands,,,,Latin America & Caribbean,0
+1970,TCA,TCA,Turks and Caicos Islands,,,,Latin America & Caribbean,0
+1975,TCA,TCA,Turks and Caicos Islands,,,,Latin America & Caribbean,0
+1980,TCA,TCA,Turks and Caicos Islands,,,,Latin America & Caribbean,0
+1985,TCA,TCA,Turks and Caicos Islands,,,,Latin America & Caribbean,0
+1990,TCA,TCA,Turks and Caicos Islands,,,,Latin America & Caribbean,0
+1995,TCA,TCA,Turks and Caicos Islands,,,,Latin America & Caribbean,0
+2000,TCA,TCA,Turks and Caicos Islands,,,,Latin America & Caribbean,0
+2005,TCA,TCA,Turks and Caicos Islands,,,,Latin America & Caribbean,0
+2010,TCA,TCA,Turks and Caicos Islands,,,,Latin America & Caribbean,1
+2015,TCA,TCA,Turks and Caicos Islands,2.7268698,,,Latin America & Caribbean,1
+2020,TCA,TCA,,-2.7268698,,,Latin America & Caribbean,1
+1960,TTO,TTO,Trinidad and Tobago,1.5842296,18.493425,,Latin America & Caribbean,0
+1965,TTO,TTO,Trinidad and Tobago,-2.6240497,17.787151,,Latin America & Caribbean,0
+1970,TTO,TTO,Trinidad and Tobago,-2.4448071,19.537199,,Latin America & Caribbean,0
+1975,TTO,TTO,Trinidad and Tobago,1.3878319,17.775112,,Latin America & Caribbean,0
+1980,TTO,TTO,Trinidad and Tobago,-.91630107,12.387297,,Latin America & Caribbean,0
+1985,TTO,TTO,Trinidad and Tobago,-7.2145557,14.776309,,Latin America & Caribbean,0
+1990,TTO,TTO,Trinidad and Tobago,1.3998386,5.1660476,,Latin America & Caribbean,0
+1995,TTO,TTO,Trinidad and Tobago,3.2309215,1.0900183,,Latin America & Caribbean,0
+2000,TTO,TTO,Trinidad and Tobago,4.8888984,-8.1238241,,Latin America & Caribbean,0
+2005,TTO,TTO,Trinidad and Tobago,4.4893384,-31.568829,,Latin America & Caribbean,0
+2010,TTO,TTO,Trinidad and Tobago,2.5019751,-30.319386,,Latin America & Caribbean,1
+2015,TTO,TTO,Trinidad and Tobago,-3.6818571,-19.151846,,Latin America & Caribbean,1
+2020,TTO,TTO,Trinidad and Tobago,-2.6014626,-17.848679,,Latin America & Caribbean,1
+1960,TWN,TWN,"Taiwan, China",,,,East Asia & Pacific,0
+1965,TWN,TWN,"Taiwan, China",,,,East Asia & Pacific,0
+1970,TWN,TWN,"Taiwan, China",,,,East Asia & Pacific,0
+1975,TWN,TWN,"Taiwan, China",,,,East Asia & Pacific,0
+1980,TWN,TWN,"Taiwan, China",,,,East Asia & Pacific,0
+1985,TWN,TWN,"Taiwan, China",,,,East Asia & Pacific,0
+1990,TWN,TWN,"Taiwan, China",,,,East Asia & Pacific,0
+1995,TWN,TWN,"Taiwan, China",,,,East Asia & Pacific,0
+2000,TWN,TWN,"Taiwan, China",,,,East Asia & Pacific,0
+2005,TWN,TWN,"Taiwan, China",,,,East Asia & Pacific,0
+2010,TWN,TWN,"Taiwan, China",,,,East Asia & Pacific,1
+2015,TWN,TWN,"Taiwan, China",,,,East Asia & Pacific,1
+2020,TWN,TWN,"Taiwan, China",,,,East Asia & Pacific,1
+1960,URY,URY,Uruguay,-2.6979885,28.411556,,Latin America & Caribbean,0
+1965,URY,URY,Uruguay,-2.4380224,12.610102,,Latin America & Caribbean,0
+1970,URY,URY,Uruguay,-3.3612795,4.5377593,,Latin America & Caribbean,0
+1975,URY,URY,Uruguay,1.3153644,17.929039,,Latin America & Caribbean,0
+1980,URY,URY,Uruguay,-3.0664854,33.159378,,Latin America & Caribbean,0
+1985,URY,URY,Uruguay,1.144169,19.497974,,Latin America & Caribbean,0
+1990,URY,URY,Uruguay,3.5725143,-1.3232102,,Latin America & Caribbean,0
+1995,URY,URY,Uruguay,.55118489,-.58179033,,Latin America & Caribbean,0
+2000,URY,URY,Uruguay,-3.9745762,8.5704851,,Latin America & Caribbean,0
+2005,URY,URY,Uruguay,4.5550675,-32.145565,,Latin America & Caribbean,0
+2010,URY,URY,Uruguay,3.890178,-30.98777,,Latin America & Caribbean,1
+2015,URY,URY,Uruguay,-.082788914,-27.000778,,Latin America & Caribbean,1
+2020,URY,URY,Uruguay,.59266275,-32.677177,,Latin America & Caribbean,1
+1960,USA,USA,United States,-.42441723,28.529482,,North America,0
+1965,USA,USA,United States,-.32114697,29.171394,,North America,0
+1970,USA,USA,United States,-2.4172082,27.572279,,North America,0
+1975,USA,USA,United States,-.46161124,25.140799,,North America,0
+1980,USA,USA,United States,1.0223553,15.018641,,North America,0
+1985,USA,USA,United States,.66271716,11.778757,,North America,0
+1990,USA,USA,United States,1.0703419,-5.4193039,,North America,0
+1995,USA,USA,United States,.62833703,-10.067676,-.00073971896,North America,0
+2000,USA,USA,United States,-.61958903,-11.580814,-.00013600575,North America,0
+2005,USA,USA,United States,-.79742891,-23.645987,-.00046545218,North America,0
+2010,USA,USA,United States,.25138134,-29.988293,-.0011032125,North America,1
+2015,USA,USA,United States,.38596004,-25.798437,.00023051426,North America,1
+2020,USA,USA,United States,1.0203087,-30.710842,.0022138751,North America,1
+1970,VGB,VGB,,,,,Latin America & Caribbean,0
+1975,VGB,VGB,,,,,Latin America & Caribbean,0
+1980,VGB,VGB,,,,,Latin America & Caribbean,0
+1985,VGB,VGB,,,,,Latin America & Caribbean,0
+1990,VGB,VGB,,,,,Latin America & Caribbean,0
+1995,VGB,VGB,,,,,Latin America & Caribbean,0
+2000,VGB,VGB,,,,,Latin America & Caribbean,0
+2005,VGB,VGB,,,,,Latin America & Caribbean,0
+2010,VGB,VGB,,,,,Latin America & Caribbean,1
+2015,VGB,VGB,,,,,Latin America & Caribbean,1
+2020,VGB,VGB,,,,,Latin America & Caribbean,1
+1960,VIR,VIR,Virgin Islands (U.S.),,,,Latin America & Caribbean,0
+1965,VIR,VIR,Virgin Islands (U.S.),,,,Latin America & Caribbean,0
+1970,VIR,VIR,Virgin Islands (U.S.),,,,Latin America & Caribbean,0
+1975,VIR,VIR,Virgin Islands (U.S.),,,,Latin America & Caribbean,0
+1980,VIR,VIR,Virgin Islands (U.S.),,,,Latin America & Caribbean,0
+1985,VIR,VIR,Virgin Islands (U.S.),,,,Latin America & Caribbean,0
+1990,VIR,VIR,Virgin Islands (U.S.),,,,Latin America & Caribbean,0
+1995,VIR,VIR,Virgin Islands (U.S.),,,,Latin America & Caribbean,0
+2000,VIR,VIR,United States Virgin Islands,,,,Latin America & Caribbean,0
+2005,VIR,VIR,United States Virgin Islands,2.4698255,,,Latin America & Caribbean,0
+2010,VIR,VIR,United States Virgin Islands,-4.8218536,,,Latin America & Caribbean,1
+2015,VIR,VIR,United States Virgin Islands,1.1072024,,,Latin America & Caribbean,1
+2020,VIR,VIR,United States Virgin Islands,1.2448258,,,Latin America & Caribbean,1
